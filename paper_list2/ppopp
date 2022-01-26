@@ -1,0 +1,208 @@
+Proceedings of the 23rd ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, PPoPP 2018, Vienna, Austria, February 24-28, 2018. | 2018
+Interval-based memory reclamation. | 2018
+Harnessing epoch-based reclamation for efficient range queries. | 2018
+A persistent lock-free queue for non-volatile memory. | 2018
+Superneurons: dynamic GPU memory management for training deep neural networks. | 2018
+Juggler: a dependence-aware task-based execution framework for GPUs. | 2018
+HPVM: heterogeneous parallel virtual machine. | 2018
+Hierarchical memory management for mutable state. | 2018
+Bridging the gap between deep learning and sparse matrix format selection. | 2018
+Optimizing N-dimensional, winograd-based convolution for manycore CPUs. | 2018
+vSensor: leveraging fixed-workload snippets of programs for performance variance detection. | 2018
+Cache-tries: concurrent lock-free hash tries with constant-time operations. | 2018
+Featherlight on-the-fly false-sharing detection. | 2018
+Register optimizations for stencils on GPUs. | 2018
+FlashR: parallelize and scale R for machine learning using SSDs. | 2018
+DisCVar: discovering critical variables using algorithmic differentiation for transient faults. | 2018
+Practical concurrent traversals in search trees. | 2018
+Communication-avoiding parallel minimum cuts and connected components. | 2018
+Safe privatization in transactional memory. | 2018
+Making pull-based graph processing performant. | 2018
+An effective fusion and tile size model for optimizing image processing pipelines. | 2018
+Lazygraph: lazy data coherency for replicas in distributed graph-parallel computation. | 2018
+PAM: parallel augmented maps. | 2018
+Efficient shuffle management with SCache for DAG computing frameworks. | 2018
+High-performance genomic analysis framework with in-memory computing. | 2018
+Griffin: uniting CPU and GPU in information retrieval systems for intra-query parallelism. | 2018
+swSpTRSV: a fast sparse triangular solve with sparse level tile layout on sunway architectures. | 2018
+VerifiedFT: a verified, high-performance precise dynamic race detector. | 2018
+Efficient parallel determinacy race detection for two-dimensional dags. | 2018
+Performance challenges in modular parallel programs. | 2018
+Reducing the burden of parallel loop schedulers for many-core processors. | 2018
+Reducing transaction aborts by looking to the future. | 2018
+Strong trylocks for reader-writer locks. | 2018
+SecureMR: secure mapreduce using homomorphic encryption and program partitioning. | 2018
+A scalable distance-1 vertex coloring algorithm for power-law graphs. | 2018
+Shared-memory parallelization of MTTKRP for dense tensors. | 2018
+Revealing parallel scans and reductions in sequential loops through function reconstruction. | 2018
+Performance modeling for GPUs using abstract kernel emulation. | 2018
+Two concurrent data structures for efficient datalog query processing. | 2018
+A scalable queue for work distribution on GPUs. | 2018
+Designing scalable FPGA architectures using high-level synthesis. | 2018
+Layrub: layer-centric GPU memory reuse and data migration in extreme-scale deep learning systems. | 2018
+Register-based implementation of the sparse general matrix-matrix multiplication on GPUs. | 2018
+Quantifying and reducing execution variance in STM via model driven commit optimization. | 2018
+Transparent GPU memory management for DNNs. | 2018
+Stamp-it, amortized constant-time memory reclamation in comparison to five other schemes. | 2018
+A predictable synchronisation algorithm. | 2018
+Automated code acceleration targeting heterogeneous openCL devices. | 2018
+Graph partitioning applied to DAG scheduling to reduce NUMA effects. | 2018
+A microbenchmark to study GPU performance models. | 2018
+SIMD code generation for stencils on brick decompositions. | 2018
+Proceedings of the 24th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, PPoPP 2019, Washington, DC, USA, February 16-20, 2019. | 2019
+Beyond human-level accuracy: computational challenges in deep learning. | 2019
+S-EnKF: co-designing for scalable ensemble Kalman filter. | 2019
+Throughput-oriented GPU memory allocation. | 2019
+SEP-graph: finding shortest execution paths for graph processing under a hybrid framework on GPU. | 2019
+Incremental flattening for nested data parallelism. | 2019
+Adaptive sparse matrix-matrix multiplication on the GPU. | 2019
+Modular transactions: bounding mixed races in space and time. | 2019
+Leveraging hardware TM in Haskell. | 2019
+Stretching the capacity of hardware transactional memory in IBM POWER architectures. | 2019
+Processing transactions in a predefined order. | 2019
+Harmonia: a high throughput B+tree for GPUs. | 2019
+Engineering a high-performance GPU B-Tree. | 2019
+QTLS: high-performance TLS asynchronous offload framework with Intel® QuickAssist technology. | 2019
+Data-flow/dependence profiling for structured transformations. | 2019
+Lightweight hardware transactional memory profiling. | 2019
+A pattern based algorithmic autotuner for graph processing on GPUs. | 2019
+Provably and practically efficient granularity control. | 2019
+A coordinated tiling and batching framework for efficient GEMM on GPUs. | 2019
+Semantics-aware scheduling policies for synchronization determinism. | 2019
+Proactive work stealing for futures. | 2019
+A round-efficient distributed betweenness centrality algorithm. | 2019
+Corrected trees for reliable group communication. | 2019
+Adaptive sparse tiling for sparse matrix multiplication. | 2019
+Encapsulated open nesting for STM: fine-grained higher-level conflict detection. | 2019
+A specialized B-tree for concurrent datalog evaluation. | 2019
+Efficient race detection with futures. | 2019
+Verifying C11 programs operationally. | 2019
+Checking linearizability using hitting families. | 2019
+Transitive joins: a sound and efficient online deadlock-avoidance policy. | 2019
+VEBO: a vertex- and edge-balanced ordering heuristic to load balance parallel graph processing. | 2019
+GPOP: a cache and memory-efficient framework for graph processing over partitions. | 2019
+Optimizing graph processing on GPUs using approximate computing: poster. | 2019
+A GPU memory efficient speed-up scheme for training ultra-deep neural networks: poster. | 2019
+Profiling based out-of-core hybrid method for large neural networks: poster. | 2019
+Exploiting the input sparsity to accelerate deep neural networks: poster. | 2019
+Accelerating distributed stochastic gradient descent with adaptive periodic parameter averaging: poster. | 2019
+Optimizing GPU programs by register demotion: poster. | 2019
+A distributed hypervisor for resource aggregation: poster. | 2019
+Scheduling HPC workloads on heterogeneous-ISA architectures: poster. | 2019
+T-thinker: a task-centric distributed framework for compute-intensive divide-and-conquer algorithms. | 2019
+Toward efficient architecture-independent algorithms for dynamic programs: poster. | 2019
+Optimizing computation-communication overlap in asynchronous task-based programs: poster. | 2019
+Lock-free channels for programming via communicating sequential processes: poster. | 2019
+Making concurrent algorithms detectable: poster. | 2019
+GPU-based 3D cryo-EM reconstruction with key-value streams: poster. | 2019
+BASMAT: bottleneck-aware sparse matrix-vector multiplication auto-tuning on GPGPUs. | 2019
+LOFT: lock-free transactional data structures. | 2019
+Automated multi-dimensional elasticity for streaming runtimes: poster. | 2019
+Compiler-assisted adaptive program scheduling in big.LITTLE systems: poster. | 2019
+GOPipe: a granularity-oblivious programming framework for pipelined stencil executions on GPU. | 2019
+High-throughput image alignment for connectomics using frugal snap judgments: poster. | 2019
+CuLDA_CGS: solving large-scale LDA problems on GPUs. | 2019
+Managing application parallelism via parallel efficiency regulation: poster. | 2019
+Blockchain abstract data type: poster. | 2019
+Creating repeatable, reusable experimentation pipelines with popper: tutorial. | 2019
+Building parallel programming language constructs in the AbleC extensible C compiler framework: a PPoPP tutorial. | 2019
+Implementing parallel and concurrent tree structures. | 2019
+Programming quantum computers: a primer with IBM Q and D-Wave exercises. | 2019
+High performance distributed deep learning: a beginner's guide. | 2019
+Performance portable C++ programming with RAJA. | 2019
+PPoPP '20: 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, San Diego, California, USA, February 22-26, 2020. | 2020
+Kite: efficient and available release consistency for the datacenter. | 2020
+Oak: a scalable off-heap allocated key-value map. | 2020
+Optimizing batched Winograd convolution on GPUs. | 2020
+Taming unbalanced training workloads in deep learning with partial collective operations. | 2020
+Scalable top-k retrieval with Sparta. | 2020
+waveSZ: a hardware-algorithm co-design of efficient lossy compression for scientific data. | 2020
+Scaling concurrent queues by using HTM to profit from failed atomic operations. | 2020
+A wait-free universal construction for large objects. | 2020
+Fast concurrent data sketches. | 2020
+Universal wait-free memory reclamation. | 2020
+Using sample-based time series data for automated diagnosis of scalability losses in parallel programs. | 2020
+Scaling out speculative execution of finite-state machines with parallel merge. | 2020
+On the fly MHP analysis. | 2020
+Detecting and reproducing error-code propagation bugs in MPI implementations. | 2020
+Parallel and distributed bounded model checking of multi-threaded programs. | 2020
+Parallel determinacy race detection for futures. | 2020
+Practical parallel hypergraph algorithms. | 2020
+A supernodal all-pairs shortest path algorithm. | 2020
+Increasing the parallelism of graph coloring via shortcutting. | 2020
+Non-blocking interpolation search trees with doubly-logarithmic running time. | 2020
+YewPar: skeletons for exact combinatorial search. | 2020
+XIndex: a scalable learned index for multicore data storage. | 2020
+Overlapping host-to-device copy and computation using hidden unified memory. | 2020
+<u>G</u>PU <u>i</u>nitiated <u>O</u>penSHMEM: correct and efficient intra-kernel networking for dGPUs. | 2020
+No barrier in the road: a comprehensive study and optimization of ARM barriers. | 2020
+spECK: accelerating GPU sparse matrix-matrix multiplication through lightweight analysis. | 2020
+A novel data transformation and execution strategy for accelerating sparse matrix multiplication on GPUs. | 2020
+MatRox: modular approach for improving data locality in hierarchical (Mat)rix App(Rox)imation. | 2020
+A parallel sparse tensor benchmark suite on CPUs and GPUs. | 2020
+Nesting and composition in transactional data structure libraries. | 2020
+ELDA: LDA made efficient via algorithm-system codesign submission. | 2020
+Identifying scalability bottlenecks for large-scale parallel programs with graph analysis. | 2020
+Revisiting linpack algorithm on large-scale CPU-GPU heterogeneous systems. | 2020
+Neighbor-list-free molecular dynamics on sunway TaihuLight supercomputer. | 2020
+A tool for top-down performance analysis of GPU-accelerated applications. | 2020
+Functional faults. | 2020
+Breaking master-slave model between host and FPGAs. | 2020
+Understanding and optimizing persistent memory allocation. | 2020
+Testing concurrency on the JVM with lincheck. | 2020
+ArcherGear: data race equivalencing for expeditious HPC debugging. | 2020
+Reflector: a fine-grained I/O tracker for HPC systems. | 2020
+Nonblocking persistent software transactional memory. | 2020
+Optimizing GPU programs by partial evaluation. | 2020
+Restricted memory-friendly lock-free bounded queues. | 2020
+Understand the overheads of storage data structures on persistent memory. | 2020
+PLUM: static parallel program locality analysis under uniform multiplexing. | 2020
+PPoPP '21: 26th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming, Virtual Event, Republic of Korea, February 27- March 3, 2021. | 2021
+Efficient algorithms for persistent transactional memory. | 2021
+Investigating the semantics of futures in transactional memory systems. | 2021
+Constant-time snapshots with applications to concurrent data structures. | 2021
+Reasoning about recursive tree traversals. | 2021
+Synthesizing optimal collective algorithms. | 2021
+Parallel binary code analysis. | 2021
+Compiler support for near data computing. | 2021
+Scaling implicit parallelism via dynamic control replication. | 2021
+Understanding and bridging the gaps in current GNN performance optimizations. | 2021
+A fast work-efficient SSSP algorithm for GPUs. | 2021
+ShadowVM: accelerating data plane for data analytics with bare metal CPUs and GPUs. | 2021
+BiPart: a parallel and deterministic hypergraph partitioner. | 2021
+NBR: neutralization based reclamation. | 2021
+Efficiently reclaiming memory in concurrent search data structures while bounding wasted memory. | 2021
+OrcGC: automatic lock-free memory reclamation. | 2021
+Are dynamic memory managers on GPUs slow?: a survey and benchmarks. | 2021
+GPTune: multitask learning for autotuning exascale applications. | 2021
+I/O lower bounds for auto-tuning of convolutions in CNNs. | 2021
+ApproxTuner: a compiler and runtime system for adaptive approximations. | 2021
+EGEMM-TC: accelerating scientific computing on tensor cores with extended precision. | 2021
+Efficiently running SpMV on long vector architectures. | 2021
+Improving communication by optimizing on-node data movement with data layout. | 2021
+Sparta: high-performance, element-wise sparse tensor contraction on heterogeneous memory. | 2021
+Advanced synchronization techniques for task-based runtime systems. | 2021
+An ownership policy and deadlock detector for promises. | 2021
+Understanding a program's resiliency through error propagation. | 2021
+Lightweight preemptive user-level threads. | 2021
+TurboTransformers: an efficient GPU serving system for transformer models. | 2021
+Extracting clean performance models from tainted programs. | 2021
+Modernizing parallel code with pattern analysis. | 2021
+DAPPLE: a pipelined data parallel approach for training large models. | 2021
+On group mutual exclusion for dynamic systems. | 2021
+Bundled references: an abstraction for highly-concurrent linearizable range queries. | 2021
+Verifying C11-style weak memory libraries. | 2021
+A lock-free relaxed concurrent queue for fast work distribution. | 2021
+A more pragmatic implementation of the lock-free, ordered, linked list. | 2021
+Extending MapReduce framework with locality keys. | 2021
+On the parallel I/O optimality of linear algebra kernels: near-optimal LU factorization. | 2021
+Asynchrony versus bulk-synchrony for a generalized N-body problem from genomics. | 2021
+In-situ workflow auto-tuning through combining component models. | 2021
+Simplifying low-level GPU programming with GAS. | 2021
+Corder: cache-aware reordering for optimizing graph analytics. | 2021
+DFOGraph: an I/O- and communication-efficient system for distributed fully-out-of-core graph processing. | 2021
+An efficient uncertain graph processing framework for heterogeneous architectures. | 2021
+Dynamic scaling for low-precision learning. | 2021
+Exploring deep reuse in winograd CNN inference. | 2021
+A novel memory-efficient deep learning training framework via error-bounded lossy compression. | 2021
+FFT blitz: the tensor cores strike back. | 2021

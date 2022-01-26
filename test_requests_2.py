@@ -16,7 +16,7 @@ n_pages = 50
 #test
 pat = re.compile('20[0-9][0-9]')
 
-for (key_id, key_word) in enumerate(key_words[:1]):
+for (key_id, key_word) in enumerate(key_words[:]):
     key_word = key_word.lower()
     f = open('paper_list2/%s' % key_word, 'w')
 
@@ -29,7 +29,7 @@ for (key_id, key_word) in enumerate(key_words[:1]):
         content_list = tree.xpath('//span[@class="title"]/../../li[@class="drop-down"][0]/a/@href')
         #content_list = tree.xpath('//span[@class="title"]/../a[@toc-link]/@href')
         for (ind, res) in enumerate(res_list):
-            print(res.text_content())
+            f.write('%s | %s\n' % (res.text_content(), year))
             #content = res.text_content()
             #res = pat.findall(content)
             #if res and int(res[0]) >= 2018:
@@ -38,6 +38,6 @@ for (key_id, key_word) in enumerate(key_words[:1]):
     #    abs = abs_list[ind].text_content().replace('\n', ' ')
     #    print('key_id = %d, key_word = %s, page_id = %d, title = %s' % (key_id, key_word, page_id, content))
     #    f.write('%s | %s | %s\n' % (content, ref_list[ind].text_content(), abs))
-    #time.sleep(random.random() + 3)
+        time.sleep(random.random() + 3)
     f.close()
 driver.quit()

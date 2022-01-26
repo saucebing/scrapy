@@ -1,0 +1,372 @@
+Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis, SC 2018, Dallas, TX, USA, November 11-16, 2018. | 2018
+SP-cache: load-balanced, redundancy-free cluster caching with selective partition. | 2018
+bespoKV: application tailored scale-out key-value stores. | 2018
+Scaling embedded in-situ indexing with deltaFS. | 2018
+Exploiting idle resources in a high-radix switch for supplemental storage. | 2018
+Fine-grained, multi-domain network resource abstraction as a fundamental primitive to enable high-performance, collaborative data sciences. | 2018
+Light-weight protocols for wire-speed ordering. | 2018
+GPU age-aware scheduling to improve the reliability of leadership jobs on Titan. | 2018
+FlipTracker: understanding natural error resilience in HPC applications. | 2018
+Doomsday: predicting which node will fail when on supercomputers. | 2018
+Extreme scale de novo metagenome assembly. | 2018
+Optimizing high performance distributed memory parallel hash tables for DNA k-mer counting. | 2018
+Redesigning LAMMPS for peta-scale and hundred-billion-atom simulation on Sunway TaihuLight. | 2018
+Large-scale hierarchical k-means for heterogeneous many-core supercomputers. | 2018
+TriCore: parallel triangle counting on GPUs. | 2018
+Distributed-memory hierarchical compression of dense SPD matrices. | 2018
+A parallelism profiler with what-if analyses for OpenMP programs. | 2018
+Energy efficiency modeling of parallel applications. | 2018
+HPL and DGEMM performance variability on the Xeon Platinum 8160 processor. | 2018
+HiCOO: hierarchical storage of sparse tensors. | 2018
+Distributed memory sparse inverse covariance matrix estimation on high-performance computing architectures. | 2018
+PruneJuice: pruning trillion-edge graphs to a precise pattern-matching solution. | 2018
+Many-core graph workload analysis. | 2018
+Lessons learned from analyzing dynamic promotion for user-level threading. | 2018
+Topology-aware space-shared co-analysis of large-scale molecular dynamics simulations. | 2018
+RM-replay: a high-fidelity tuning, optimization and exploration tool for resource management. | 2018
+Evaluation of an interference-free node allocation policy on fat-tree clusters. | 2018
+Mitigating inter-job interference using adaptive flow-aware routing. | 2018
+Cooperative rendezvous protocols for improved performance and overlap. | 2018
+Framework for scalable intra-node collective operations using shared memory. | 2018
+Characterization of MPI usage on a production supercomputer. | 2018
+Runtime data management on non-volatile memory-based heterogeneous memory for task-parallel programs. | 2018
+DRAGON: breaking GPU memory capacity limits with direct NVM access. | 2018
+Siena: exploring the design space of heterogeneous memory systems. | 2018
+Dynamic tracing: memoization of task graphs for dynamic task-based runtimes. | 2018
+Runtime-assisted cache coherence deactivation in task parallel programs. | 2018
+A divide and conquer algorithm for DAG scheduling under power constraints. | 2018
+A reference architecture for datacenter scheduling: design, validation, and experiments. | 2018
+Dynamically negotiating capacity between on-demand and batch clusters. | 2018
+A lightweight model for right-sizing master-worker applications. | 2018
+Simulating the Wenchuan earthquake with accurate surface topography on Sunway TaihuLight. | 2018
+Accelerating quantum chemistry with vectorized and batched integrals. | 2018
+High-performance dense tucker decomposition on GPU clusters. | 2018
+Lessons learned from memory errors observed over the lifetime of Cielo. | 2018
+Partial redundancy in HPC systems with non-uniform node reliabilities. | 2018
+Evaluating and accelerating high-fidelity error injection for HPC. | 2018
+Associative instruction reordering to alleviate register pressure. | 2018
+Harnessing GPU tensor cores for fast FP16 arithmetic to speed up mixed-precision iterative refinement solvers. | 2018
+ADAPT: algorithmic differentiation applied to floating-point precision tuning. | 2018
+A fast scalable implicit solver for nonlinear time-evolution earthquake city problem on low-ordered unstructured finite elements with artificial intelligence and transprecision computing. | 2018
+167-PFlops deep learning for electron microscopy: from learning physics to atomic manipulation. | 2018
+Exascale deep learning for climate analytics. | 2018
+The design, deployment, and evaluation of the CORAL pre-exascale systems. | 2018
+Best practices and lessons from deploying and operating a sustained-petascale system: the blue waters experience. | 2018
+Performance evaluation of a vector supercomputer SX-aurora TSUBASA. | 2018
+Simulating the weak death of the Neutron in a femtoscale universe with near-exascale computing. | 2018
+ShenTu: processing multi-trillion edge graphs on millions of cores in seconds. | 2018
+Attacking the opioid epidemic: determining the epistatic and pleiotropic genetic architectures for chronic pain and opioid addiction. | 2018
+iSpan: parallel identification of strongly connected components with spanning trees. | 2018
+Adaptive anonymization of data using b-edge cover. | 2018
+faimGraph: high performance management of fully-dynamic graphs under tight memory constraints on the GPU. | 2018
+Dynamic data race detection for OpenMP programs. | 2018
+ParSy: inspection and transformation of sparse matrix computations for parallelism. | 2018
+Detecting MPI usage anomalies via partial program symbolic execution. | 2018
+Exploring flexible communications for streamlining DNN ensemble training pipelines. | 2018
+CosmoFlow: using deep learning to learn the universe at scale. | 2018
+Anatomy of high-performance deep learning convolutions on SIMD architectures. | 2018
+Optimizing software-directed instruction replication for GPU error detection. | 2018
+Fault tolerant one-sided matrix decompositions on heterogeneous systems with GPUs. | 2018
+PRISM: predicting resilience of GPU applications using statistical methods. | 2018
+Phase asynchronous AMR execution for productive and performant astrophysical flows. | 2018
+Computing planetary interior normal modes with a highly parallel polynomial filtering eigensolver. | 2018
+Dac-Man: data change management for scientific datasets on HPC systems. | 2018
+Stacker: an autonomic data movement engine for extreme-scale data staging-based in-situ workflows. | 2018
+A year in the life of a parallel file system. | 2018
+Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, SC 2019, Denver, Colorado, USA, November 17-19, 2019. | 2019
+A data-centric approach to extreme-scale ab initio dissipative quantum transport simulations. | 2019
+Fast, scalable and accurate finite-element based ab initio calculations using mixed precision computing: 46 PFLOPS simulation of a metallic dislocation system. | 2019
+GraphM: an efficient storage system for high throughput of concurrent graph processing. | 2019
+Semantic query transformations for increased parallelization in distributed knowledge graph query processing. | 2019
+MIQS: metadata indexing and querying service for self-describing file formats. | 2019
+Scalable simulation of realistic volume fraction red blood cell flows through vascular networks. | 2019
+Adaptive neural network-based approximation to accelerate eulerian fluid simulation. | 2019
+GPU acceleration of extreme scale pseudo-spectral simulations of turbulence using asynchronism. | 2019
+Large-batch training for LSTM and beyond. | 2019
+Channel and filter parallelism for large-scale CNN training. | 2019
+SparCML: high-performance sparse communication for machine learning. | 2019
+Spread-n-share: improving application performance and cluster throughput with resource-aware job placement. | 2019
+Swift machine learning model serving scheduling: a region based reinforcement learning approach. | 2019
+Slack squeeze coded computing for adaptive straggler mitigation. | 2019
+Practical and efficient incremental adaptive routing for HyperX networks. | 2019
+Mitigating network noise on Dragonfly networks through application-aware routing. | 2019
+Topology-custom UGAL routing on dragonfly. | 2019
+ComDetective: a lightweight communication detection tool for threads. | 2019
+Pinpointing performance inefficiencies via lightweight variance profiling. | 2019
+Hatchet: pruning the overgrowth in parallel profiles. | 2019
+Diogenes: looking for an honest CPU/GPU performance measurement tool. | 2019
+D2P: from recursive formulations to distributed-memory codes. | 2019
+Legate NumPy: accelerated and distributed array computing. | 2019
+Red-blue pebbling revisited: near optimal parallel matrix-matrix multiplication. | 2019
+AutoFFT: a template-based FFT codes auto-generation framework for ARM and X86 CPUs. | 2019
+SLATE: design of a modern distributed and accelerated linear algebra library. | 2019
+Uncore power scavenger: a runtime for uncore power conservation on HPC systems. | 2019
+PoDD: power-capping dependent distributed applications. | 2019
+Etalumis: bringing probabilistic programming to scientific simulators at scale. | 2019
+Predicting faults in high performance computing systems: an in-depth survey of the state-of-the-practice. | 2019
+A large-scale study of MPI usage in open-source HPC applications. | 2019
+Preparation and optimization of a diverse workload for a large-scale heterogeneous system. | 2019
+Significantly improving lossy compression quality based on an optimized hybrid prediction model. | 2019
+Moment representation in the lattice Boltzmann method on massively parallel hardware. | 2019
+Slim graph: practical lossy graph compression for approximate graph processing, storage, and analytics. | 2019
+PruneTrain: fast neural network training by dynamic sparse model reconfiguration. | 2019
+Scalable reinforcement-learning-based neural architecture search for cancer deep learning research. | 2019
+BSTC: a novel binarized-soft-tensor-core design for accelerating bit-based approximated neural nets. | 2019
+An evaluation of the CORAL interconnects. | 2019
+HyperX topology: first at-scale implementation and comparison to the fat-tree. | 2019
+Bandwidth steering in HPC using silicon nanophotonics. | 2019
+GPCNeT: designing a benchmark suite for inducing and measuring contention in HPC networks. | 2019
+Understanding congestion in high performance interconnection networks using sampling. | 2019
+TriEC: tripartite graph based erasure coding NIC offload. | 2019
+A constraint-based approach to automatic data partitioning for distributed memory execution. | 2019
+Understanding priority-based scheduling of graph algorithms on a shared-memory platform. | 2019
+Almost deterministic work stealing. | 2019
+Conflict-free symmetric sparse matrix-vector multiplication on multicore architectures. | 2019
+An efficient mixed-mode representation of sparse tensors. | 2019
+Regularizing irregularly sparse point-to-point communications. | 2019
+Compiler assisted hybrid implicit and explicit GPU memory management under unified address space. | 2019
+Exploiting reuse and vectorization in blocked stencil computations on CPUs and GPUs. | 2019
+A versatile software systolic execution model for GPU memory-bound kernels. | 2019
+INCA: in-network compute assistance. | 2019
+Near-memory data transformation for efficient sparse matrix multi-vector multiplication. | 2019
+Network-accelerated non-contiguous memory transfers. | 2019
+A massively parallel infrastructure for adaptive multiscale simulations: modeling RAS initiation pathway for cancer. | 2019
+CARE: compiler-assisted recovery from soft failures. | 2019
+Code generation for massively parallel phase-field simulations. | 2019
+Local-global merge tree computation with local exchanges. | 2019
+Solving PDEs in space-time: 4D tree-based adaptivity, mesh-free and matrix-free approaches. | 2019
+From piz daint to the stars: simulation of stellar mergers using high-level abstractions. | 2019
+End-to-end I/O portfolio for the summit supercomputing ecosystem. | 2019
+From facility to application sensor data: modular, continuous and holistic monitoring with DCDB. | 2019
+Revisiting I/O behavior in large-scale storage systems: the expected and the unexpected. | 2019
+SW_GROMACS: accelerate GROMACS on Sunway TaihuLight. | 2019
+Fully integrated FPGA molecular dynamics simulations. | 2019
+OpenKMC: a KMC design for hundred-billion-atom simulation using millions of cores on Sunway Taihulight. | 2019
+BinFI: an efficient fault injector for safety-critical machine learning systems. | 2019
+Assessing the impact of timing errors on HPC applications. | 2019
+FT-iSort: efficient fault tolerance for introsort. | 2019
+Distributed enhanced suffix arrays: efficient algorithms for construction and querying. | 2019
+Scalable generation of graphs for benchmarking HPC community-detection algorithms. | 2019
+Analytical cache modeling and tilesize optimization for tensor contractions. | 2019
+SSD failures in the field: symptoms, causes, and prediction models. | 2019
+An early evaluation of Intel's optane DC persistent memory module and its impact on high-performance scientific applications. | 2019
+Performance optimality or reproducibility: that is the question. | 2019
+Optimizing the data movement in quantum transport simulations via data-centric parallel programming. | 2019
+Parallel transport time-dependent density functional theory calculations with hybrid functional on summit. | 2019
+Full-state quantum circuit simulation by using data compression. | 2019
+Stateful dataflow multigraphs: a data-centric model for performance portability on heterogeneous architectures. | 2019
+Streaming message interface: high-performance distributed memory programming on reconfigurable hardware. | 2019
+High performance Monte Carlo simulation of ising model on TPU clusters. | 2019
+iFDK: a scalable framework for instant high-resolution image reconstruction. | 2019
+MemXCT: memory-centric X-ray CT reconstruction with massive parallelization. | 2019
+Consensus equilibrium framework for super-resolution and extreme-scale CT reconstruction. | 2019
+Addressing data resiliency for staging based scientific workflows. | 2019
+LPCC: hierarchical persistent client caching for lustre. | 2019
+Replication is more efficient than you think. | 2019
+Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis, SC 2020, Virtual Event / Atlanta, Georgia, USA, November 9-19, 2020. | 2020
+A 1024-member ensemble data assimilation with 3.5-km mesh global weather simulations. | 2020
+Processing full-scale square kilometre array data on the summit supercomputer. | 2020
+Toward realization of numerical towing-tank tests by wall-resolved large eddy simulation based on 32 billion grid finite-element computation. | 2020
+Accelerating large-scale excited-state GW calculations on leadership HPC systems. | 2020
+Pushing the limit of molecular dynamics with ab initio accuracy to 100 million atoms with machine learning. | 2020
+Scalable knowledge graph analytics at 136 petaflop/s. | 2020
+A parallel framework for constraint-based bayesian network learning via markov blanket discovery. | 2020
+Recurrent neural network architecture search for geophysical emulation. | 2020
+MeshfreeFlowNet: a physics-constrained deep continuous space-time super-resolution framework. | 2020
+Improving all-to-many personalized communication in two-phase I/O. | 2020
+Taming I/O variation on QoS-less HPC storage: what can applications do? | 2020
+BORA: a bag optimizer for robotic analysis. | 2020
+Density matrix quantum circuit simulation via the BSP machine on modern GPU clusters. | 2020
+Efficient 2D tensor network simulation of quantum systems. | 2020
+Veritas: accurately estimating the correct output on noisy intermediate-scale quantum computers. | 2020
+Accelerating sparse DNN models without hardware-support via tile-wise sparsity. | 2020
+Sparse GPU kernels for deep learning. | 2020
+SpTFS: sparse tensor format selection for MTTKRP via deep learning. | 2020
+Scaling distributed deep learning workloads beyond the memory capacity with KARMA. | 2020
+ZeRO: memory optimizations toward training trillion parameter models. | 2020
+Kraken: memory-efficient continual learning for large-scale real-time recommendations. | 2020
+Cell-list based molecular dynamics on many-core processors: a case study on sunway TaihuLight supercomputer. | 2020
+Evaluation of a minimally synchronous algorithm for 2: 1 octree balance. | 2020
+Distributed-memory DMRG via sparse and dense parallel tensor contractions. | 2020
+TAGO: rethinking routing design in high performance reconfigurable networks. | 2020
+Architecture and performance studies of 3D-Hyper-FleX-LION for reconfigurable all-to-all HPC networks. | 2020
+FatPaths: routing in supercomputers and data centers when shortest paths fall short. | 2020
+ScalAna: automating scaling loss detection with graph analysis. | 2020
+ZeroSpy: exploring software inefficiency with redundant zeros. | 2020
+DrCCTProf: a fine-grained call path profiler for ARM-based clusters. | 2020
+RLScheduler: an automated HPC batch job scheduler using reinforcement learning. | 2020
+Alita: comprehensive performance isolation through bias resource management for public clouds. | 2020
+HPC I/O throughput bottleneck analysis with explainable local models. | 2020
+A hierarchical and load-aware design for large message neighborhood collectives. | 2020
+An in-depth analysis of the slingshot interconnect. | 2020
+CAB-MPI: exploring interprocess work-stealing towards balanced MPI communication. | 2020
+Petascale XCT: 3D image reconstruction with hierarchical communications on multi-GPU nodes. | 2020
+Multi-node multi-GPU diffeomorphic image registration for large-scale imaging problems. | 2020
+SegAlign: a scalable GPU-based whole genome aligner. | 2020
+TOSS-2020: a commodity software stack for HPC. | 2020
+GPU lifetimes on titan supercomputer: survival analysis and reliability. | 2020
+Iris: allocation banking and identity and access management for the exascale era. | 2020
+Optimizing deep learning recommender systems training on CPU cluster architectures. | 2020
+Herring: rethinking the parameter server at scale for the cloud. | 2020
+GEMS: GPU-enabled memory-aware model-parallelism system for distributed DNN training. | 2020
+Experimental evaluation of NISQ quantum computers: error measurement, characterization, and implications. | 2020
+Co-design for A64FX manycore processor and "Fugaku". | 2020
+Chronicles of astra: challenges and lessons from the first petascale arm supercomputer. | 2020
+pLiner: isolating lines of floating-point code for compiler-induced variability. | 2020
+Tuning floating-point precision using dynamic program information and temporal locality. | 2020
+Scalable yet rigorous floating-point error analysis. | 2020
+RDMP-KV: designing remote direct memory persistence based key-value stores with PMEM. | 2020
+Compiler-based timing for extremely fine-grain preemptive parallelism. | 2020
+OMPRacer: a scalable and precise static race detector for OpenMP programs. | 2020
+Preempt: scalable epidemic interventions using submodular optimization on multi-GPU systems. | 2020
+C-SAW: a framework for graph sampling and random walk on GPUs. | 2020
+Newton-ADMM: a distributed GPU-accelerated optimizer for multiclass classification problems. | 2020
+Fast stencil-code computation on a wafer-scale processor. | 2020
+fBLAS: streaming linear algebra on FPGA. | 2020
+Massive parallelization for finding shortest lattice vectors based on ubiquity generator framework. | 2020
+Cost-aware prediction of uncorrected DRAM errors in the field. | 2020
+Task bench: a parameterized benchmark for evaluating parallel runtime performance. | 2020
+Smart-PGSim: using neural network to accelerate AC-OPF power grid simulation. | 2020
+SEFEE: lightweight storage error forecasting in large-scale enterprise storage systems. | 2020
+Live forensics for HPC systems: a case study on distributed storage systems. | 2020
+INEC: fast and coherent in-network erasure coding. | 2020
+Waiting game: optimally provisioning fixed resources for cloud-enabled schedulers. | 2020
+Metis: learning to schedule long-running applications in shared container clusters at scale. | 2020
+Batch: machine learning inference serving on serverless platforms with adaptive batching. | 2020
+Reducing communication in graph neural network training. | 2020
+FeatGraph: a flexible and efficient backend for graph neural network systems. | 2020
+GE-SpMM: general-purpose sparse matrix-matrix multiplication on GPUs for graph neural networks. | 2020
+Alias-free, matrix-free, and quadrature-free discontinuous galerkin algorithms for (plasma) kinetic equations. | 2020
+Distributed-memory parallel symmetric nonnegative matrix factorization. | 2020
+Distributed many-to-many protein sequence alignment using sparse matrices. | 2020
+Runtime-guided ECC protection using online estimation of memory vulnerability. | 2020
+CRAC: checkpoint-restart architecture for CUDA with streams and UVM. | 2020
+ANT-man: towards agile power management in the microservice era. | 2020
+Scalable heterogeneous execution of a coupled-cluster model with perturbative triples. | 2020
+A submatrix-based method for approximate matrix function evaluation in the quantum chemistry code CP2K. | 2020
+Scaling the hartree-fock matrix build on summit. | 2020
+MoHA: a composable system for efficient in-situ analytics on heterogeneous HPC systems. | 2020
+Foresight: analysis that matters for data reduction. | 2020
+Job characteristics on large-scale systems: long-term analysis, quantification, and implications. | 2020
+Pencil: a pipelined algorithm for distributed stencils. | 2020
+Speeding up SpMV for power-law graph analytics by enhancing locality & vectorization. | 2020
+Efficient tiled sparse matrix multiplication through matrix signatures. | 2020
+GPU-trident: efficient modeling of error propagation in GPU programs. | 2020
+GVProf: a value profiler for GPU-based clusters. | 2020
+An efficient and non-intrusive GPU scheduling framework for deep learning training systems. | 2020
+Preparing nuclear astrophysics for exascale. | 2020
+A performance-portable nonhydrostatic atmospheric dycore for the energy exascale earth system model running at cloud-resolving resolutions. | 2020
+Acceleration of fusion plasma turbulence simulations using the mixed-precision communication-avoiding krylov method. | 2020
+Convolutional neural network training with distributed K-FAC. | 2020
+BiQGEMM: matrix multiplication with lookup table for binary-coding-based quantized DNNs. | 2020
+Term quantization: furthering quantization at run time. | 2020
+Compiling generalized histograms for GPU. | 2020
+CCAMP: an integrated translation and optimization framework for OpenACC and OpenMP. | 2020
+High-performance parallel graph coloring with strong guarantees on work, depth, and quality. | 2020
+GraphPi: high performance graph pattern matching through effective redundancy elimination. | 2020
+Rocket: efficient and scalable all-pairs computations on heterogeneous platforms. | 2020
+SC '21: The International Conference for High Performance Computing, Networking, Storage and Analysis, St. Louis, Missouri, USA, November 14 - 19, 2021. | 2021
+Anton 3: twenty microseconds of molecular dynamics simulation before lunch. | 2021
+Symplectic structure-preserving particle-in-cell whole-volume simulation of tokamak plasmas to 111.3 trillion particles and 25.7 billion grids. | 2021
+Closing the "quantum supremacy" gap: achieving real-time simulation of a random quantum circuit using a new Sunway supercomputer. | 2021
+Billion atom molecular dynamics simulations of carbon at extreme conditions and experimental time and length scales. | 2021
+A 400 trillion-grid Vlasov simulation on Fugaku supercomputer: large-scale distribution of cosmic relic neutrinos in a six-dimensional phase space. | 2021
+Extreme-scale ab initio quantum raman spectra simulations on the leadership HPC system in China. | 2021
+Accelerating large scale de novo metagenome assembly using GPUs. | 2021
+FastZ: accelerating gapped whole genome alignment on GPUs. | 2021
+Scalable FBP decomposition for cone-beam CT reconstruction. | 2021
+Generalizable coordination of large multiscale workflows: challenges and learnings at scale. | 2021
+Linux vs. lightweight multi-kernels for high performance computing: experiences at pre-exascale. | 2021
+Revealing power, energy and thermal dynamics of a 200PF pre-exascale supercomputer. | 2021
+KAISA: an adaptive second-order optimizer framework for deep neural networks. | 2021
+Tensor processing primitives: a programming abstraction for efficiency and portability in deep learning workloads. | 2021
+Enable simultaneous DNN services based on deterministic operator overlap and precise latency prediction. | 2021
+Distributed quantum computing with QMPI. | 2021
+BAASH: lightweight, efficient, and reliable blockchain-as-a-service for HPC systems. | 2021
+Representation of women in HPC conferences. | 2021
+Preparing an incompressible-flow fluid dynamics code for exascale-class wind energy simulations. | 2021
+Scalable adaptive PDE solvers in arbitrary domains. | 2021
+A next-generation discontinuous galerkin fluid dynamics solver with application to high-resolution lung airflow simulations. | 2021
+Understanding, predicting and scheduling serverless workloads under partial interference. | 2021
+The hidden cost of the edge: a performance comparison of edge and cloud latencies. | 2021
+RIBBON: cost-effective and qos-aware deep learning model inference using a diverse pool of cloud computing instances. | 2021
+E.T.: re-thinking self-attention for transformer models on GPUs. | 2021
+Parallel construction of module networks. | 2021
+Chimera: efficiently training large-scale neural networks with bidirectional pipelines. | 2021
+Bootstrapping in-situ workflow auto-tuning via combining performance models of component applications. | 2021
+Meeting the real-time challenges of ground-based telescopes using low-rank matrix computations. | 2021
+AgEBO-tabular: joint neural architecture and hyperparameter search with autotuned data-parallel training for tabular data. | 2021
+Non-recurring engineering (NRE) best practices: a case study with the NERSC/NVIDIA OpenMP contract. | 2021
+Minimizing privilege for building HPC containers. | 2021
+Systematically inferring I/O performance variability by examining repetitive job behavior. | 2021
+SEEC: stochastic escape express channel. | 2021
+Flare: flexible in-network allreduce. | 2021
+HatRPC: hint-accelerated thrift RPC over RDMA. | 2021
+APNN-TC: accelerating arbitrary precision neural networks on ampere GPU tensor cores. | 2021
+Scalable edge-based hyperdimensional learning system with brain-like neural adaptation. | 2021
+Dr. Top-k: delegate-centric Top-k on GPUs. | 2021
+Enabling large-scale correlated electronic structure calculations: scaling the RI-MP2 method on summit. | 2021
+Accelerating all-electron ab initio simulation of raman spectra for biological systems. | 2021
+LMFF: efficient and scalable layered materials force field on heterogeneous many-core processors. | 2021
+Hardware acceleration of tensor-structured multilevel ewald summation method on MDGRAPE-4A, a special-purpose computer system for molecular dynamics simulations. | 2021
+Accelerating bandwidth-bound deep learning inference with main-memory accelerators. | 2021
+LCCG: a locality-centric hardware accelerator for high throughput of concurrent graph processing. | 2021
+Simurgh: a fully decentralized and secure NVMM user space file system. | 2021
+Lunule: an agile and judicious metadata load balancer for CephFS. | 2021
+DeltaFS: a scalable no-ground-truth filesystem for massively-parallel computing. | 2021
+Distributed multigrid neural solvers on megavoxel domains. | 2021
+EIGA: elastic and scalable dynamic graph analysis. | 2021
+Krill: a compiler and runtime system for concurrent graph processing. | 2021
+Pilgrim: scalable and (near) lossless MPI tracing. | 2021
+Hybrid, scalable, trace-driven performance modeling of GPGPUs. | 2021
+G-SEPM: building an accurate and efficient soft error prediction model for GPGPUs. | 2021
+Single-node partitioned-memory for huge graph analytics: cost and performance trade-offs. | 2021
+Accelerating applications using edge tensor processing units. | 2021
+Enabling and scaling the HPCG benchmark on the newest generation Sunway supercomputer with 42 million heterogeneous cores. | 2021
+Efficient large-scale language model training on GPU clusters using megatron-LM. | 2021
+ZeRO-infinity: breaking the GPU memory wall for extreme scale deep learning. | 2021
+FedAT: a high-performance and communication-efficient federated learning system with asynchronous tiers. | 2021
+Reverse-mode automatic differentiation and optimization of GPU kernels via enzyme. | 2021
+Overcoming barriers to scalability in variational quantum Monte Carlo. | 2021
+3D acoustic-elastic coupling with gravity: the dynamics of the 2018 palu, sulawesi earthquake and tsunami. | 2021
+In-depth analyses of unified virtual memory system for GPU accelerated computing. | 2021
+Paths to OpenMP in the kernel. | 2021
+Index launches: scalable, flexible representation of parallel task groups. | 2021
+TriPoll: computing surveys of triangles in massive-scale temporal graphs with metadata. | 2021
+Discovering and balancing fundamental cycles in large signed graphs. | 2021
+cuTS: scaling subgraph isomorphism on distributed multi-GPU systems using trie based data structure. | 2021
+On the parallel I/O optimality of linear algebra kernels: near-optimal matrix factorizations. | 2021
+STM-multifrontal QR: streaming task mapping multifrontal QR factorization empowered by GCN. | 2021
+LIBSHALOM: optimizing small and irregular-shaped matrix multiplications on ARMv8 multi-cores. | 2021
+TensorKMC: kinetic Monte Carlo simulation of 50 trillion atoms driven by deep learning on a new generation of Sunway supercomputer. | 2021
+High-throughput virtual screening of small molecule inhibitors for SARS-CoV-2 protein targets with deep fusion models. | 2021
+High performance uncertainty quantification with parallelized multilevel Markov chain Monte Carlo. | 2021
+DistGNN: scalable distributed training for large-scale graph neural networks. | 2021
+Efficient scaling of dynamic graph neural networks. | 2021
+Efficient tensor core-based GPU kernels for structured sparsity under reduced precision. | 2021
+Arithmetic-intensity-guided fault tolerance for neural network inference on GPUs. | 2021
+PEPPA-X: finding program test inputs to bound silent data corruption vulnerability in HPC applications. | 2021
+Cuttlefish: library for achieving energy efficiency in multicore parallel programs. | 2021
+Temporal vectorization for stencils. | 2021
+PAGANI: a parallel adaptive GPU algorithm for numerical integration. | 2021
+Reducing redundancy in data organization and arithmetic calculation for stencil computations. | 2021
+CAKE: matrix multiplication using constant-bandwidth blocks. | 2021
+HPAC: evaluating approximate computing techniques on HPC OpenMP applications. | 2021
+Accelerating XOR-based erasure coding using program optimization techniques. | 2021
+Error-controlled, progressive, and adaptable retrieval of scientific data with multilevel decomposition. | 2021
+LogECMem: coupling erasure-coded in-memory key-value stores with parity logging. | 2021
+Online optimization of file transfers in high-speed networks. | 2021
+Hardware-supported remote persistence for distributed persistent memory. | 2021
+Clairvoyant prefetching for distributed machine learning I/O. | 2021
+ndzip-gpu: efficient lossless compression of scientific floating-point data on GPUs. | 2021
+Resilient error-bounded lossy compressor for data transfer. | 2021
+Productivity, portability, performance: data-centric Python. | 2021
+Empirical evaluation of circuit approximations on noisy quantum devices. | 2021
+SV-sim: scalable PGAS-based state vector simulation of quantum circuits. | 2021
+SW_Qsim: a minimize-memory quantum simulator with high-performance on a new Sunway supercomputer. | 2021
+MAPA: multi-accelerator pattern allocation policy for multi-tenant GPU servers. | 2021
+Online evolutionary batch size orchestration for scheduling deep learning workloads in GPU clusters. | 2021
+Whale: efficient one-to-many data partitioning in RDMA-assisted distributed stream processing systems. | 2021
+Exploiting user activeness for data retention in HPC systems. | 2021
+Pinpointing crash-consistency bugs in the HPC I/O stack: a cross-layer approach. | 2021
+Characterization and prediction of deep learning workloads in large-scale GPU datacenters. | 2021

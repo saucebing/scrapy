@@ -1,0 +1,289 @@
+2018 USENIX Annual Technical Conference, USENIX ATC 2018, Boston, MA, USA, July 11-13, 2018. | 2018
+Tributary: spot-dancing for elastic services with latency SLOs. | 2018
+FastTrack: Foreground App-Aware I/O Management for Improving User Experience of Android Smartphones. | 2018
+Mainstream: Dynamic Stem-Sharing for Multi-Tenant Video Processing. | 2018
+VideoChef: Efficient Approximation for Streaming Video Processing Pipelines. | 2018
+SOCK: Rapid Task Provisioning with Serverless-Optimized Containers. | 2018
+DynaMix: Dynamic Mobile Device Integration for Efficient Cross-device Resource Sharing. | 2018
+The Battle of the Schedulers: FreeBSD ULE vs. Linux CFS. | 2018
+The Design and Implementation of Hyperupcalls. | 2018
+AIQL: Enabling Efficient Attack Investigation from System Monitoring Data. | 2018
+Application Memory Isolation on Ultra-Low-Power MCUs. | 2018
+Peeking Behind the Curtains of Serverless Platforms. | 2018
+Soteria: Automated IoT Safety and Security Analysis. | 2018
+Scaling Guest OS Critical Sections with eCS. | 2018
+KylinX: A Dynamic Library Operating System for Simplified and Efficient Cloud Virtualization. | 2018
+Virtualizing Energy Storage Management Using RAIBA. | 2018
+Cntr: Lightweight OS Containers. | 2018
+Throwhammer: Rowhammer Attacks over the Network and Defenses. | 2018
+Varys: Protecting SGX Enclaves from Practical Side-Channel Attacks. | 2018
+Kernel-Supported Cost-Effective Audit Logging for Causality Tracking. | 2018
+EPTI: Efficient Defence against Meltdown Attack for Unpatched VMs. | 2018
+Effectively Mitigating I/O Inactivity in vCPU Scheduling. | 2018
+Placement of Virtual Containers on NUMA systems: A Practical and Comprehensive Model. | 2018
+Getting to the Root of Concurrent Binary Search Tree Performance. | 2018
+TerseCades: Efficient Data Compression in Stream Processing. | 2018
+Troubleshooting Transiently-Recurring Errors in Production Systems with Blame-Proportional Logging. | 2018
+NanoLog: A Nanosecond Scale Logging System. | 2018
+Model Governance: Reducing the Anarchy of Production ML. | 2018
+Fine-grained consistency for geo-replicated systems. | 2018
+Log-Free Concurrent Data Structures. | 2018
+Stable and Consistent Membership at Scale with Rapid. | 2018
+On Smart Query Routing: For Distributed Graph Querying with Decoupled Storage. | 2018
+Locality-Aware Software Throttling for Sparse Matrix Operation on GPUs. | 2018
+Accelerating PageRank using Partition-Centric Processing. | 2018
+CGraph: A Correlations-aware Approach for Efficient Concurrent Iterative Graph Processing. | 2018
+Don't share, Don't lock: Large-scale Software Connection Tracking with Krononat. | 2018
+Accurate Timeout Detection Despite Arbitrary Processing Delays. | 2018
+Improving Service Availability of Cloud Systems by Predicting Disk Error. | 2018
+RAFI: Risk-Aware Failure Identification to Improve the RAS in Erasure-coded Data Centers. | 2018
+Siphon: Expediting Inter-Datacenter Coflows in Wide-Area Data Analytics. | 2018
+PerfIso: Performance Isolation for Commercial Latency-Sensitive Services. | 2018
+On the diversity of cluster workloads and its impact on research results. | 2018
+SLAOrchestrator: Reducing the Cost of Performance SLAs for Cloud Data Analytics. | 2018
+Spindle: Informed Memory Access Monitoring. | 2018
+Touchstone: Generating Enormous Query-Aware Test Databases. | 2018
+DSAC: Effective Static Analysis of Sleep-in-Atomic-Context Bugs in Kernel Modules. | 2018
+Coccinelle: 10 Years of Automated Evolution in the Linux Kernel. | 2018
+Albis: High-Performance File Format for Big Data Systems. | 2018
+Litz: Elastic Framework for High-Performance Distributed Machine Learning. | 2018
+Putting the "Micro" Back in Microservice. | 2018
+Fast and Concurrent RDF Queries using RDMA-assisted GPU Graph Exploration. | 2018
+MDev-NVMe: A NVMe Storage Virtualization Solution with Mediated Pass-Through. | 2018
+AutoSSD: an Autonomic SSD Architecture. | 2018
+Geriatrix: Aging what you see and what you don't see. A file system aging approach for modern storage systems. | 2018
+Can't We All Get Along? Redesigning Protection Storage for Modern Workloads. | 2018
+STMS: Improving MPTCP Throughput Under Heterogeneous Networks. | 2018
+Pantheon: the training ground for Internet congestion-control research. | 2018
+ClickNF: a Modular Stack for Custom Network Functions. | 2018
+Selecta: Heterogeneous Cloud Storage Configuration for Data Analytics. | 2018
+Remote regions: a simple abstraction for remote memory. | 2018
+Understanding Ephemeral Storage for Serverless Analytics. | 2018
+Solar: Towards a Shared-Everything Database on Distributed Log-Structured Storage. | 2018
+Toward Coordination-free and Reconfigurable Mixed Concurrency Control. | 2018
+Scaling Hardware Accelerated Network Monitoring to Concurrent and Dynamic Queries With *Flow. | 2018
+Applying Hardware Transactional Memory for Concurrency-Bug Failure Recovery in Production Runs. | 2018
+Tailwind: Fast and Atomic RDMA-based Replication. | 2018
+On Fault Tolerance, Locality, and Optimality in Locally Repairable Codes. | 2018
+TxFS: Leveraging File-System Crash Consistency to Provide ACID Transactions. | 2018
+Towards Better Understanding of Black-box Auto-Tuning: A Comparative Analysis for Storage Systems. | 2018
+HeavyKeeper: An Accurate Algorithm for Finding Top-k Elephant Flows. | 2018
+SAND: Towards High-Performance Serverless Computing. | 2018
+Cavs: An Efficient Runtime System for Dynamic Neural Networks. | 2018
+DeepCPU: Serving RNN-based Deep Learning Models 10x Faster. | 2018
+Closing the Performance Gap Between Volatile and Persistent Key-Value Stores Using Cross-Referencing Logs. | 2018
+Metis: Robustly Tuning Tail Latencies of Cloud Systems. | 2018
+Redesigning LSMs for Nonvolatile Memory with NoveLSM. | 2018
+HashKV: Enabling Efficient Updates in KV Storage via Hashing. | 2018
+2019 USENIX Annual Technical Conference, USENIX ATC 2019, Renton, WA, USA, July 10-12, 2019. | 2019
+DistCache: Provable Load Balancing for Large-Scale Storage Systems with Distributed Caching. | 2019
+Protocol-Aware Recovery for Consensus-Based Storage. | 2019
+Orca: Differential Bug Localization in Large-Scale Services. | 2019
+LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation. | 2019
+Darwin: A Genomics Co-processor Provides up to 15, 000X Acceleration on Long Read Assembly. | 2019
+The Semantics of Transactions and Weak Memory in x86, Power, ARM, and C++. | 2019
+Who Left Open the Cookie Jar? A Comprehensive Evaluation of Third-Party Cookie Policies. | 2019
+The Design and Operation of CloudLab. | 2019
+Everyone Loves File: File Storage Service (FSS) in Oracle Cloud Infrastructure. | 2019
+Zanzibar: Google's Consistent, Global Authorization System. | 2019
+IASO: A Fail-Slow Detection and Mitigation Framework for Distributed Storage Services. | 2019
+PARTISAN: Scaling the Distributed Actor Runtime. | 2019
+Unleashing the Power of Learning: An Enhanced Learning-Based Approach for Dynamic Binary Translation. | 2019
+Transactuations: Where Transactions Meet the Physical World. | 2019
+Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code. | 2019
+Extension Framework for File Systems in User space. | 2019
+FlexGroup Volumes: A Distributed WAFL File System. | 2019
+EROFS: A Compression-friendly Readonly File System for Resource-scarce Devices. | 2019
+QZFS: QAT Accelerated Compression in File System for Application Agnostic and Cost Efficient Data Storage. | 2019
+Apache Nemo: A Framework for Building Distributed Dataflow Optimization Policies. | 2019
+Tangram: Bridging Immutable and Mutable Abstractions for Distributed Data Analytics. | 2019
+STRADS-AP: Simplifying Distributed Machine Learning Programming without Introducing a New Programming Model. | 2019
+SOPHIA: Online Reconfiguration of Clustered NoSQL Databases for Time-Varying Workloads. | 2019
+libmpk: Software Abstraction for Intel Memory Protection Keys (Intel MPK). | 2019
+Effective Static Analysis of Concurrency Use-After-Free Bugs in Linux Device Drivers. | 2019
+LXDs: Towards Isolation of Kernel Subsystems. | 2019
+JumpSwitches: Restoring the Performance of Indirect Branches In the Era of Spectre. | 2019
+Multi-Queue Fair Queuing. | 2019
+BRAVO - Biased Locking for Reader-Writer Locks. | 2019
+Mitigating Asymmetric Read and Write Costs in Cuckoo Hashing for Storage Systems. | 2019
+NICA: An Infrastructure for Inline Acceleration of Network Applications. | 2019
+E3: Energy-Efficient Microservices on SmartNIC-Accelerated Servers. | 2019
+INSIDER: Designing In-Storage Computing System for Emerging High-Performance Drive. | 2019
+Cognitive SSD: A Deep Learning Engine for In-Storage Data Retrieval. | 2019
+SIMD-X: Programming and Processing of Graph Algorithms on GPUs. | 2019
+LUMOS: Dependency-Driven Disk-based Graph Processing. | 2019
+NeuGraph: Parallel Deep Neural Network Computation on Large Graphs. | 2019
+Pre-Select Static Caching and Neighborhood Ordering for BFS-like Algorithms on Disk-based Graph Engines. | 2019
+From Laptop to Lambda: Outsourcing Everyday Jobs to Thousands of Transient Functional Containers. | 2019
+Hodor: Intra-Process Isolation for High-Throughput Data Plane Libraries. | 2019
+A Retargetable System-Level DBT Hypervisor. | 2019
+MTS: Bringing Multi-Tenancy to Virtual Networking. | 2019
+StreamBox-TZ: Secure Stream Analytics at the Edge with TrustZone. | 2019
+CoSMIX: A Compiler-based System for Secure Memory Instrumentation and Execution in Enclaves. | 2019
+Secured Routines: Language-based Construction of Trusted Execution Environments. | 2019
+Supporting Security Sensitive Tenants in a Bare-Metal Cloud. | 2019
+Asynchronous I/O Stack: A Low-latency Kernel I/O Stack for Ultra-Low Latency SSDs. | 2019
+M³x: Autonomous Accelerators via Context-Enabled Fast-Path Communication. | 2019
+SmartDedup: Optimizing Deduplication for Resource-constrained Devices. | 2019
+Data Domain Cloud Tier: Backup here, backup there, deduplicated everywhere! | 2019
+GAIA: An OS Page Cache for Heterogeneous Systems. | 2019
+Transkernel: Bridging Monolithic Kernels to Peripheral Cores. | 2019
+Detecting Asymmetric Application-layer Denial-of-Service Attacks In-Flight with Finelame. | 2019
+SemperOS: A Distributed Capability System. | 2019
+Pragh: Locality-preserving Graph Traversal with Split Live Migration. | 2019
+ElasticBF: Elastic Bloom Filter with Hotness Awareness for Boosting Read Performance in Large Key-Value Stores. | 2019
+SILK: Preventing Latency Spikes in Log-Structured Merge Key-Value Stores. | 2019
+Unification of Temporary Storage in the NodeKernel Architecture. | 2019
+Evaluating File System Reliability on Solid State Drives. | 2019
+Alleviating Garbage Collection Interference Through Spatial Separation in All Flash Arrays. | 2019
+Practical Erase Suspension for Modern Low-latency SSDs. | 2019
+Track-based Translation Layers for Interlaced Magnetic Recording. | 2019
+Your Coflow has Many Flows: Sampling them for Fun and Speed. | 2019
+PostMan: Rapidly Mitigating Bursty Traffic by Offloading Packet Processing. | 2019
+R2P2: Making RPCs first-class datacenter citizens. | 2019
+Lancet: A self-correcting Latency Measuring Tool. | 2019
+Pangolin: A Fault-Tolerant Persistent Memory Programming Library. | 2019
+Pisces: A Scalable and Efficient Persistent Transactional Memory. | 2019
+EdgeWise: A Better Stream Processing Engine for the Edge. | 2019
+Analysis of Large-Scale Multi-Tenant GPU Clusters for DNN Training Workloads. | 2019
+Lessons and Actions: What We Learned from 10K SSD-Related Storage System Failures. | 2019
+Who's Afraid of Uncorrectable Bit Errors? Online Recovery of Flash Errors with Distributed Redundancy. | 2019
+Dayu: Fast and Low-interference Data Recovery in Very-large Storage Systems. | 2019
+OPTR: Order-Preserving Translation and Recovery Design for SSDs with a Standard Block Device Interface. | 2019
+Optimizing CNN Model Inference on CPUs. | 2019
+Accelerating Rule-matching Systems with Learned Rankers. | 2019
+MArk: Exploiting Cloud Services for Cost-Effective, SLO-Aware Machine Learning Inference Serving. | 2019
+Cross-dataset Time Series Anomaly Detection for Cloud Systems. | 2019
+2020 USENIX Annual Technical Conference, USENIX ATC 2020, July 15-17, 2020. | 2020
+Libnvmmio: Reconstructing Software IO Path with Failure-Atomic Memory-Mapped Interface. | 2020
+MatrixKV: Reducing Write Stalls and Write Amplification in LSM-tree Based KV Stores with Matrix Container in NVM. | 2020
+Disaggregating Persistent Memory and Controlling Them Remotely: An Exploration of Passive Disaggregated Key-Value Stores. | 2020
+SplinterDB: Closing the Bandwidth Gap for NVMe Key-Value Stores. | 2020
+Twizzler: a Data-Centric OS for Non-Volatile Memory. | 2020
+BASTION: A Security Enforcement Network Stack for Container Networks. | 2020
+Spool: Reliable Virtualized NVMe Storage Pool in Public Cloud Infrastructure. | 2020
+HDDse: Enabling High-Dimensional Disk State Embedding for Generic Failure Detection System of Heterogeneous Disks in Large Data Centers. | 2020
+Adaptive Placement for In-memory Storage Functions. | 2020
+NetKernel: Making Network Stack Part of the Virtualized Infrastructure. | 2020
+Platinum: A CPU-Efficient Concurrent Garbage Collector for Tail-Reduction of Interactive Services. | 2020
+PinK: High-speed In-storage Key-value Store with Bounded Tails. | 2020
+OPTIMUSCLOUD: Heterogeneous Configuration Optimization for Distributed Databases in the Cloud. | 2020
+Serverless in the Wild: Characterizing and Optimizing the Serverless Workload at a Large Cloud Provider. | 2020
+Lessons Learned from the Chameleon Testbed. | 2020
+SPINFER: Inferring Semantic Patches for the Linux Kernel. | 2020
+FuZZan: Efficient Sanitizer Metadata Design for Fuzzing. | 2020
+PracExtractor: Extracting Configuration Good Practices from Manuals to Detect Server Misconfigurations. | 2020
+Reverse Debugging of Kernel Failures in Deployed Systems. | 2020
+Offload Annotations: Bringing Heterogeneous Computing to Existing Libraries and Workloads. | 2020
+The Future of the Past: Challenges in Archival Storage. | 2020
+HetPipe: Enabling Large DNN Training on (Whimpy) Heterogeneous GPU Clusters through Integration of Pipelined Model Parallelism and Data Parallelism. | 2020
+AutoSys: The Design and Operation of Learning-Augmented Systems. | 2020
+Daydream: Accurately Estimating the Efficacy of Optimizations for DNN Training. | 2020
+ALERT: Accurate Learning for Energy and Timeliness. | 2020
+NeuOS: A Latency-Predictable Multi-Dimensional Optimization Framework for DNN-driven Autonomous Systems. | 2020
+PERCIVAL: Making In-Browser Perceptual Ad Blocking Practical with Deep Learning. | 2020
+Harmonizing Performance and Isolation in Microkernels with Efficient Intra-kernel Isolation and Communication. | 2020
+Faasm: Lightweight Isolation for Efficient Stateful Serverless Computing. | 2020
+Fewer Cores, More Hertz: Leveraging High-Frequency Cores in the OS Scheduler for Improved Application Performance. | 2020
+vSMT-IO: Improving I/O Performance and Efficiency on SMT Processors in Virtualized Clouds. | 2020
+Lightweight Preemptible Functions. | 2020
+coIOMMU: A Virtual IOMMU with Cooperative DMA Buffer Tracking for Efficient Memory Management in Direct I/O. | 2020
+BatchCrypt: Efficient Homomorphic Encryption for Cross-Silo Federated Learning. | 2020
+A Deep Dive into DNS Query Failures. | 2020
+A Decentralized Blockchain with High Throughput and Fast Confirmation. | 2020
+Reconstructing proprietary video streaming algorithms. | 2020
+Midgress-aware traffic provisioning for content delivery. | 2020
+GraphWalker: An I/O-Efficient and Resource-Friendly Graph Analytic System for Fast and Scalable Random Walks. | 2020
+Scaph: Scalable GPU-Accelerated Graph Processing with Value-Driven Differential Scheduling. | 2020
+Peregreen - modular database for efficient storage of historical time series in cloud environments. | 2020
+AC-Key: Adaptive Caching for LSM-based Key-Value Stores. | 2020
+POSH: A Data-Aware Shell. | 2020
+The Fine Line between Bold and Fringe Lunatic. | 2020
+FineStream: Fine-Grained Window-Based Stream Processing on CPU-GPU Integrated Architectures. | 2020
+OpenExpress: Fully Hardware Automated Open Research Framework for Future Fast NVMe Devices. | 2020
+Fast Software Cache Design for Network Appliances. | 2020
+Reexamining Direct Cache Access to Optimize I/O Intensive Applications for Multi-hundred-gigabit Networks. | 2020
+sRDMA - Efficient NIC-based Authentication and Encryption for Remote Direct Memory Access. | 2020
+UREQA: Leveraging Operation-Aware Error Rates for Effective Quantum Circuit Mapping on NISQ-Era Quantum Computers. | 2020
+Austere Flash Caching with Deduplication and Compression. | 2020
+DADI: Block-Level Image Service for Agile and Elastic Application Deployment. | 2020
+Efficient Miss Ratio Curve Computation for Heterogeneous Content Popularity. | 2020
+Can Applications Recover from fsync Failures? | 2020
+DupHunter: Flexible High-Performance Deduplication for Docker Registries. | 2020
+OSCA: An Online-Model Based Cache Allocation Scheme in Cloud Block Storage Systems. | 2020
+Lock-free Concurrent Level Hashing for Persistent Memory. | 2020
+Optimizing Memory-mapped I/O for Fast Storage Devices. | 2020
+A Comprehensive Analysis of Superpage Management Mechanisms and Policies. | 2020
+Effectively Prefetching Remote Memory with Leap. | 2020
+go-pmem: Native Support for Programming Persistent Memory in Go. | 2020
+End the Senseless Killing: Improving Memory Management for Mobile Operating Systems. | 2020
+Retwork: Exploring Reader Network with COTS RFID Systems. | 2020
+Acclaim: Adaptive Memory Reclaim to Improve User Experience in Android Systems. | 2020
+SweynTooth: Unleashing Mayhem over Bluetooth Low Energy. | 2020
+Fine-Grained Isolation for Scalable, Dynamic, Multi-tenant Edge Clouds. | 2020
+Firefly: Untethered Multi-user VR for Commodity Mobile Devices. | 2020
+2021 USENIX Annual Technical Conference, USENIX ATC 2021, July 14-16, 2021. | 2021
+Naos: Serialization-free RDMA networking in Java. | 2021
+One-sided RDMA-Conscious Extendible Hashing for Disaggregated Memory. | 2021
+MLEE: Effective Detection of Memory Leaks on Early-Exit Paths in OS Kernels. | 2021
+MigrOS: Transparent Live-Migration Support for Containerised RDMA Applications. | 2021
+Avocado: A Secure In-Memory Distributed Storage System. | 2021
+Scaling Large Production Clusters with Partitioned Synchronization. | 2021
+A Linux Kernel Implementation of the Homa Transport Protocol. | 2021
+A Case Study of Processing-in-Memory in off-the-Shelf Systems. | 2021
+Fighting the Fog of War: Automated Incident Detection for Cloud Systems. | 2021
+RIFF: Reduced Instruction Footprint for Coverage-Guided Fuzzing. | 2021
+Zico: Efficient GPU Memory Sharing for Concurrent DNN Training. | 2021
+Octo: INT8 Training with Loss-aware Compensation and Backward Quantization for Tiny On-device Learning. | 2021
+Argus: Debugging Performance Issues in Modern Desktop Applications with Annotated Causal Tracing. | 2021
+aDFS: An Almost Depth-First-Search Distributed Graph-Querying System. | 2021
+GLIST: Towards In-Storage Graph Learning. | 2021
+DART: A Scalable and Adaptive Edge Stream Processing Engine. | 2021
+CrystalPerf: Learning to Characterize the Performance of Dataflow Computation through Code Analysis. | 2021
+Controlling Memory Footprint of Stateful Streaming Graph Processing. | 2021
+SONIC: Application-aware Data Passing for Chained Serverless Applications. | 2021
+Proactive Energy-Aware Adaptive Video Streaming on Mobile Devices. | 2021
+ICARUS: Attacking low Earth orbit satellite networks. | 2021
+RainBlock: Faster Transaction Processing in Public Blockchains. | 2021
+PYLIVE: On-the-Fly Code Change for Python-based Online Services. | 2021
+ASAP: Fast Mobile Application Switch via Adaptive Prepaging. | 2021
+Fine-tuning giant neural networks on commodity hardware with automatic pipeline model parallelism. | 2021
+INFaaS: Automated Model-less Inference Serving. | 2021
+Jump-Starting Multivariate Time Series Anomaly Detection for Online Service Systems. | 2021
+Palleon: A Runtime System for Efficient Video Processing toward Dynamic Class Skew. | 2021
+FaaSNet: Scalable and Fast Provisioning of Custom Serverless Container Runtimes at Alibaba Cloud Function Compute. | 2021
+Video Analytics with Zero-streaming Cameras. | 2021
+Prediction-Based Power Oversubscription in Cloud Platforms. | 2021
+TCP-Fuzz: Detecting Memory and Semantic Bugs in TCP Stacks with Fuzzing. | 2021
+Habitat: A Runtime-Based Computational Performance Predictor for Deep Neural Network Training. | 2021
+Characterizing and Optimizing Remote Persistent Memory with RDMA and NVM. | 2021
+Refurbish Your Training Data: Reusing Partially Augmented Samples for Faster Deep Neural Network Training. | 2021
+ZeRO-Offload: Democratizing Billion-Scale Model Training. | 2021
+An Off-The-Chain Execution Environment for Scalable Testing and Profiling of Smart Contracts. | 2021
+Live in the Express Lane. | 2021
+Understanding Precision Time Protocol in Today's Wi-Fi Networks: A Measurement Study. | 2021
+AUTO: Adaptive Congestion Control Based on Multi-Objective Reinforcement Learning for the Satellite-Ground Integrated Network. | 2021
+Hey, Lumi! Using Natural Language for Intent-Based Network Management. | 2021
+Boosting Full-Node Repair in Erasure-Coded Storage. | 2021
+KVIMR: Key-Value Store Aware Data Management Middleware for Interlaced Magnetic Recording Based Hard Disk Drive. | 2021
+Differentiated Key-Value Storage Management for Balanced I/O Performance. | 2021
+ZNS: Avoiding the Block Interface Tax for Flash-based SSDs. | 2021
+MapperX: Adaptive Metadata Maintenance for Fast Crash Recovery of DM-Cache Based Hybrid Storage Devices. | 2021
+Exploring the Design Space of Page Management for Multi-Tiered Memory Systems. | 2021
+A Fast and Flexible Hardware-based Virtualization Mechanism for Computational Storage Devices. | 2021
+Fair Scheduling for AVX2 and AVX-512 Workloads. | 2021
+SKQ: Event Scheduling for Optimizing Tail Latency in a Traditional OS Kernel. | 2021
+TIPS: Making Volatile Index Structures Persistent with DRAM-NVMM Tiering. | 2021
+Ayudante: A Deep Reinforcement Learning Approach to Assist Persistent Memory Programming. | 2021
+Faastlane: Accelerating Function-as-a-Service Workflows. | 2021
+Improving Performance of Flash Based Key-Value Stores Using Storage Class Memory as a Volatile Memory Extension. | 2021
+First Responder: Persistent Memory Simultaneously as High Performance Buffer Cache and Storage. | 2021
+Hashing Linearity Enables Relative Path Control in Data Centers. | 2021
+XFUSE: An Infrastructure for Running Filesystem Services in User Space. | 2021
+Max: A Multicore-Accelerated File System for Flash Storage. | 2021
+Z-Journal: Scalable Per-Core Journaling. | 2021
+LODIC: Logical Distributed Counting for Scalable File Access. | 2021
+UniStore: A fault-tolerant marriage of causal and strong consistency. | 2021
+Optimistic Concurrency Control for Real-world Go Programs. | 2021
+Accelerating Encrypted Deduplication via SGX. | 2021
+Experiences in Managing the Performance and Reliability of a Large-Scale Genomics Cloud Platform. | 2021

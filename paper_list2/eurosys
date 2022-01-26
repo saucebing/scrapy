@@ -1,0 +1,173 @@
+Proceedings of the Thirteenth EuroSys Conference, EuroSys 2018, Porto, Portugal, April 23-26, 2018. | 2018
+Decoupling the control plane from program control flow for flexibility and performance in cloud computing. | 2018
+3Sigma: distribution-based cluster scheduling for runtime uncertainty. | 2018
+Optimus: an efficient dynamic resource scheduler for deep learning clusters. | 2018
+Medea: scheduling of long running applications in shared production clusters. | 2018
+Scrub: online troubleshooting for large mission-critical applications. | 2018
+Hang doctor: runtime detection and diagnosis of soft hangs for smartphone apps. | 2018
+Pcatch: automatically detecting performance cascading bugs in cloud systems. | 2018
+Universal context propagation for distributed system instrumentation. | 2018
+DumbNet: a smart data center network fabric with dumb switches. | 2018
+BDS: a centralized near-optimal overlay network for inter-datacenter data replication. | 2018
+Turboflow: information rich flow record generation on commodity switches. | 2018
+Wide-area analytics with multiple resources. | 2018
+DCAPS: dynamic cache allocation with partial sharing. | 2018
+dCat: dynamic cache management for efficient, performance-sensitive infrastructure-as-a-service. | 2018
+Flashabacus: a self-governing flash-based accelerator for low-power systems. | 2018
+Welcome to zombieland: practical and energy-efficient memory disaggregation in a datacenter. | 2018
+Analytics with smart arrays: adaptive and efficient language-independent data. | 2018
+Dynamic control flow in large-scale machine learning. | 2018
+Improving the expressiveness of deep learning frameworks with recursion. | 2018
+Rock you like a hurricane: taming skew in large scale analytics. | 2018
+Scale-out ccNUMA: exploiting skew with strongly consistent caching. | 2018
+Delta pointers: buffer overflow checks without the checks. | 2018
+MultiNyx: a multi-level abstraction framework for systematic analysis of hypervisors. | 2018
+LibSEAL: revealing service integrity violations using trusted execution. | 2018
+Pesos: policy enhanced secure object store. | 2018
+Scheduling-context capabilities: a principled, light-weight operating-system mechanism for managing time. | 2018
+RTVirt: enabling time-sensitive computing on virtualized systems through cross-layer CPU scheduling. | 2018
+Tableau: a high-throughput and predictable VM scheduler for high-density workloads. | 2018
+Accelerating critical OS services in virtualized systems with flexible micro-sliced cores. | 2018
+Hyperledger fabric: a distributed operating system for permissioned blockchains. | 2018
+Low latency RNN inference with cellular batching. | 2018
+G-Miner: an efficient task-oriented graph mining system. | 2018
+Service fabric: a distributed platform for building microservices in the cloud. | 2018
+A scalable ordering primitive for multicore machines. | 2018
+Characterizing and optimizing hotspot parallel garbage collection on multicore systems. | 2018
+Solros: a data-centric operating system architecture for heterogeneous computing. | 2018
+Power sandbox: power awareness redefined. | 2018
+Model-driven computational sprinting. | 2018
+Fast and strongly-consistent per-item resilience in key-value stores. | 2018
+Popular is cheaper: curtailing memory costs in interactive analytics engines. | 2018
+A frugal approach to reduce RCU grace period overhead. | 2018
+Reducing DRAM footprint with NVM in facebook. | 2018
+Riffle: optimized shuffle service for large-scale data analytics. | 2018
+Proceedings of the Fourteenth EuroSys Conference 2019, Dresden, Germany, March 25-28, 2019. | 2019
+Time Protection: The Missing OS Abstraction. | 2019
+Why Joanie Can Encrypt: Easy Email Encryption with Easy Key Management. | 2019
+Conclave: secure multi-party computation on big data. | 2019
+ConfLLVM: A Compiler for Enforcing Data Confidentiality in Low-Level Code. | 2019
+Per-Application Power Delivery. | 2019
+AnDrone: Virtual Drone Computing in the Cloud. | 2019
+When eXtended Para - Virtualization (XPV) Meets NUMA. | 2019
+Make the Most out of Last Level Cache in Intel Processors. | 2019
+SkyBridge: Fast and Secure Inter-Process Communication for Microkernels. | 2019
+CoPart: Coordinated Partitioning of Last-Level Cache and Memory Bandwidth for Fairness-Aware Workload Consolidation on Commodity Servers. | 2019
+LockDoc: Trace-Based Analysis of Locking in the Linux Kernel. | 2019
+Compact NUMA-aware Locks. | 2019
+Project Almanac: A Time-Traveling Solid-State Drive. | 2019
+ShieldStore: Shielded In-memory Key-value Storage with SGX. | 2019
+URSA: Hybrid Block Storage for Cloud-Scale Virtual Disks. | 2019
+VStore: A Data Store for Analytics on Large Videos. | 2019
+Managing Tail Latency in Datacenter-Scale File Systems Under Production Constraints. | 2019
+Wormhole: A Fast Ordered Index for In-memory Data Management. | 2019
+Scalable RDMA RPC on Reliable Connection with Efficient Resource Sharing. | 2019
+FlyMC: Highly Scalable Testing of Complex Interleavings in Distributed Systems. | 2019
+The Case For In-Network Computing On Demand. | 2019
+I Sent It: Where Does Slow Data Go to Wait? | 2019
+Efficient and Safe Network Updates with Suffix Causal Consistency. | 2019
+TAS: TCP Acceleration as an OS Service. | 2019
+GraphBolt: Dependency-Driven Synchronous Processing of Streaming Graphs. | 2019
+Supporting Very Large Models using Automatic Dataflow Graph Partitioning. | 2019
+Matrix Algebra Framework for Portable, Scalable and Efficient Query Engines for RDF Graphs. | 2019
+Runtime Object Lifetime Profiler for Latency Sensitive Big Data Applications. | 2019
+Keeping Master Green at Scale. | 2019
+Serving Mobile Apps: A Slice at a Time. | 2019
+A Lightweight Framework for Fine-Grained Lifecycle Control of Android Applications. | 2019
+Teaching Rigorous Distributed Systems With Efficient Model Checking. | 2019
+Resource Deflation: A New Approach For Transient Resource Reclamation. | 2019
+GrandSLAm: Guaranteeing SLAs for Jobs in Microservices Execution Frameworks. | 2019
+Hourglass: Leveraging Transient Resources for Time-Constrained Graph Processing in the Cloud. | 2019
+Efficient, Consistent Distributed Computation with Predictive Treaties. | 2019
+Multiverse: Compiler-Assisted Management of Dynamic Variability in Low-Level System Software. | 2019
+Grapple: A Graph System for Static Finite-State Property Checking of Large-Scale Systems Code. | 2019
+Replayable Execution Optimized for Page Sharing for a Managed Runtime Environment. | 2019
+Deferred Runtime Pipelining for contentious multicore software transactions. | 2019
+GRNN: Low-Latency and Scalable RNN Inference on GPUs. | 2019
+Automating Dependence-Aware Parallelization of Machine Learning Training on Distributed Shared Memory. | 2019
+Parallax: Sparsity-aware Data Parallel Training of Deep Neural Networks. | 2019
+Fast Distributed Deep Learning over RDMA. | 2019
+μLayer: Low Latency On-Device Inference Using Cooperative Single-Layer Acceleration and Processor-Friendly Quantization. | 2019
+EuroSys '20: Fifteenth EuroSys Conference 2020, Heraklion, Greece, April 27-30, 2020. | 2020
+Balancing efficiency and fairness in heterogeneous GPU clusters for deep learning. | 2020
+Experiences of landing machine learning onto market-scale mobile malware detection. | 2020
+Provable multicore schedulers with Ipanema: application to work conservation. | 2020
+Delegation sketch: a parallel design with support for fast and accurate concurrent operations. | 2020
+Persistent memory and the rise of universal constructions. | 2020
+Design of a symbolically executable embedded hypervisor. | 2020
+Autarky: closing controlled channels with self-paging enclaves. | 2020
+Scalable range locks for scalable address spaces and beyond. | 2020
+Avoiding scheduler subversion using scheduler-cooperative locks. | 2020
+Statically inferring performance properties of software configurations. | 2020
+A Linux in unikernel clothing. | 2020
+Subway: minimizing data transfer during out-of-GPU-memory graph processing. | 2020
+Peregrine: a pattern-aware graph mining system. | 2020
+Can far memory improve job throughput? | 2020
+A fault-tolerance shim for serverless computing. | 2020
+Autopilot: workload autoscaling at Google. | 2020
+Meerkat: multicore-scalable replicated transactions following the zero-coordination principle. | 2020
+MPTEE: bringing flexible and efficient memory protection to Intel SGX. | 2020
+Rhythm: component-distinguishable workload deployment in datacenters. | 2020
+Improving resource utilization by timely fine-grained scheduling. | 2020
+AniFilter: parallel and failure-atomic cuckoo filter for non-volatile memories. | 2020
+Balancing storage efficiency and data confidentiality with tunable encrypted deduplication. | 2020
+Kollaps: decentralized and dynamic topology emulation. | 2020
+State-machine replication for planet-scale systems. | 2020
+HovercRaft: achieving scalability and fault-tolerance for microsecond-scale datacenter services. | 2020
+RAIDP: replication with intra-disk parity. | 2020
+EvenDB: optimizing key-value storage for spatial locality. | 2020
+Accessible near-storage computing with FPGAs. | 2020
+StRoM: smart remote memory. | 2020
+Borg: the next generation. | 2020
+AlloX: compute allocation in hybrid clusters. | 2020
+SEUSS: skip redundant paths to make serverless fast. | 2020
+CSI: inferring mobile ABR video adaptation behavior under HTTPS and QUIC. | 2020
+Mousse: a system for selective symbolic execution of programs with untamed environments. | 2020
+Don't shoot down TLB shootdowns! | 2020
+BinRec: dynamic binary lifting and recompilation. | 2020
+An HTM-based update-side synchronization for RCU on NUMA systems. | 2020
+Keystone: an open framework for architecting trusted execution environments. | 2020
+Oblivious coopetitive analytics using hardware enclaves. | 2020
+Accelerating winograd convolutions using symbolic computation and meta-programming. | 2020
+Env2Vec: accelerating VNF testing with deep learning. | 2020
+PLASMA: programmable elasticity for stateful cloud computing applications. | 2020
+Analyzing system performance with probabilistic performance annotations. | 2020
+EuroSys '21: Sixteenth European Conference on Computer Systems, Online Event, United Kingdom, April 26-28, 2021. | 2021
+SmartHarvest: harvesting idle CPUs safely and efficiently in the cloud. | 2021
+Tripoline: generalized incremental graph processing via graph triangle inequality. | 2021
+Towards timeout-less transport in commodity datacenter networks. | 2021
+PaSh: light-touch data-parallel shell processing. | 2021
+FlexGraph: a flexible and efficient distributed framework for GNN training. | 2021
+DZiG: sparsity-aware incremental processing of streaming graphs. | 2021
+Ethanos: efficient bootstrapping for full nodes on account-based blockchain. | 2021
+Virtual machine preserving host updates for zero day patching in public cloud. | 2021
+DGCL: an efficient communication library for distributed GNN training. | 2021
+Zeus: locality-aware distributed transactions. | 2021
+Mitigating vulnerability windows with hypervisor transplant. | 2021
+Efficient replication via timestamp stability. | 2021
+ChameleonDB: a key-value store for optane persistent memory. | 2021
+Achieving low tail-latency and high scalability for serializable transactions in edge computing. | 2021
+OFC: an opportunistic caching system for FaaS platforms. | 2021
+Odyssey: the impact of modern hardware on strongly-consistent replication protocols. | 2021
+Parallelizing packet processing in container overlay networks. | 2021
+Memory-mapped I/O on steroids. | 2021
+Confidential computing for OpenPOWER. | 2021
+Accelerating graph sampling for graph machine learning using GPUs. | 2021
+RubberBand: cloud-based hyperparameter tuning. | 2021
+Bridging the performance gap for copy-based garbage collectors atop non-volatile memory. | 2021
+Seastar: vertex-centric programming for graph neural networks. | 2021
+Unikraft: fast, specialized unikernels the easy way. | 2021
+Characterizing, exploiting, and detecting DMA code injection vulnerabilities in the presence of an IOMMU. | 2021
+Finding heterogeneous-unsafe configuration parameters in cloud systems. | 2021
+Tahoe: tree structure-aware high performance inference engine for decision tree ensemble on GPU. | 2021
+Understanding and dealing with hard faults in persistent memory systems. | 2021
+Tesseract: distributed, general graph pattern mining on evolving graphs. | 2021
+Profiling dataflow systems on multiple abstraction levels. | 2021
+rkt-io: a direct I/O stack for shielded execution. | 2021
+M3: end-to-end memory management in elastic system software stacks. | 2021
+REBOUND: defending distributed systems against attacks with bounded-time recovery. | 2021
+On-demand-fork: a microsecond fork for memory-intensive and latency-sensitive applications. | 2021
+Take it to the limit: peak prediction-driven resource overcommitment in datacenters. | 2021
+Site-to-site internet traffic control. | 2021
+Home, safehome: smart home reliability with visibility and atomicity. | 2021
+TraceSplitter: a new paradigm for downscaling traces. | 2021

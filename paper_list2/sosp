@@ -1,0 +1,94 @@
+Proceedings of the 27th ACM Symposium on Operating Systems Principles, SOSP 2019, Huntsville, ON, Canada, October 27-30, 2019. | 2019
+PipeDream: generalized pipeline parallelism for DNN training. | 2019
+A generic communication scheduler for distributed DNN training acceleration. | 2019
+Parity models: erasure-coded resilience for prediction serving systems. | 2019
+TASO: optimizing deep learning computation with automatic generation of graph substitutions. | 2019
+Teechain: a secure payment network with asynchronous blockchain access. | 2019
+Fast and secure global payments with Stellar. | 2019
+Notary: a device for secure transaction approval. | 2019
+CrashTuner: detecting crash-recovery bugs in cloud systems via meta-info analysis. | 2019
+The inflection point hypothesis: a principled debugging approach for locating the root cause of a failure. | 2019
+Finding semantic bugs in file systems with an extensible fuzzing framework. | 2019
+Efficient scalable thread-safety-violation detection: finding thousands of concurrency bugs during testing. | 2019
+Privacy accounting and quality control in the sage differentially private ML platform. | 2019
+Honeycrisp: large-scale differentially private aggregation without a trusted core. | 2019
+Yodel: strong metadata security for voice calls. | 2019
+Scaling symbolic evaluation for automated verification of systems code with Serval. | 2019
+Verifying concurrent, crash-safe systems with Perennial. | 2019
+Using concurrent relational logic with helpers for verifying the AtomFS file system. | 2019
+Verifying software network functions with no verification expertise. | 2019
+Optimizing data-intensive computations in existing libraries with split annotations. | 2019
+Niijima: sound and automated computation consolidation for efficient multilingual data-parallel pipelines. | 2019
+Nexus: a GPU cluster engine for accelerating DNN-based video analysis. | 2019
+Lineage stash: fault tolerance off the critical path. | 2019
+File systems unfit as distributed storage backends: lessons from 10 years of Ceph evolution. | 2019
+I4: incremental inference of inductive invariants for verification of distributed protocols. | 2019
+Aegean: replication beyond the client-server model. | 2019
+Snap: a microkernel approach to host networking. | 2019
+Risk based planning of network changes in evolving data centers. | 2019
+Taiji: managing global user traffic for large-scale internet services at the edge. | 2019
+KVell: the design and implementation of a fast persistent key-value store. | 2019
+Recipe: converting concurrent DRAM indexes to persistent-memory indexes. | 2019
+Performance and protection in the ZoFS user-space NVM file system. | 2019
+SplitFS: reducing software overhead in file systems for persistent memory. | 2019
+AutoMine: harmonizing high-level abstraction and high performance for graph mining. | 2019
+KnightKing: a fast distributed graph random walk engine. | 2019
+Gerenuk: thin computation over big native data using speculative program transformation. | 2019
+An analysis of performance evolution of Linux's core operations. | 2019
+ShortCut: accelerating mostly-deterministic code regions. | 2019
+Scalable and practical locking with shuffling. | 2019
+SOSP '21: ACM SIGOPS 28th Symposium on Operating Systems Principles, Virtual Event / Koblenz, Germany, October 26-29, 2021. | 2021
+Basil: Breaking up BFT with ACID (transactions). | 2021
+Bidl: A High-throughput, Low-latency Permissioned Blockchain Framework for Datacenter Networks. | 2021
+Kauri: Scalable BFT Consensus with Pipelined Tree-Based Dissemination and Aggregation. | 2021
+iGUARD: In-GPU Advanced Race Detection. | 2021
+Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis. | 2021
+Rudra: Finding Memory Safety Bugs in Rust at the Ecosystem Scale. | 2021
+Witcher: Systematic Crash Consistency Testing for Non-Volatile Memory Key-Value Stores. | 2021
+Understanding and Detecting Software Upgrade Failures in Distributed Systems. | 2021
+Crash Consistent Non-Volatile Memory Express. | 2021
+Cuckoo Trie: Exploiting Memory-Level Parallelism for Efficient DRAM Indexing. | 2021
+Regular Sequential Serializability and Regular Sequential Consistency. | 2021
+Caracal: Contention Management with Deterministic Concurrency Control. | 2021
+The Demikernel Datapath OS Architecture for Microsecond-scale Datacenter Systems. | 2021
+Birds of a Feather Flock Together: Scaling RDMA RPCs with Flock. | 2021
+PRISM: Rethinking the RDMA Interface for Distributed Systems. | 2021
+Kangaroo: Caching Billions of Tiny Objects on Flash. | 2021
+lODA: A Host/Device Co-Design for Strong Predictability Contract on Modern Flash Storage. | 2021
+FragPicker: A New Defragmentation Tool for Modern Storage Devices. | 2021
+dSpace: Composable Abstractions for Smart Spaces. | 2021
+Random Walks on Huge Graphs at Cache Efficiency. | 2021
+Mycelium: Large-Scale Distributed Graph Queries with Differential Privacy. | 2021
+HEALER: Relation Learning Guided Kernel Fuzzing. | 2021
+Gradient Compression Supercharged High-Performance Data Parallel DNN Training. | 2021
+Generating Complex, Realistic Cloud Workloads using Recurrent Neural Networks. | 2021
+HeMem: Scalable Tiered Memory Management for Big Data Applications and Real NVM. | 2021
+J-NVM: Off-heap Persistent Objects in Java. | 2021
+PACTree: A High Performance Persistent Range Index Using PAC Guidelines. | 2021
+Exploiting Nil-Externality for Fast Replicated Storage. | 2021
+Geometric Partitioning: Explore the Boundary of Optimal Erasure Code Repair. | 2021
+Rabia: Simplifying State-Machine Replication Through Randomization. | 2021
+MIND: In-Network Memory Management for Disaggregated Data Centers. | 2021
+RAS: Continuously Optimized Region-Wide Datacenter Resource Allocation. | 2021
+Solving Large-Scale Granular Resource Allocation Problems Efficiently with POP. | 2021
+Log-structured Protocols in Delos. | 2021
+Shard Manager: A Generic Shard Management Framework for Geo-distributed Applications. | 2021
+Forerunner: Constraint-based Speculative Transaction Execution for Ethereum. | 2021
+ghOSt: Fast & Flexible User-Space Delegation of Linux Scheduling. | 2021
+Syrup: User-Defined Scheduling Across the Stack. | 2021
+When Idling is Ideal: Optimizing Tail-Latency for Heavy-Tailed Datacenter Workloads with Perséphone. | 2021
+TwinVisor: Hardware-isolated Confidential Virtual Machines for ARM. | 2021
+Snoopy: Surpassing the Scalability Bottleneck of Oblivious Storage. | 2021
+Coeus: A System for Oblivious Document Ranking and Retrieval. | 2021
+Boki: Stateful Serverless Computing with Shared Logs. | 2021
+Bladerunner: Stream Processing at Scale for a Live View of Backend Data Mutations at the Edge. | 2021
+Faster and Cheaper Serverless Computing on Harvested Resources. | 2021
+Xenic: SmartNIC-Accelerated Distributed Transactions. | 2021
+LineFS: Efficient SmartNIC Offload of a Distributed File System with Pipeline Parallelism. | 2021
+Automated SmartNIC Offloading Insights for Network Functions. | 2021
+The Aurora Single Level Store Operating System. | 2021
+WineFS: a hugepage-aware file system for persistent memory that ages gracefully. | 2021
+Scale and Performance in a Filesystem Semi-Microkernel. | 2021
+Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3. | 2021
+CLoF: A Compositional Lock Framework for Multi-level NUMA Systems. | 2021
+Formal Verification of a Multiprocessor Hypervisor on Arm Relaxed Memory Hardware. | 2021

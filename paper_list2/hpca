@@ -1,0 +1,245 @@
+IEEE International Symposium on High Performance Computer Architecture, HPCA 2018, Vienna, Austria, February 24-28, 2018. | 2018
+Amdahl's Law in the Datacenter Era: A Market for Fair Processor Allocation. | 2018
+iNPG: Accelerating Critical Section Access with In-network Packet Generation for NoC Based Many-Cores. | 2018
+Enabling Efficient Network Service Function Chain Deployment on Heterogeneous Server Platform. | 2018
+Reducing Data Transfer Energy by Exploiting Similarity within a Data Transaction. | 2018
+Making Memristive Neural Network Accelerators Reliable. | 2018
+Towards Efficient Microarchitectural Design for Accelerating Unsupervised GAN-Based Deep Learning. | 2018
+Compressing DMA Engine: Leveraging Activation Sparsity for Training Deep Neural Networks. | 2018
+In-Situ AI: Towards Autonomous and Incremental Deep Learning for IoT Systems. | 2018
+KPart: A Hybrid Cache Partitioning-Sharing Technique for Commodity Multicores. | 2018
+SIPT: Speculatively Indexed, Physically Tagged Caches. | 2018
+Domino Temporal Data Prefetcher. | 2018
+ProFess: A Probabilistic Hybrid Main Memory Management Framework for High Performance and Fairness. | 2018
+RCoal: Mitigating GPU Timing Attack via Subwarp-Based Randomized Coalescing Techniques. | 2018
+Are Coherence Protocol States Vulnerable to Information Leakage? | 2018
+Record-Replay Architecture as a General Security Framework. | 2018
+The DRAM Latency PUF: Quickly Evaluating Physical Unclonable Functions by Exploiting the Latency-Reliability Tradeoff in Modern Commodity DRAM Devices. | 2018
+Accelerate GPU Concurrent Kernel Execution by Mitigating Memory Pipeline Stalls. | 2018
+LATTE-CC: Latency Tolerance Aware Adaptive Cache Compression Management for Energy Efficient GPUs. | 2018
+High-Performance GPU Transactional Memory via Eager Conflict Detection. | 2018
+Efficient and Fair Multi-programming in GPUs via Effective Bandwidth Management. | 2018
+A Novel Register Renaming Technique for Out-of-Order Processors. | 2018
+Wait of a Decade: Did SPEC CPU 2017 Broaden the Performance Horizon? | 2018
+Architectural Support for Task Dependence Management with Flexible Software Scheduling. | 2018
+GDP: Using Dataflow Properties to Accurately Estimate Interference-Free Performance at Runtime. | 2018
+Crash Consistency in Encrypted Non-volatile Main Memory Systems. | 2018
+Adaptive Memory Fusion: Towards Transparent, Agile Integration of Persistent Memory. | 2018
+Steal but No Force: Efficient Hardware Undo+Redo Logging for Persistent Memory Systems. | 2018
+Enabling Fine-Grain Restricted Coset Coding Through Word-Level Compression for PCM. | 2018
+Perception-Oriented 3D Rendering Approximation for Modern Graphics Processors. | 2018
+Warp Scheduling for Fine-Grained Synchronization. | 2018
+WIR: Warp Instruction Reuse to Minimize Repeated Computations in GPUs. | 2018
+G-TSC: Timestamp Based Coherence for GPUs. | 2018
+D-ORAM: Path-ORAM Delegation for Low Execution Interference on Cloud Servers with Untrusted Memory. | 2018
+Secure DIMM: Moving ORAM Primitives Closer to Memory. | 2018
+Comprehensive VM Protection Against Untrusted Hypervisor Through Retrofitted AMD Memory Encryption. | 2018
+SYNERGY: Rethinking Secure-Memory Design for Error-Correcting Memories. | 2018
+A Case for Packageless Processors. | 2018
+Extending the Power-Efficiency and Performance of Photonic Interconnects for Heterogeneous Multicores with Machine Learning. | 2018
+Routerless Network-on-Chip. | 2018
+HeatWatch: Improving 3D NAND Flash Memory Device Reliability by Exploiting Self-Recovery and Temperature Awareness. | 2018
+RC-NVM: Enabling Symmetric Row and Column Memory Accesses for In-memory Databases. | 2018
+GraphR: Accelerating Graph Processing Using ReRAM. | 2018
+GraphP: Reducing Communication for PIM-Based Graph Processing with Efficient Data Partition. | 2018
+PM3: Power Modeling and Power Management for Processing-in-Memory. | 2018
+Don't Correct the Tags in a Cache, Just Check Their Hamming Distance from the Lookup Tag. | 2018
+Reliability-Aware Data Placement for Heterogeneous Memory Architecture. | 2018
+SmarCo: An Efficient Many-Core Processor for High-Throughput Applications in Datacenters. | 2018
+Lost in Abstraction: Pitfalls of Analyzing GPUs at the Intermediate Language Level. | 2018
+Applied Machine Learning at Facebook: A Datacenter Infrastructure Perspective. | 2018
+Amdahl's Law in Big Data Analytics: Alive and Kicking in TPCx-BB (BigBench). | 2018
+Memory Hierarchy for Web Search. | 2018
+Characterizing Resource Sensitivity of Database Workloads. | 2018
+ERUCA: Efficient DRAM Resource Utilization and Resource Conflict Avoidance for Memory System Parallelism. | 2018
+DUO: Exposing On-Chip Redundancy to Rank-Level ECC for High Reliability. | 2018
+Memory System Design for Ultra Low Power, Computationally Error Resilient Processor Microarchitectures. | 2018
+NACHOS: Software-Driven Hardware-Assisted Memory Disambiguation for Accelerators. | 2018
+OuterSPACE: An Outer Product Based Sparse Matrix Multiplication Accelerator. | 2018
+Searching for Potential gRNA Off-Target Sites for CRISPR/Cas9 Using Automata Processing Across Different Platforms. | 2018
+Characterizing and Mitigating Output Reporting Bottlenecks in Spatial Automata Processing Architectures. | 2018
+Power and Energy Characterization of an Open Source 25-Core Manycore Processor. | 2018
+A Spot Capacity Market to Increase Power Infrastructure Utilization in Multi-tenant Data Centers. | 2018
+GPGPU Power Modeling for Multi-domain Voltage-Frequency Scaling. | 2018
+25th IEEE International Symposium on High Performance Computer Architecture, HPCA 2019, Washington, DC, USA, February 16-20, 2019. | 2019
+The Accelerator Wall: Limits of Chip Specialization. | 2019
+Stretch: Balancing QoS and Throughput for Colocated Server Workloads on SMT Cores. | 2019
+CIDR: A Cost-Effective In-Line Data Reduction System for Terabit-Per-Second Scale SSD Arrays. | 2019
+Composite-ISA Cores: Enabling Multi-ISA Heterogeneity Using a Single ISA. | 2019
+HyPar: Towards Hybrid Parallelism for Deep Learning Accelerator Array. | 2019
+E-RNN: Design Optimization for Efficient Recurrent Neural Networks in FPGAs. | 2019
+Bit Prudent In-Cache Acceleration of Deep Convolutional Neural Networks. | 2019
+Shortcut Mining: Exploiting Cross-Layer Shortcut Reuse in DCNN Accelerators. | 2019
+Fine-Tuning the Active Timing Margin (ATM) Control Loop for Maximizing Multi-core Efficiency on an IBM POWER Server. | 2019
+μDPM: Dynamic Power Management for the Microsecond Era. | 2019
+Adaptive Voltage/Frequency Scaling and Core Allocation for Balanced Energy and Performance on Multicore CPUs. | 2019
+Resilient Low Voltage Accelerators for High Energy Efficiency. | 2019
+Pliant: Leveraging Approximation to Improve Datacenter Resource Efficiency. | 2019
+Kelp: QoS for Accelerated Machine Learning Systems. | 2019
+Enhancing Server Efficiency in the Face of Killer Microseconds. | 2019
+Poly: Efficient Heterogeneous System and Application Management for Interactive Applications. | 2019
+The What's Next Intermittent Computing Architecture. | 2019
+eQASM: An Executable Quantum Instruction Set Architecture. | 2019
+Reliability Evaluation of Mixed-Precision Architectures. | 2019
+Architecting Waferscale Processors - A GPU Case Study. | 2019
+Conditional Speculation: An Effective Approach to Safeguard Out-of-Order Execution Against Spectre Attacks. | 2019
+FPGA Accelerated INDEL Realignment in the Cloud. | 2019
+POWERT Channels: A Novel Class of Covert CommunicationExploiting Power Management Vulnerabilities. | 2019
+Killi: Runtime Fault Classification to Deploy Low Voltage Caches without MBIST. | 2019
+Gables: A Roofline Model for Mobile SoCs. | 2019
+Machine Learning at Facebook: Understanding Inference at the Edge. | 2019
+VIP: A Versatile Inference Processor. | 2019
+Darwin-WGA: A Co-processor Provides Increased Sensitivity in Whole Genome Alignments with High Speedup. | 2019
+Analysis and Optimization of the Memory Hierarchy for Graph Processing Workloads. | 2019
+FPGA-Based High-Performance Parallel Architecture for Homomorphic Computing on Encrypted Data. | 2019
+Bingo Spatial Data Prefetcher. | 2019
+NoMap: Speeding-Up JavaScript Using Hardware Transactional Memory. | 2019
+FUSE: Fusing STT-MRAM into GPUs to Alleviate Off-Chip Memory Access Overheads. | 2019
+Featherlight Reuse-Distance Measurement. | 2019
+Efficient Load Value Prediction Using Multiple Predictors and Filters. | 2019
+BRB: Mitigating Branch Predictor Side-Channels. | 2019
+Elastic Instruction Fetching. | 2019
+The Best of IEEE Computer Architecture Letters in 2018. | 2019
+Poise: Balancing Thread-Level Parallelism and Memory System Performance in GPUs Using Machine Learning. | 2019
+A Hybrid Framework for Fast and Accurate GPU Performance Estimation through Source-Level Analysis and Trace-Based Simulation. | 2019
+Understanding the Future of Energy Efficiency in Multi-Module GPUs. | 2019
+R3-DLA (Reduce, Reuse, Recycle): A More Efficient Approach to Decoupled Look-Ahead Architectures. | 2019
+Recycling Data Slack in Out-of-Order Cores. | 2019
+Freeway: Maximizing MLP for Slice-Out-of-Order Execution. | 2019
+Enabling Transparent Memory-Compression for Commodity Memory Systems. | 2019
+D-RaNGe: Using Commodity DRAM Devices to Generate True Random Numbers with Low Latency and High Throughput. | 2019
+PageSeer: Using Page Walks to Trigger Page Swaps in Hybrid Memory Systems. | 2019
+PIM-VR: Erasing Motion Anomalies In Highly-Interactive Virtual Reality World with Customized Memory Cube. | 2019
+Rendering Elimination: Early Discard of Redundant Tiles in the Graphics Pipeline. | 2019
+Early Visibility Resolution for Removing Ineffectual Computations in the Graphics Pipeline. | 2019
+String Figure: A Scalable and Elastic Memory Network Architecture. | 2019
+NAND-Net: Minimizing Computational Complexity of In-Memory Processing for Binary Neural Networks. | 2019
+Active-Routing: Compute on the Way for Near-Data Processing. | 2019
+Understanding the Impact of Socket Density in Density Optimized Servers. | 2019
+A Scalable Priority-Aware Approach to Managing Data Center Server Power. | 2019
+Power Aware Heterogeneous Node Assembly. | 2019
+IEEE International Symposium on High Performance Computer Architecture, HPCA 2020, San Diego, CA, USA, February 22-26, 2020. | 2020
+Deep Learning Acceleration with Neuron-to-Memory Transformation. | 2020
+HyGCN: A GCN Accelerator with Hybrid Architecture. | 2020
+ACR: Amnesic Checkpointing and Recovery. | 2020
+Asymmetric Resilience: Exploiting Task-Level Idempotency for Transient Error Recovery in Accelerator-Based Systems. | 2020
+SIGMA: A Sparse and Irregular GEMM Accelerator with Flexible Interconnects for DNN Training. | 2020
+EMSim: A Microarchitecture-Level Simulation Tool for Modeling Electromagnetic Side-Channel Signals. | 2020
+Impala: Algorithm/Architecture Co-Design for In-Memory Multi-Stride Pattern Matching. | 2020
+A Deep Reinforcement Learning Framework for Architectural Exploration: A Routerless NoC Case Study. | 2020
+IRONHIDE: A Secure Multicore that Efficiently Mitigates Microarchitecture State Attacks for Interactive Applications. | 2020
+A New Side-Channel Vulnerability on Modern Computers by Exploiting Electromagnetic Emanations from the Power Management Unit. | 2020
+Leaking Information Through Cache LRU States. | 2020
+Baldur: A Power-Efficient and Scalable Network Using All-Optical Switches. | 2020
+Twig: Multi-Agent Task Management for Colocated Latency-Critical Cloud Services. | 2020
+QuickNN: Memory and Performance Optimization of k-d Tree Based Nearest Neighbor Search for 3D Point Clouds. | 2020
+CLITE: Efficient and QoS-Aware Co-Location of Multiple Latency-Critical Jobs for Warehouse Scale Computers. | 2020
+Q-Zilla: A Scheduling Framework and Core Microarchitecture for Tail-Tolerant Microservices. | 2020
+PREMA: A Predictive Multi-Task Scheduling Algorithm For Preemptible Neural Processing Units. | 2020
+Domain-Specialized Cache Management for Graph Analytics. | 2020
+ALRESCHA: A Lightweight Reconfigurable Sparse-Computation Accelerator. | 2020
+SpArch: Efficient Architecture for Sparse Matrix Multiplication. | 2020
+Mitigating Voltage Drop in Resistive Memories by Dynamic RESET Voltage Regulation and Partition RESET. | 2020
+DRAM-Less: Hardware Acceleration of Data Processing with New Memory. | 2020
+ELP2IM: Efficient and Low Power Bitwise Operation Processing in DRAM. | 2020
+ResiRCA: A Resilient Energy Harvesting ReRAM Crossbar-Based Accelerator for Intelligent Embedded Processors. | 2020
+A3: Accelerating Attention Mechanisms in Neural Networks with Approximation. | 2020
+AccPar: Tensor Partitioning for Heterogeneous Deep Learning Accelerators. | 2020
+FLOWER and FaME: A Low Overhead Bit-Level Fault-map and Fault-Tolerance Approach for Deeply Scaled Memories. | 2020
+Multi-Range Supported Oblivious RAM for Efficient Block Data Retrieval. | 2020
+CASINO Core Microarchitecture: Generating Out-of-Order Schedules Using Cascaded In-Order Scheduling Windows. | 2020
+Precise Runahead Execution. | 2020
+BBS: Micro-Architecture Benchmarking Blockchain Systems through Machine Learning and Fuzzy Set. | 2020
+Delay and Bypass: Ready and Criticality Aware Instruction Scheduling in Out-of-Order Processors. | 2020
+EquiNox: Equivalent NoC Injection Routers for Silicon Interposer-Based Throughput Processors. | 2020
+DRAIN: Deadlock Removal for Arbitrary Irregular Networks. | 2020
+SnackNoC: Processing in the Communication Layer. | 2020
+PIXEL: Photonic Neural Network Accelerator. | 2020
+The Architectural Implications of Facebook's DNN-Based Personalized Recommendation. | 2020
+NVDIMM-C: A Byte-Addressable Non-Volatile Memory Module for Compatibility with Standard DDR Memory Interfaces. | 2020
+Missing the Forest for the Trees: End-to-End AI Application Performance in Edge Data Centers. | 2020
+Communication Lower Bound in Convolution Accelerators. | 2020
+Enabling Highly Efficient Capsule Networks Processing Through A PIM-Based Architecture Design. | 2020
+Fulcrum: A Simplified Control and Access Mechanism Toward Flexible and Practical In-Situ Accelerators. | 2020
+BCoal: Bucketing-Based Memory Coalescing for Efficient and Secure GPUs. | 2020
+HMG: Extending Cache Coherence Protocols Across Modern Hierarchical Multi-GPU Systems. | 2020
+Griffin: Hardware-Software Support for Efficient Page Migration in Multi-GPU Systems. | 2020
+EFLOPS: Algorithm and System Co-Design for a High Performance Distributed Training Platform. | 2020
+Techniques for Reducing the Connected-Standby Energy Consumption of Mobile Devices. | 2020
+Experiences with ML-Driven Design: A NoC Case Study. | 2020
+Hybrid2: Combining Caching and Migration in Hybrid Memory Systems. | 2020
+Charge-Aware DRAM Refresh Reduction with Value Transformation. | 2020
+DWT: Decoupled Workload Tracing for Data Centers. | 2020
+Tensaurus: A Versatile Accelerator for Mixed Sparse-Dense Tensor Computations. | 2020
+A Hybrid Systolic-Dataflow Architecture for Inductive Matrix Algorithms. | 2020
+Improving Predication Efficiency through Compaction/Restoration of SIMD Instructions. | 2020
+IEEE International Symposium on High-Performance Computer Architecture, HPCA 2021, Seoul, South Korea, February 27 - March 3, 2021. | 2021
+Common Counters: Compressed Encryption Counters for Secure GPU Memory. | 2021
+Streamline Ring ORAM Accesses through Spatial and Temporal Optimization. | 2021
+Cheetah: Optimizing and Accelerating Homomorphic Encryption for Private Inference. | 2021
+New Models for Understanding and Reasoning about Speculative Execution Attacks. | 2021
+A Computational Stack for Cross-Domain Acceleration. | 2021
+Heterogeneous Dataflow Accelerators for Multi-DNN Workloads. | 2021
+SPAGHETTI: Streaming Accelerators for Highly Sparse GEMM on FPGAs. | 2021
+SpAtten: Efficient Sparse Attention Architecture with Cascade Token and Head Pruning. | 2021
+BBB: Simplifying Persistent Programming using Battery-Backed Buffers. | 2021
+TSOPER: Efficient Coherence-Based Strict Persistency. | 2021
+Stealth-Persist: Architectural Support for Persistent Applications in Hybrid Memory Systems. | 2021
+TILT: Achieving Higher Fidelity on a Trapped-Ion Linear-Tape Quantum Computing Architecture. | 2021
+QuCloud: A New Qubit Mapping Mechanism for Multi-programming Quantum Computing in Cloud Environment. | 2021
+Systematic Approaches for Precise and Approximate Quantum State Runtime Assertion. | 2021
+Faster Schrödinger-style simulation of quantum circuits. | 2021
+Mix and Match: A Novel FPGA-Centric Deep Neural Network Quantization Framework. | 2021
+Revisiting HyperDimensional Learning for FPGA and Low-Power Architectures. | 2021
+Tensor Casting: Co-Designing Algorithm-Architecture for Personalized Recommendation Training. | 2021
+GradPIM: A Practical Processing-in-DRAM Architecture for Gradient Descent. | 2021
+SynCron: Efficient Synchronization Support for Near-Data-Processing Architectures. | 2021
+Zero Directory Eviction Victim: Unbounded Coherence Directory and Core Cache Isolation. | 2021
+Designing a Cost-Effective Cache Replacement Policy using Machine Learning. | 2021
+WiDir: A Wireless-Enabled Directory Cache Coherence Protocol. | 2021
+Heat Behind the Meter: A Hidden Threat of Thermal Attacks in Edge Colocation Data Centers. | 2021
+Trident: A Hybrid Correlation-Collision GPU Cache Timing Attack for AES Key Recovery. | 2021
+BlockHammer: Preventing RowHammer at Low Cost by Blacklisting Rapidly-Accessed DRAM Rows. | 2021
+A Write-Friendly and Fast-Recovery Scheme for Security Metadata in Non-Volatile Memories. | 2021
+DepGraph: A Dependency-Driven Accelerator for Efficient Iterative Graph Processing. | 2021
+QEI: Query Acceleration Can be Generic and Efficient in the Cloud. | 2021
+EXMA: A Genomics Accelerator for Exact-Matching. | 2021
+Ultra-Elastic CGRAs for Irregular Loop Specialization. | 2021
+GSSA: A Resource Allocation Scheme Customized for 3D NAND SSDs. | 2021
+Memristive Data Ranking. | 2021
+DeACT: Architecture-Aware Virtual Memory Support for Fabric Attached Memory Systems. | 2021
+Analyzing and Leveraging Decoupled L1 Caches in GPUs. | 2021
+Deadline-Aware Offloading for High-Throughput Accelerators. | 2021
+Lazy Batching: An SLA-aware Batching System for Cloud Machine Learning Inference. | 2021
+Dead Page and Dead Block Predictors: Cleaning TLBs and Caches Together. | 2021
+ParaDox: Eliminating Voltage Margins via Heterogeneous Fault Tolerance. | 2021
+CARE: Coordinated Augmentation for Elastic Resilience on DRAM Errors in Data Centers. | 2021
+Automatic Microprocessor Performance Bug Detection. | 2021
+CAPE: A Content-Addressable Processing Engine. | 2021
+SpaceA: Sparse Matrix Vector Multiplication on Processing-in-Memory Accelerator. | 2021
+Layerweaver: Maximizing Resource Utilization of Neural Processing Units via Layer-Wise Scheduling. | 2021
+Sentinel: Efficient Tensor Migration and Allocation on Heterogeneous Memory Systems for Deep Learning. | 2021
+CSCNN: Algorithm-hardware Co-design for CNN Accelerators using Centrosymmetric Filters. | 2021
+Improving GPU Multi-tenancy with Page Walk Stealing. | 2021
+Stream Floating: Enabling Proactive and Decentralized Cache Optimizations. | 2021
+Prodigy: Improving the Memory Latency of Data-Indirect Irregular Workloads Using Hardware-Software Co-Design. | 2021
+P-OPT: Practical Optimal Cache Replacement for Graph Analytics. | 2021
+Pitstop: Enabling a Virtual Network Free Network-on-Chip. | 2021
+BoomGate: Deadlock Avoidance in Non-Minimal Routing for High-Radix Networks. | 2021
+CHOPIN: Scalable Graphics Rendering in Multi-GPU Systems via Parallel Image Composition. | 2021
+Adapt-NoC: A Flexible Network-on-Chip Design for Heterogeneous Manycore Architectures. | 2021
+Hardware-Based Address-Centric Acceleration of Key-Value Store. | 2021
+BRIM: Bistable Resistively-Coupled Ising Machine. | 2021
+An Analog Preconditioner for Solving Linear Systems. | 2021
+GCNAX: A Flexible and Energy-efficient Accelerator for Graph Convolutional Neural Networks. | 2021
+Ascend: a Scalable and Unified Architecture for Ubiquitous Deep Neural Network Computing : Industry Track Paper. | 2021
+Understanding Training Efficiency of Deep Learning Recommendation Models at Scale. | 2021
+LIBRA: Clearing the Cloud Through Dynamic Memory Bandwidth Management. | 2021
+Eudoxus: Characterizing and Accelerating Localization in Autonomous Machines Industry Track Paper. | 2021
+NeuroMeter: An Integrated Power, Area, and Timing Modeling Framework for Machine Learning Accelerators Industry Track Paper. | 2021
+Chasing Carbon: The Elusive Environmental Footprint of Computing. | 2021
+Need for Speed: Experiences Building a Trustworthy System-Level GPU Simulator. | 2021
+Operating Liquid-Cooled Large-Scale Systems: Long-Term Monitoring, Reliability Analysis, and Efficiency Measures. | 2021
+FuseKNA: Fused Kernel Convolution based Accelerator for Deep Neural Networks. | 2021
+FAFNIR: Accelerating Sparse Gathering by Using Efficient Near-Memory Intelligent Reduction. | 2021
+VIA: A Smart Scratchpad for Vector Units with Application to Sparse Matrix Computations. | 2021

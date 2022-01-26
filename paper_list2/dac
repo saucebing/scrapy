@@ -1,0 +1,927 @@
+Proceedings of the 55th Annual Design Automation Conference, DAC 2018, San Francisco, CA, USA, June 24-29, 2018. | 2018
+Ensemble learning for effective run-time hardware-based malware detection: a comprehensive analysis and classification. | 2018
+Deepsecure: scalable provably-secure deep learning. | 2018
+DWE: decrypting learning with errors with errors. | 2018
+Reverse engineering convolutional neural networks through side-channel information leaks. | 2018
+OFTL: ordering-aware FTL for maximizing performance of the journaling file system. | 2018
+LAWN: boosting the performance of NVMM file system through reducing write amplification. | 2018
+FastGC: accelerate garbage collection via an efficient copyback-based data migration in SSDs. | 2018
+Dynamic management of key states for reinforcement learning-assisted garbage collection to reduce long tail latency in SSD. | 2018
+WB-trees: a meshed tree representation for FinFET analog layout designs. | 2018
+Analog placement with current flow and symmetry constraints using PCP-SP. | 2018
+Multi-objective bayesian optimization for analog/RF circuit synthesis. | 2018
+Calibrating process variation at system level with in-situ low-precision transfer learning for analog neural network processors. | 2018
+DPS: dynamic precision scaling for stochastic computing-based deep neural networks. | 2018
+Dyhard-DNN: even more DNN acceleration with dynamic hardware reconfiguration. | 2018
+Exploring the programmability for deep learning processors: from architecture to tensorization. | 2018
+LCP: a layer clusters paralleling mapping method for accelerating inception and residual networks on FPGA. | 2018
+Ares: a framework for quantifying the resilience of deep neural networks. | 2018
+DeepN-JPEG: a deep neural network favorable JPEG-based image compression framework. | 2018
+Thundervolt: enabling aggressive voltage underscaling and timing error resilience for energy efficient deep learning accelerators. | 2018
+Loom: exploiting weight and activation precisions to accelerate convolutional neural networks. | 2018
+Parallelizing SRAM arrays with customized bit-cell for binary neural networks. | 2018
+An ultra-low energy internally analog, externally digital vector-matrix multiplier based on NOR flash memory technology. | 2018
+Coding approach for low-power 3D interconnects. | 2018
+A novel 3D DRAM memory cube architecture for space applications. | 2018
+A general graph based pessimism reduction framework for design optimization of timing closure. | 2018
+Virtualsync: timing optimization by synchronizing logic waves with sequential and combinational components as delay units. | 2018
+Noise-aware DVFS transition sequence optimization for battery-powered IoT devices. | 2018
+Accurate processor-level wirelength distribution model for technology pathfinding using a modernized interpretation of rent's rule. | 2018
+Semi-automatic safety analysis and optimization. | 2018
+Reasoning about safety of learning-enabled components in autonomous cyber-physical systems. | 2018
+Runtime monitoring for safety of intelligent vehicles. | 2018
+Revisiting context-based authentication in IoT. | 2018
+MAXelerator: FPGA accelerator for privacy preserving multiply-accumulate (MAC) on cloud servers. | 2018
+Hypernel: a hardware-assisted framework for kernel protection without nested paging. | 2018
+Reducing the overhead of authenticated memory encryption using delta encoding and ECC memory. | 2018
+Reducing time and effort in IC implementation: a roadmap of challenges and solutions. | 2018
+Efficient reinforcement learning for automating human decision-making in SoC design. | 2018
+Compensated-DNN: energy efficient low-precision deep neural networks by compensating quantization errors. | 2018
+Thermal-aware optimizations of reRAM-based neuromorphic computing systems. | 2018
+Compiler-guided instruction-level clock scheduling for timing speculative processors. | 2018
+SRAM based opportunistic energy efficiency improvement in dual-supply near-threshold processors. | 2018
+Enhancing workload-dependent voltage scaling for energy-efficient ultra-low-power embedded systems. | 2018
+Efficient and reliable power delivery in voltage-stacked manycore system with hybrid charge-recycling regulators. | 2018
+Exact algorithms for delay-bounded steiner arborescences. | 2018
+Efficient multi-layer obstacle-avoiding region-to-region rectilinear steiner tree construction. | 2018
+Obstacle-avoiding open-net connector with precise shortest distance estimation. | 2018
+COSAT: congestion, obstacle, and slew aware tree construction for multiple power domain design. | 2018
+A machine learning framework to identify detailed routing short violations from a placed netlist. | 2018
+DSA-friendly detailed routing considering double patterning and DSA template assignments. | 2018
+Developing synthesis flows without human knowledge. | 2018
+Efficient computation of ECO patch functions. | 2018
+Canonical computation without canonical representation. | 2018
+SAT based exact synthesis using DAG topology families. | 2018
+Efficient batch statistical error estimation for iterative multi-level approximate logic synthesis. | 2018
+BLASYS: approximate logic synthesis using boolean matrix factorization. | 2018
+Optimized I/O determinism for emerging NVM-based NVMe SSD in an enterprise system. | 2018
+Improving runtime performance of deduplication system with host-managed SMR storage drives. | 2018
+Wear leveling for crossbar resistive memory. | 2018
+RADAR: a 3D-reRAM based DNA alignment accelerator architecture. | 2018
+Mamba: closing the performance gap in productive hardware development frameworks. | 2018
+ACED: a hardware library for generating DSP systems. | 2018
+PARM: power supply noise aware resource management for NoC based multicore systems in the dark silicon era. | 2018
+Aging-constrained performance optimization for multi cores. | 2018
+A measurement system for capacitive PUF-based security enclosures. | 2018
+It's hammer time: how to attack (rowhammer-based) DRAM-PUFs. | 2018
+CamPUF: physically unclonable function based on CMOS image sensor fixed pattern noise. | 2018
+Tamper-resistant pin-constrained digital microfluidic biochips. | 2018
+Approximation-aware coordinated power/performance management for heterogeneous multi-cores. | 2018
+QoS-aware stochastic power management for many-cores. | 2018
+Employing classification-based algorithms for general-purpose approximate computing. | 2018
+Using imprecise computing for improved non-preemptive real-time scheduling. | 2018
+A modular digital VLSI flow for high-productivity SoC design. | 2018
+Basejump STL: systemverilog needs a standard template library for hardware design. | 2018
+TRIG: hardware accelerator for inference-based applications and experimental demonstration using carbon nanotube FETs. | 2018
+OPERON: optical-electrical power-efficient route synthesis for on-chip signals. | 2018
+Soft-FET: phase transition material assisted soft switching field effect transistor for supply voltage droop mitigation. | 2018
+Ultralow power acoustic feature-scoring using gaussian I-V transistors. | 2018
+Test cost reduction for X-value elimination by scan slice correlation analysis. | 2018
+Cross-layer fault-space pruning for hardware-assisted fault injection. | 2018
+A machine learning based hard fault recuperation model for approximate hardware accelerators. | 2018
+SOTERIA: exploiting process variations to enhance hardware security with photonic NoC architectures. | 2018
+LEAD: learning-enabled energy-aware dynamic voltage/frequency scaling in NoCs. | 2018
+Subutai: distributed synchronization primitives in NoC interfaces for legacy parallel-applications. | 2018
+Packet pump: overcoming network bottleneck in on-chip interconnects for GPGPUs. | 2018
+STASH: security architecture for smart hybrid memories. | 2018
+ACME: advanced counter mode encryption for secure non-volatile memories. | 2018
+CASTLE: compression architecture for secure low latency, low energy, high endurance NVMs. | 2018
+A collaborative defense against wear out attacks in non-volatile processors. | 2018
+Protecting the supply chain for automotives and IoTs. | 2018
+Reconciling remote attestation and safety-critical operation on simple IoT devices. | 2018
+Formal security verification of concurrent firmware in SoCs using instruction-level abstraction for hardware. | 2018
+Application level hardware tracing for scaling post-silicon debug. | 2018
+Specification-driven automated conformance checking for virtual prototype and post-silicon designs. | 2018
+Formal micro-architectural analysis of on-chip ring networks. | 2018
+HFMV: hybridizing formal methods and machine learning for verification of analog and mixed-signal circuits. | 2018
+Cost-aware patch generation for multi-target function rectification of engineering change orders. | 2018
+Modelling multicore contention on the AURIXTM TC27x. | 2018
+Cache side-channel attacks and time-predictability in high-performance critical real-time systems. | 2018
+Cross-layer dependency analysis with timing dependence graphs. | 2018
+Brook auto: high-level certification-friendly programming for GPU-powered automotive systems. | 2018
+Dynamic vehicle software with AUTOCONT. | 2018
+Automated interpretation and reduction of in-vehicle network traces at a large scale. | 2018
+Atomlayer: a universal reRAM-based CNN accelerator with atomic layer computation. | 2018
+Towards accurate and high-speed spiking neuromorphic systems with data quantization-aware deep networks. | 2018
+CMP-PIM: an energy-efficient comparator-based processing-in-memory neural network accelerator. | 2018
+SNrram: an efficient sparse neural network computation architecture based on resistive random-access memory. | 2018
+Long live TIME: improving lifetime for training-in-memory engines by structured gradient sparsification. | 2018
+Hierarchical hyperdimensional computing for energy efficient classification. | 2018
+Dadu-P: a scalable accelerator for robot motion planning in a dynamic environment. | 2018
+Data prediction for response flows in packet processing cache. | 2018
+PULP-HD: accelerating brain-inspired high-dimensional computing on a parallel ultra-low power platform. | 2018
+Active forwarding: eliminate IOMMU address translation for accelerator-rich architectures. | 2018
+SARA: self-aware resource allocation for heterogeneous MPSoCs. | 2018
+PEP: proactive checkpointing for efficient preemption on GPUs. | 2018
+FMMU: a hardware-accelerated flash map management unit for scalable performance of flash-based SSDs. | 2018
+Minimizing write amplification to enhance lifetime of large-page flash-memory storage devices. | 2018
+Proactive channel adjustment to improve polar code capability for flash storage devices. | 2018
+Achieving defect-free multilevel 3D flash memories with one-shot program design. | 2018
+Power-based side-channel instruction-level disassembler. | 2018
+Side-channel security of superscalar CPUs: evaluating the impact of micro-architectural features. | 2018
+Electro-magnetic analysis of GPU-based AES implementation. | 2018
+GPU obfuscation: attack and defense strategies. | 2018
+Measurement-based cache representativeness on multipath programs. | 2018
+Resource-aware partitioned scheduling for heterogeneous multicore real-time systems. | 2018
+Response-time analysis of DAG tasks supporting heterogeneous computing. | 2018
+Duet: an OLED & GPU co-management scheme for dynamic resolution adaptation. | 2018
+RAMP: resource-aware mapping for CGRAs. | 2018
+An architecture-agnostic integer linear programming approach to CGRA mapping. | 2018
+Dnestmap: mapping deeply-nested loops on ultra-low power CGRAs. | 2018
+Locality aware memory assignment and tiling. | 2018
+GAN-OPC: mask optimization with lithography-guided generative adversarial nets. | 2018
+An efficient Bayesian yield estimation method for high dimensional and high sigma SRAM circuits. | 2018
+RAIN: a tool for reliability assessment of interconnect networks - physics to software. | 2018
+A fast and robust failure analysis of memory circuits using adaptive importance sampling method. | 2018
+SpWA: an efficient sparse winograd convolutional neural networks accelerator on FPGAs. | 2018
+Efficient winograd-based convolution kernel implementation on edge devices. | 2018
+An efficient kernel transformation architecture for binary- and ternary-weight neural network inference. | 2018
+Content addressable memory based binarized neural network accelerator using time-domain signal processing. | 2018
+A security vulnerability analysis of SoCFPGA architectures. | 2018
+Raise your game for split manufacturing: restoring the true functionality through BEOL. | 2018
+Analysis of security of split manufacturing using machine learning. | 2018
+Inducing local timing fault through EM injection. | 2018
+IAfinder: identifying potential implicit assumptions to facilitate validation in medical cyber-physical system. | 2018
+An efficient timestamp-based monitoring approach to test timing constraints of cyber-physical systems. | 2018
+Runtime adjustment of IoT system-on-chips for minimum energy operation. | 2018
+Edge-cloud collaborative processing for intelligent internet of things: a case study on smart surveillance. | 2018
+Bandwidth-efficient deep learning. | 2018
+Co-design of deep neural nets and neural net accelerators for embedded vision applications. | 2018
+Generalized augmented lagrangian and its applications to VLSI global placement. | 2018
+Routability-driven and fence-aware legalization for mixed-cell-height circuits. | 2018
+PlanarONoC: concurrent placement and routing considering crossing minimization for optical networks-on-chip. | 2018
+Similarity-aware spectral sparsification by edge filtering. | 2018
+S2FA: an accelerator automation framework for heterogeneous computing in datacenters. | 2018
+Automated accelerator generation and optimization with composable, parallel and pipeline architecture. | 2018
+TAO: techniques for algorithm-level obfuscation during high-level synthesis. | 2018
+Extracting data parallelism in non-stencil kernel computing by optimally coloring folded memory conflict graph. | 2018
+SMApproxlib: library of FPGA-based approximate multipliers. | 2018
+Sign-magnitude SC: getting 10X accuracy for free in stochastic computing for deep neural networks. | 2018
+Area-optimized low-latency approximate multipliers for FPGA-based hardware accelerators. | 2018
+Approximate on-the-fly coarse-grained reconfigurable acceleration for general-purpose applications. | 2018
+LEMAX: learning-based energy consumption minimization in approximate computing with quality guarantee. | 2018
+PIMA-logic: a novel processing-in-memory architecture for highly flexible and energy-efficient logic computation. | 2018
+Columba S: a scalable co-layout design automation tool for microfluidic large-scale integration. | 2018
+Design-for-testability for continuous-flow microfluidic biochips. | 2018
+Design and architectural co-optimization of monolithic 3D liquid state machine-based neuromorphic processor. | 2018
+Enabling a new era of brain-inspired computing: energy-efficient spiking neural network with ring topology. | 2018
+A neuromorphic design using chaotic mott memristor with relaxation oscillation. | 2018
+DrAcc: a DRAM based accelerator for accurate CNN inference. | 2018
+On-chip deep neural network storage with multi-level eNVM. | 2018
+Closed yet open DRAM: achieving low latency and high performance in DRAM memory systems. | 2018
+VRL-DRAM: improving DRAM performance via variable refresh latency. | 2018
+Enabling union page cache to boost file access performance of NVRAM-based storage device. | 2018
+FLOSS: FLOw sensitive scheduling on mobile platforms. | 2018
+Context-aware dataflow adaptation technique for low-power multi-core embedded systems. | 2018
+Architecture decomposition in system synthesis of heterogeneous many-core systems. | 2018
+NNsim: fast performance estimation based on sampled simulation of GPGPU kernels for neural networks. | 2018
+STAFF: online learning with stabilized adaptive forgetting factor and feature selection algorithm. | 2018
+Extensive evaluation of programming models and ISAs impact on multicore soft error reliability. | 2018
+Optimized selection of wireless network topologies and components via efficient pruning of feasible paths. | 2018
+Proceedings of the 56th Annual Design Automation Conference 2019, DAC 2019, Las Vegas, NV, USA, June 02-06, 2019. | 2019
+LAMA: Link-Aware Hybrid Management for Memory Accesses in Emerging CPU-FPGA Platforms. | 2019
+Thread Weaving: Static Resource Scheduling for Multithreaded High-Level Synthesis. | 2019
+Exact and Heuristic Allocation of Multi-kernel Applications to Multi-FPGA Platforms. | 2019
+A Flat Timing-Driven Placement Flow for Modern FPGAs. | 2019
+Accuracy vs. Efficiency: Achieving Both through FPGA-Implementation Aware Neural Architecture Search. | 2019
+CANN: Curable Approximations for High-Performance Deep Neural Network Accelerators. | 2019
+Successive Log Quantization for Cost-Efficient Neural Networks Using Stochastic Computing. | 2019
+ARGA: Approximate Reuse for GPGPU Acceleration. | 2019
+Assessing the Adherence of an Industrial Autonomous Driving Framework to ISO 26262 Software Guidelines. | 2019
+Tighter Dimensioning of Heterogeneous Multi-Resource Autonomous CPS with Control Performance Guarantees. | 2019
+Dynamic Switching Speed Reconfiguration for Engine Performance Optimization. | 2019
+A Memory-Efficient Markov Decision Process Computation Framework Using BDD-based Sampling Representation. | 2019
+Process, Circuit and System Co-optimization of Wafer Level Co-Integrated FinFET with Vertical Nanosheet Selector for STT-MRAM Applications. | 2019
+LL-PCM: Low-Latency Phase Change Memory Architecture. | 2019
+What does Vibration do to Your SSD? | 2019
+Ultra-thin Skin Electronics for High Quality and Continuous Skin-Sensor-Silicon Interfacing. | 2019
+Enabling High-Dimensional Bayesian Optimization for Efficient Failure Detection of Analog and Mixed-Signal Circuits. | 2019
+High Performance Graph Convolutional Networks with Applications in Testability Analysis. | 2019
+MRLoc: Mitigating Row-hammering based on memory Locality. | 2019
+System-level hardware failure prediction using deep learning. | 2019
+Enabling Practical Processing in and near Memory for Data-Intensive Computing. | 2019
+Practical Near-Data Processing to Evolve Memory and Storage Devices into Mainstream Heterogeneous Computing Systems. | 2019
+HeadStart: Enforcing Optimal Inceptions in Pruning Deep Neural Networks for Efficient Inference on GPGPUs. | 2019
+GATE: A Generalized Dataflow-level Approximation Tuning Engine For Data Parallel Architectures. | 2019
+LSIM: Ultra Lightweight Similarity Measurement for Mobile Graphics Applications. | 2019
+Efficient State Retention through Paged Memory Management for Reactive Transient Computing. | 2019
+NAPEL: Near-Memory Computing Application Performance Prediction via Ensemble Learning. | 2019
+DREDGE: Dynamic Repartitioning during Dynamic Graph Execution. | 2019
+ROC: DRAM-based Processing with Reduced Operation Cycles. | 2019
+NV-BNN: An Accurate Deep Convolutional Neural Network Based on Binary STT-MRAM for Adaptive AI Edge. | 2019
+No Compromises: Secure NVM with Crash Consistency, Write-Efficiency and High-Performance. | 2019
+In-process Memory Isolation Using Hardware Watchpoint. | 2019
+H-ORAM: A Cacheable ORAM Interface for Efficient I/O Accesses. | 2019
+RansomBlocker: a Low-Overhead Ransomware-Proof SSD. | 2019
+Transmit or Discard: Optimizing Data Freshness in Networked Embedded Systems with Energy Harvesting Sources. | 2019
+FPGA-Based Emulation of Embedded DRAMs for Statistical Error Resilience Evaluation of Approximate Computing Systems. | 2019
+Adapting Layer RBERs Variations of 3D Flash Memories via Multi-granularity Progressive LDPC Reading. | 2019
+A Hybrid Agent-based Design Methodology for Dynamic Cross-layer Reliability in Heterogeneous Embedded Systems. | 2019
+PRIMAL: Power Inference using Machine Learning. | 2019
+Partition and Propagate: an Error Derivation Algorithm for the Design of Approximate Circuits. | 2019
+Performance, Power and Cooling Trade-Offs with NCFET-based Many-Cores. | 2019
+STFL: Energy-Efficient Data Movement with Slow Transition Fast Level Signaling. | 2019
+Formal Verification of Security Critical Hardware-Firmware Interactions in Commercial SoCs. | 2019
+In Hardware We Trust: Gains and Pains of Hardware-assisted Security. | 2019
+Protecting RISC-V against Side-Channel Attacks. | 2019
+ANN Based Admission Control for On-Chip Networks. | 2019
+An Energy-Efficient Network-on-Chip Design using Reinforcement Learning. | 2019
+Lightweight Mitigation of Hardware Trojan Attacks in NoC-based Manycore Computing. | 2019
+Sparse 3-D NoCs with Inductive Coupling. | 2019
+Surf-Bless: A Confined-interference Routing for Energy-Efficient Communication in NoCs. | 2019
+Effect of Distributed Directories in Mesh Interconnects. | 2019
+BRIC: Locality-based Encoding for Energy-Efficient Brain-Inspired Hyperdimensional Computing. | 2019
+Fast and Efficient Information Transmission with Burst Spikes in Deep Spiking Neural Networks. | 2019
+Deep-DFR: A Memristive Deep Delayed Feedback Reservoir Computing System with Hybrid Neural Network Topology. | 2019
+A Fault-Tolerant Neural Network Architecture. | 2019
+A Configurable Multi-Precision CNN Computing Framework Based on Single Bit RRAM. | 2019
+Noise Injection Adaption: End-to-End ReRAM Crossbar Non-ideal Effect Adaption for Neural Network Mapping. | 2019
+A Novel Covert Channel Attack Using Memory Encryption Engine Cache. | 2019
+Designing Secure Cryptographic Accelerators with Information Flow Enforcement: A Case Study on AES. | 2019
+SafeSpec: Banishing the Spectre of a Meltdown with Leakage-Free Speculation. | 2019
+SpectreGuard: An Efficient Data-centric Defense Mechanism against Spectre Attacks. | 2019
+PAPP: Prefetcher-Aware Prime and Probe Side-channel Attack. | 2019
+HardScope: Hardening Embedded Systems Against Data-Oriented Attacks. | 2019
+An Efficient Multi-fidelity Bayesian Optimization Approach for Analog Circuit Synthesis. | 2019
+Rethinking Sparsity in Performance Modeling for Analog and Mixed Circuits using Spike and Slab Models. | 2019
+WellGAN: Generative-Adversarial-Network-Guided Well Generation for Analog/Mixed-Signal Circuit Layout. | 2019
+Digital Compatible Synthesis, Placement and Implementation of Mixed-Signal Time-Domain Computing. | 2019
+A Rigorous Approach for the Sparsification of Dense Matrices in Model Order Reduction of RLC Circuits. | 2019
+Enabling Complex Stimuli in Accelerated Mixed-Signal Simulation. | 2019
+Scalable Generic Logic Synthesis: One Approach to Rule Them All. | 2019
+Comprehensive Search for ECO Rectification Using Symbolic Sampling. | 2019
+Embedding Functions Into Reversible Circuits: A Probabilistic Approach to the Number of Lines. | 2019
+Disjoint-Support Decomposition and Extraction for Interconnect-Driven Threshold Logic Synthesis. | 2019
+Reducing the Multiplicative Complexity in Logic Networks for Cryptography and Security Applications. | 2019
+SMatch: Structural Matching for Fast Resynthesis in FPGAs. | 2019
+Toward an Open-Source Digital Flow: First Learnings from the OpenROAD Project. | 2019
+ALIGN: Open-Source Analog Layout Automation from the Ground Up. | 2019
+Essential Building Blocks for Creating an Open-source EDA Project. | 2019
+Open-Source EDA Tools and IP, A View from the Trenches. | 2019
+A 1.17 TOPS/W, 150fps Accelerator for Multi-Face Detection and Alignment. | 2019
+Analog/Mixed-Signal Hardware Error Modeling for Deep Learning Inference. | 2019
+A 3T/Cell Practical Embedded Nonvolatile Memory Supporting Symmetric Read and Write Access Based on Ferroelectric FETs. | 2019
+A Fast, Reliable and Wide-Voltage-Range In-Memory Computing Architecture. | 2019
+BitBlade: Area and Energy-Efficient Precision-Scalable Neural Network Accelerator with Bitwise Summation. | 2019
+Acceleration of DNN Backward Propagation by Selective Computation of Gradients. | 2019
+C3-Flow: Compute Compression Co-Design Flow for Deep Neural Networks. | 2019
+ABM-SpConv: A Novel Approach to FPGA-Based Acceleration of Convolutional Neural Network Inference. | 2019
+Pushing the speed limit of constant-time discrete Gaussian sampling. A case study on the Falcon signature scheme. | 2019
+Full-Lock: Hard Distributions of SAT instances for Obfuscating Circuits using Fully Configurable Logic and Routing Blocks. | 2019
+A Cellular Automata Guided Obfuscation Strategy For Finite-State-Machine Synthesis. | 2019
+An Efficient Spare-Line Replacement Scheme to Enhance NVM Security. | 2019
+Analyzing Parallel Real-Time Tasks Implemented with Thread Pools. | 2019
+Scheduling and Analysis of Parallel Real-Time Tasks with Semaphores. | 2019
+Real-Time Scheduling and Analysis of Synchronous OpenMP Task Systems with Tied Tasks. | 2019
+DCFNoC: A Delayed Conflict-Free Time Division Multiplexing Network on Chip. | 2019
+Learning Temporal Specifications from Imperfect Traces Using Bayesian Inference. | 2019
+Accelerating FPGA Prototyping through Predictive Model-Based HLS Design Space Exploration. | 2019
+Sample-Guided Automated Synthesis for CCSL Specifications. | 2019
+DHOOM: Reusing Design-for-Debug Hardware for Online Monitoring. | 2019
+Efficient System Architecture in the Era of Monolithic 3D: Dynamic Inter-tier Interconnect and Processing-in-Memory. | 2019
+RTL-to-GDS Tool Flow and Design-for-Test Solutions for Monolithic 3D ICs. | 2019
+MobiEye: An Efficient Cloud-based Video Detection System for Real-time Mobile Applications. | 2019
+Enabling File-Oriented Fast Secure Deletion on Shingled Magnetic Recording Drives. | 2019
+Enabling Failure-resilient Intermittently-powered Systems Without Runtime Checkpointing. | 2019
+Sensor Drift Calibration via Spatial Correlation Model in Smart Building. | 2019
+Machine Learning-Based Pre-Routing Timing Prediction with Reduced Pessimism. | 2019
+LithoGAN: End-to-End Lithography Modeling with Generative Adversarial Networks. | 2019
+A General Cache Framework for Efficient Generation of Timing Critical Paths. | 2019
+Effective-Resistance Preserving Spectral Reduction of Graphs. | 2019
+Revisiting the ARM Debug Facility for OS Kernel Security. | 2019
+Low-Overhead Power Trace Obfuscation for Smart Meter Privacy. | 2019
+ARM2GC: Succinct Garbled Processor for Secure Computation. | 2019
+Filianore: Better Multiplier Architectures for LWE-based Post-Quantum Key Exchange. | 2019
+Adaptive Granularity Encoding for Energy-efficient Non-Volatile Main Memory. | 2019
+Magma: A Monolithic 3D Vertical Heterogeneous ReRAM-based Main Memory Architecture. | 2019
+A Wear-Leveling-Aware Fine-Grained Allocator for Non-Volatile Memory. | 2019
+DREAMPlace: Deep Learning Toolkit-Enabled GPU Acceleration for Modern VLSI Placement. | 2019
+BiG: A Bivariate Gradient-Based Wirelength Model for Analytical Circuit Placement. | 2019
+Routability-driven Mixed-size Placement Prototyping Approach Considering Design Hierarchy and Indirect Connectivity Between Macros. | 2019
+NCTUcell: A DDA-Aware Cell Library Generator for FinFET Structure with Implicitly Adjustable Grid Map. | 2019
+Design Principles for True Random Number Generators for Security Applications. | 2019
+Rapid Generation of High-Qality RISC-V Processors from Functional Instruction Set Specifications. | 2019
+autoAx: An Automatic Design Space Exploration and Circuit Building Methodology utilizing Libraries of Approximate Components. | 2019
+Graph-Morphing: Exploiting Hidden Parallelism of Non-Stencil Computation in High-Level Synthesis. | 2019
+Overcoming Data Transfer Bottlenecks in FPGA-based DNN Accelerators via Layer Conscious Memory Management. | 2019
+High-Level Synthesis of Resource-oriented Approximate Designs for FPGAs. | 2019
+Improving Scalability of Exact Modulo Scheduling with Specialized Conflict-Driven Learning. | 2019
+LAcc: Exploiting Lookup Table-based Fast and Accurate Vector Multiplication in DRAM-based CNN Accelerator. | 2019
+DRIS-3: Deep Neural Network Reliability Improvement Scheme in 3D Die-Stacked Memory based on Fault Analysis. | 2019
+X-MANN: A Crossbar based Architecture for Memory Augmented Neural Networks. | 2019
+On-Chip Memory Technology Design Space Explorations for Mobile Deep Neural Network Accelerators. | 2019
+SkippyNN: An Embedded Stochastic-Computing Accelerator for Convolutional Neural Networks. | 2019
+ZARA: A Novel Zero-free Dataflow Accelerator for Generative Adversarial Networks in 3D ReRAM. | 2019
+X-DeepSCA: Cross-Device Deep Learning Side Channel Attack. | 2019
+Attacking Split Manufacturing from a Deep Learning Perspective. | 2019
+ALAFA: Automatic Leakage Assessment for Fault Attack Countermeasures. | 2019
+ChipSecure: A Reconfigurable Analog eFlash-Based PUF with Machine Learning Attack Resiliency in 55nm CMOS. | 2019
+Adversarial Attack against Modeling Attack on PUFs. | 2019
+RFTC: Runtime Frequency Tuning Countermeasure Using FPGA Dynamic Reconfiguration to Mitigate Power Analysis Attacks. | 2019
+Design Guidelines of RRAM based Neural-Processing-Unit: A Joint Device-Circuit-Algorithm Analysis. | 2019
+QURE: Qubit Re-allocation in Noisy Intermediate-Scale Quantum Computers. | 2019
+Mapping Quantum Circuits to IBM QX Architectures Using the Minimal Number of SWAP and H Operations. | 2019
+Computing Radial Basis Function Support Vector Machine using DNA via Fractional Coding. | 2019
+AlignS: A Processing-In-Memory Accelerator for DNA Short Read Alignment Leveraging SOT-MRAM. | 2019
+MiniControl: Synthesis of Continuous-Flow Microfluidics with Strictly Constrained Control Ports. | 2019
+Faster Region-based Hotspot Detection. | 2019
+Efficient Layout Hotspot Detection via Binarized Residual Neural Network. | 2019
+DeePattern: Layout Pattern Generation with Transforming Convolutional Auto-Encoder. | 2019
+GAN-SRAF: Sub-Resolution Assist Feature Generation Using Conditional Generative Adversarial Networks. | 2019
+Meta-Model based High-Dimensional Yield Analysis using Low-Rank Tensor Approximation. | 2019
+Novel Guiding Template and Mask Assignment for DSA-MP Hybrid Lithography Using Multiple BCP Materials. | 2019
+Actors Revisited for Time-Critical Systems. | 2019
+Time-Predictable Computing by Design: Looking Back, Looking Forward. | 2019
+Consolidating High-Integrity, High-Performance, and Cyber-Security Functions on a Manycore Processor. | 2019
+Efficient GPU NVRAM Persistence with Helper Warps. | 2019
+FlashGPU: Placing New Flash Next to GPU Cores. | 2019
+Performance-aware Wear Leveling for Block RAM in Nonvolatile FPGAs. | 2019
+ZUMA: Enabling Direct Insertion/Deletion Operations with Emerging Skyrmion Racetrack Memory. | 2019
+ApproxLP: Approximate Multiplication with Linearization and Iterative Error Control. | 2019
+Cooperative Arithmetic-Aware Approximation Techniques for Energy-Efficient Multipliers. | 2019
+Approximate Integer and Floating-Point Dividers with Near-Zero Error Bias. | 2019
+In-Stream Stochastic Division and Square Root via Correlation. | 2019
+MASKER: Adaptive Mobile Security Enhancement against Automatic Speech Recognition in Eavesdropping. | 2019
+Adversarial Attack on Microarchitectural Events based Malware Detectors. | 2019
+Fault Sneaking Attack: a Stealthy Framework for Misleading Deep Neural Networks. | 2019
+PREEMPT: PReempting Malware by Examining Embedded Processor Traces. | 2019
+Workload-Aware Harmonic Partitioned Scheduling of Periodic Real-Time Tasks with Constrained Deadlines. | 2019
+Holistic multi-resource allocation for multicore real-time virtualization. | 2019
+Runtime Resource Management with Workload Prediction. | 2019
+Code Mapping in Heterogeneous Platforms Using Deep Learning and LLVM-IR. | 2019
+REAP: Runtime Energy-Accuracy Optimization for Energy Harvesting IoT Devices. | 2019
+Tumbler: Energy Efficient Task Scheduling for Dual-Channel Solar-Powered Sensor Nodes. | 2019
+GreenTPU: Improving Timing Error Resilience of a Near-Threshold Tensor Processing Unit. | 2019
+Thermal-Aware Design and Management for Search-based In-Memory Acceleration. | 2019
+Building Robust Machine Learning Systems: Current Progress, Research Challenges, and Opportunities. | 2019
+Adversarial Machine Learning Beyond the Image Domain. | 2019
+Memory-Bound Proof-of-Work Acceleration for Blockchain Applications. | 2019
+Architecture, Chip, and Package Co-design Flow for 2.5D IC Design Enabling Heterogeneous IP Reuse. | 2019
+LifeGuard: A Reinforcement Learning-Based Task Mapping Strategy for Performance-Centric Aging Management. | 2019
+Accurate Estimation of Program Error Rate for Timing-Speculative Processors. | 2019
+Fast Performance Estimation and Design Space Exploration of Manycore-based Neural Processors. | 2019
+E-LSTM: Efficient Inference of Sparse LSTM on Embedded Heterogeneous System. | 2019
+ReForm: Static and Dynamic Resource-Aware DNN Reconfiguration Framework for Mobile Device. | 2019
+XBioSiP: A Methodology for Approximate Bio-Signal Processing at the Edge. | 2019
+RevSCA: Using Reverse Engineering to Bring Light into Backward Rewriting for Big and Dirty Multipliers. | 2019
+Temporal Tracing of On-Chip Signals using Timeprints. | 2019
+ACCESS: HW/SW Co-Equivalence Checking for Firmware Optimization. | 2019
+Early Concolic Testing of Embedded Binaries with Virtual Prototypes: A RISC-V Case Study. | 2019
+Tetris: A Streaming Accelerator for Physics-Limited 3D Plane-Wave Ultrasound Imaging. | 2019
+ProbLP: A framework for low-precision probabilistic inference. | 2019
+An Optimized Design Technique of Low-bit Neural Network Training for Personalization on IoT Devices. | 2019
+L-MPC: A LUT based Multi-Level Prediction-Correction Architecture for Accelerating Binary-Weight Hourglass Network. | 2019
+eSLAM: An Energy-Efficient Accelerator for Real-Time ORB-SLAM on FPGA Platform. | 2019
+ShuntFlow: An Efficient and Scalable Dataflow Accelerator Architecture for Streaming Applications. | 2019
+A General Pattern-Based Dynamic Compilation Framework for Coarse-Grained Reconfigurable Architectures. | 2019
+ReTagger: An Efficient Controller for DRAM Cache Architectures. | 2019
+Software Approaches for In-time Resilience. | 2019
+Cross-Layer Resilience: Challenges, Insights, and the Road Ahead. | 2019
+Increasing Soft Error Resilience by Software Transformation. | 2019
+FLightNNs: Lightweight Quantized Deep Neural Networks for Fast and Accurate Inference. | 2019
+BiScaled-DNN: Quantizing Long-tailed Datastructures with Two Scale Factors for Deep Neural Networks. | 2019
+A None-Sparse Inference Accelerator that Distills and Reuses the Computation Redundancy in CNNs. | 2019
+On the Complexity Reduction of Dense Layers from O(N2) to O(NlogN) with Cyclic Sparsely Connected Layers. | 2019
+Sensitivity based Error Resilient Techniques for Energy Efficient Deep Neural Network Accelerators. | 2019
+St-DRC: Stretchable DRAM Refresh Controller with No Parity-overhead Error Correction Scheme for Energy-efficient DNNs. | 2019
+FPGA/DNN Co-Design: An Efficient Design Methodology for IoT Intelligence on the Edge. | 2019
+Scale-out Acceleration for 3D CNN-based Lung Nodule Segmentation on a Multi-FPGA System. | 2019
+Dr. BFS: Data Centric Breadth-First Search on FPGAs. | 2019
+Peregrine: A Flexible Hardware Accelerator for LSTM with Limited Synaptic Connection Patterns. | 2019
+Systolic Cube: A Spatial 3D CNN Accelerator Architecture for Low Power Video Analysis. | 2019
+Context-Aware Convolutional Neural Network over Distributed System in Collaborative Computing. | 2019
+The Best of Both Worlds: On Exploiting Bit-Alterable NAND Flash for Lifetime and Read Performance Optimization. | 2019
+WAS: Wear Aware Superblock Management for Prolonging SSD Lifetime. | 2019
+ASCache: An Approximate SSD Cache for Error-Tolerant Applications. | 2019
+Leveraging Approximate Data for Robust Flash Storage. | 2019
+MARCH: MAze Routing Under a Concurrent and Hierarchical Scheme for Buses. | 2019
+A DAG-Based Algorithm for Obstacle-Aware Topology-Matching On-Track Bus Routing. | 2019
+A Learning-Based Recommender System for Autotuning Design Flows of Industrial High-Performance Processors. | 2019
+Painting on Placement: Forecasting Routing Congestion using Conditional Generative Adversarial Nets. | 2019
+Pin Accessibility Prediction and Optimization with Deep Learning-based Pin Pattern Recognition. | 2019
+FIT: Fill Insertion Considering Timing. | 2019
+The Metric Matters: The Art of Measuring Trust in Electronics. | 2019
+Authenticated Call Stack. | 2019
+United We Stand: A Threshold Signature Scheme for Identifying Outliers in PLCs. | 2019
+Improving Static Power Efficiency via Placement of Network Demultiplexer over Control Plane of Router in Multi-NoCs. | 2019
+How Secure are Deep Learning Algorithms from Side-Channel based Reverse Engineering? | 2019
+Predicting DRC Violations Using Ensemble Random Forest Algorithm. | 2019
+Analog Circuit Generator based on Deep Neural Network enhanced Combinatorial Optimization. | 2019
+Distributed Timing Analysis at Scale. | 2019
+Towards Practical Record and Replay for Mobile Applications. | 2019
+The Ping-Pong Tunable Delay Line In A Super-Resilient Delay-Locked Loop. | 2019
+An Efficient Learning-based Approach for Performance Exploration on Analog and RF Circuit Synthesis. | 2019
+LODESTAR: Creating Locally-Dense CNNs for Efficient Inference on Systolic Arrays. | 2019
+Robustly Executing DNNs in IoT Systems Using Coded Distributed Computing. | 2019
+Visual Cortex Inspired Pixel-Level Re-configurable Processors for Smart Image Sensors. | 2019
+Efficient Circuits for Quantum Search over 2D Square Lattice Architecture. | 2019
+SEDA - Single Exact Dual Approximate Adders for Approximate Processors. | 2019
+Merging Everything (ME): A Unified FPGA Architecture Based on Logic-in-Memory Techniques. | 2019
+New Computational Results and Hardware Prototypes for Oscillator-based Ising Machines. | 2019
+Internal Structure Aware RDF Data Management in SSDs. | 2019
+57th ACM/IEEE Design Automation Conference, DAC 2020, San Francisco, CA, USA, July 20-24, 2020. | 2020
+Invited: Software Defined Accelerators From Learning Tools Environment. | 2020
+INVITED: AI Utopia or Dystopia - On Securing AI Platforms. | 2020
+On the Security of Strong Memristor-based Physically Unclonable Functions. | 2020
+Multiplicative Complexity of Autosymmetric Functions: Theory and Applications to Security. | 2020
+Prive-HD: Privacy-Preserved Hyperdimensional Computing. | 2020
+Dynamic Information Flow Tracking for Embedded Binaries using SystemC-based Virtual Prototypes. | 2020
+MLParest: Machine Learning based Parasitic Estimation for Custom Circuit Design. | 2020
+Extending the RISC-V ISA for Efficient RNN-based 5G Radio Resource Management. | 2020
+R2D3: A Reliability Engine for 3D Parallel Systems. | 2020
+PCNN: Pattern-based Fine-Grained Regular Pruning Towards Optimizing CNN Accelerators. | 2020
+RTMobile: Beyond Real-Time Mobile Acceleration of RNNs for Speech Recognition. | 2020
+SFO: A Scalable Approach to Fanout-Bounded Logic Synthesis for Emerging Technologies. | 2020
+ALF: Autoencoder-based Low-rank Filter-sharing for Efficient Convolutional Neural Networks. | 2020
+WarningNet: A Deep Learning Platform for Early Warning of Task Failures under Input Perturbation for Reliable Autonomous Platforms. | 2020
+Towards Memory-Efficient Streaming Processing with Counter-Cascading Sketching on FPGA. | 2020
+An Efficient EPIST Algorithm for Global Placement with Non-Integer Multiple-Height Cells *. | 2020
+In-Memory Computing in Emerging Memory Technologies for Machine Learning: An Overview. | 2020
+Don't-Care-Based Node Minimization for Threshold Logic Networks. | 2020
+A Pragmatic Approach to On-device Incremental Learning System with Selective Weight Updates. | 2020
+AHEC: End-to-end Compiler Framework for Privacy-preserving Machine Learning Acceleration. | 2020
+Autonomous Warehouse-Scale Computers. | 2020
+Circuit Learning for Logic Regression on High Dimensional Boolean Space. | 2020
+Neural Network-Based Side Channel Attacks and Countermeasures. | 2020
+BPU: A Blockchain Processing Unit for Accelerated Smart Contract Execution. | 2020
+Hamiltonian Path Based Mixed-Cell-Height Legalization for Neighbor Diffusion Effect Mitigation. | 2020
+Runtime Trust Evaluation and Hardware Trojan Detection Using On-Chip EM Sensors. | 2020
+ParaGraph: Layout Parasitics and Device Parameter Prediction using Graph Neural Networks. | 2020
+Algorithm-Hardware Co-Design of Adaptive Floating-Point Encodings for Resilient Deep Learning Inference. | 2020
+ReTriple: Reduction of Redundant Rendering on Android Devices for Performance and Energy Optimizations. | 2020
+Convergence-Aware Neural Network Training. | 2020
+DECOY: DEflection-Driven HLS-Based Computation Partitioning for Obfuscating Intellectual PropertY. | 2020
+Learning From A Big Brother - Mimicking Neural Networks in Profiled Side-channel Analysis. | 2020
+Flashmark: Watermarking of NOR Flash Memories for Counterfeit Detection. | 2020
+STC: Significance-aware Transform-based Codec Framework for External Memory Access Reduction. | 2020
+PIM-Prune: Fine-Grain DCNN Pruning for Crossbar-Based Process-In-Memory Architecture. | 2020
+A Two-way SRAM Array based Accelerator for Deep Neural Network On-chip Training. | 2020
+PETNet: Polycount and Energy Trade-off Deep Networks for Producing 3D Objects from Images. | 2020
+Intermittent Inference with Nonuniformly Compressed Multi-Exit Neural Network for Energy Harvesting Powered Devices. | 2020
+TDP-ADMM: A Timing Driven Placement Approach for Superconductive Electronic Circuits Using Alternating Direction Method of Multipliers. | 2020
+Scalable Multi-FPGA Acceleration for Large RNNs with Full Parallelism Levels. | 2020
+INVITED: Efficient Synthesis of Compact Deep Neural Networks. | 2020
+Deep Learning-Driven Simultaneous Layout Decomposition and Mask Optimization. | 2020
+The Best of Both Worlds: Combining CUDA Graph with an Image Processing DSL. | 2020
+The Tao of PAO: Anatomy of a Pin Access Oracle for Detailed Routing. | 2020
+ApproxFPGAs: Embracing ASIC-Based Approximate Arithmetic Components for FPGA-Based Systems. | 2020
+BitPruner: Network Pruning for Bit-serial Accelerators. | 2020
+Camouflage: Hardware-assisted CFI for the ARM Linux kernel. | 2020
+Probabilistic Error Propagation through Approximated Boolean Networks. | 2020
+Scenario-Based Soft Real-Time Hybrid Application Mapping for MPSoCs. | 2020
+FlexReduce: Flexible All-reduce for Distributed Deep Learning on Asymmetric Network Topology. | 2020
+Kite: A Family of Heterogeneous Interposer Topologies Enabled via Accurate Interconnect Modeling. | 2020
+Access Characteristic Guided Partition for Read Performance Improvement on Solid State Drives. | 2020
+BrezeFlow: Unified Debugger for Android CPU Power Governors and Schedulers on Edge Devices. | 2020
+A Machine Learning Approach for Reliability-Aware Application Mapping for Heterogeneous Multicores. | 2020
+A Device Non-Ideality Resilient Approach for Mapping Neural Networks to Crossbar Arrays. | 2020
+BPNet: Branch-pruned Conditional Neural Network for Systematic Time-accuracy Tradeoff. | 2020
+ROPAD: A Fully Digital Highly Predictive Ring Oscillator Probing Attempt Detector. | 2020
+Exploiting Zero Data to Reduce Register File and Execution Unit Dynamic Power Consumption in GPGPUs. | 2020
+NACU: A Non-Linear Arithmetic Unit for Neural Networks. | 2020
+PISCES: Power-Aware Implementation of SLAM by Customizing Efficient Sparse Algebra. | 2020
+Tier-Scrubbing: An Adaptive and Tiered Disk Scrubbing Scheme with Improved MTTD and Reduced Cost. | 2020
+Time Multiplexing via Circuit Folding. | 2020
+Creating an Agile Hardware Design Flow. | 2020
+Improving the Concurrency Performance of Persistent Memory Transactions on Multicores. | 2020
+Just Like the Real Thing: Fast Weak Simulation of Quantum Computation. | 2020
+A Robust Exponential Integrator Method for Generic Nonlinear Circuit Simulation. | 2020
+Exploring Inherent Sensor Redundancy for Automotive Anomaly Detection. | 2020
+An Efficient Circuit Compilation Flow for Quantum Approximate Optimization Algorithm. | 2020
+Hawkware: Network Intrusion Detection based on Behavior Analysis with ANNs on an IoT Device. | 2020
+MEMTONIC: A Neuromorphic Accelerator for Energy Efficient Deep Learning. | 2020
+Codar: A Contextual Duration-Aware Qubit Mapping for Various NISQ Devices. | 2020
+The Power of Simulation for Equivalence Checking in Quantum Computing. | 2020
+Building End-to-End IoT Applications with QoS Guarantees. | 2020
+GPNPU: Enabling Efficient Hardware-Based Direct Convolution with Multi-Precision Support in GPU Tensor Cores. | 2020
+Bit Parallel 6T SRAM In-memory Computing with Reconfigurable Bit-Precision. | 2020
+AdaSense: Adaptive Low-Power Sensing and Activity Recognition for Wearable Devices. | 2020
+Time-Division Multiplexing Based System-Level FPGA Routing for Logic Verification. | 2020
+Robust Design of Large Area Flexible Electronics via Compressed Sensing. | 2020
+3D CNN Acceleration on FPGA using Hardware-Aware Pruning. | 2020
+A Formal Approach for Detecting Vulnerabilities to Transient Execution Attacks in Out-of-Order Processors. | 2020
+Realistic Fault Models and Fault Simulation for Quantum Dot Quantum Circuits. | 2020
+DVFS-Based Scrubbing Scheduling for Reliability Maximization on Parallel Tasks in SRAM-based FPGAs. | 2020
+Unified Architectural Support for Secure and Robust Deep Learning. | 2020
+Learning to Quantize Deep Neural Networks: A Competitive-Collaborative Approach. | 2020
+Imperceptible Misclassification Attack on Deep Learning Accelerator by Glitch Injection. | 2020
+ReSiPE: ReRAM-based Single-Spiking Processing-In-Memory Engine. | 2020
+Romeo: Conversion and Evaluation of HDL Designs in the Encrypted Domain. | 2020
+Wafer Map Defect Patterns Classification using Deep Selective Learning. | 2020
+FTDL: A Tailored FPGA-Overlay for Deep Learning with High Scalability. | 2020
+TP-GNN: A Graph Neural Network Framework for Tier Partitioning in Monolithic 3D ICs. | 2020
+Exploration of Design Space and Runtime Optimization for Affective Computing in Machine Learning Empowered Ultra-Low Power SoC. | 2020
+DPCP-p: A Distributed Locking Protocol for Parallel Real-Time Tasks. | 2020
+Factored Radix-8 Systolic Array for Tensor Processing. | 2020
+Proactive Aging Mitigation in CGRAs through Utilization-Aware Allocation. | 2020
+Tail: An Automated and Lightweight Gradient Compression Framework for Distributed Deep Learning. | 2020
+TEVoT: Timing Error Modeling of Functional Units under Dynamic Voltage and Temperature Variations. | 2020
+Remote Atomic Extension (RAE) for Scalable High Performance Computing. | 2020
+Lattice: An ADC/DAC-less ReRAM-based Processing-In-Memory Architecture for Accelerating Deep Convolution Neural Networks. | 2020
+Massively Parallel Approximate Simulation of Hard Quantum Circuits. | 2020
+An Efficient Asynchronous Batch Bayesian Optimization Approach for Analog Circuit Synthesis. | 2020
+FLOPS: EFficient On-Chip Learning for OPtical Neural Networks Through Stochastic Zeroth-Order Optimization. | 2020
+O-2A: Low Overhead DNN Compression with Outlier-Aware Approximation. | 2020
+Input-Dependent Edge-Cloud Mapping of Recurrent Neural Networks Inference. | 2020
+Best of Both Worlds: AutoML Codesign of a CNN and its Hardware Accelerator. | 2020
+Late Breaking Results: Can You Hear Me? Towards an Ultra Low-Cost Hearing Screening Device. | 2020
+Late Breaking Results: A Neural Network that Routes ICs. | 2020
+DRAMDig: A Knowledge-assisted Tool to Uncover DRAM Address Mapping. | 2020
+LoPher: SAT-Hardened Logic Embedding on Block Ciphers. | 2020
+Statistical Timing Analysis considering Multiple-Input Switching. | 2020
+Adjoint Transient Sensitivity Analysis for Objective Functions Associated to Many Time Points. | 2020
+ICS Protocol Fuzzing: Coverage Guided Packet Crack and Generation. | 2020
+Online Adaptive Learning for Runtime Resource Management of Heterogeneous SoCs. | 2020
+Accurate Inference with Inaccurate RRAM Devices: Statistical Data, Model Transfer, and On-line Adaptation. | 2020
+Characterization and Applications of Spatial Variation Models for Silicon Microring-Based Optical Transceivers. | 2020
+Late Breaking Results: Automatic Adaptive MOM Capacitor Cell Generation for Analog and Mixed-Signal Layout Design. | 2020
+How to Cut Out Expired Data with Nearly Zero Overhead for Solid-State Drives. | 2020
+An Efficient and Robust Yield Optimization Method for High-dimensional SRAM Circuits. | 2020
+WET: Write Efficient Loop Tiling for Non-Volatile Main Memory. | 2020
+Learning Concise Models from Long Execution Traces. | 2020
+Enhancing Thread-Level Parallelism in Asymmetric Multicores using Transparent Instruction Offloading. | 2020
+Impeccable Circuits II. | 2020
+RELIC-FUN: Logic Identification through Functional Signal Comparisons. | 2020
+Latch Clustering for Timing-Power Co-Optimization. | 2020
+Vehicular and Edge Computing for Emerging Connected and Autonomous Vehicle Applications. | 2020
+Via-based Redistribution Layer Routing for InFO Packages with Irregular Pad Structures. | 2020
+ZENCO: Zero-bytes based ENCOding for Non-Volatile Buffers in On-Chip Interconnects. | 2020
+Closing the Design Loop: Bayesian Optimization Assisted Hierarchical Analog Layout Synthesis. | 2020
+Utilizing Direct Photocurrent Computation and 2D Kernel Scheduling to Improve In-Sensor-Processing Efficiency. | 2020
+TYMER: A Yield-based Performance Model for Timing-speculation SRAM. | 2020
+Centaur: Hybrid Processing in On/Off-chip Memory Architecture for Graph Analytics. | 2020
+Topological Structure and Physical Layout Codesign for Wavelength-Routed Optical Networks-on-Chip. | 2020
+Efficient Multi-Grained Wear Leveling for Inodes of Persistent Memory File Systems. | 2020
+ALSRAC: Approximate Logic Synthesis by Resubstitution with Approximate Care Set. | 2020
+INVITED: New Directions in Distributed Deep Learning: Bringing the Network at Forefront of IoT Design. | 2020
+Closing the RISC-V Compliance Gap: Looking from the Negative Testing Side*. | 2020
+High PE Utilization CNN Accelerator with Channel Fusion Supporting Pattern-Compressed Sparse Neural Networks. | 2020
+Layer RBER Variation Aware Read Performance Optimization for 3D Flash Memories. | 2020
+Efficiently Exploiting Low Activity Factors to Accelerate RTL Simulation. | 2020
+Stealing Your Data from Compressed Machine Learning Models. | 2020
+Late Breaking Results: Pole-aware Analog Placement Considering Monotonic Current Flow and Crossing-Wire Minimization. | 2020
+LOFFS: A Low-Overhead File System for Large Flash Memory on Embedded Devices. | 2020
+KFR: Optimal Cache Management with K-Framed Reclamation for Drive-Managed SMR Disks. | 2020
+A Provably Good Wavelength-Division-Multiplexing-Aware Clustering Algorithm for On-Chip Optical Routing. | 2020
+PattPIM: A Practical ReRAM-Based DNN Accelerator by Reusing Weight Pattern Repetitions. | 2020
+Pythia: Intellectual Property Verification in Zero-Knowledge. | 2020
+Predictable Memory-CPU Co-Scheduling with Support for Latency-Sensitive Tasks. | 2020
+Verification for Field-coupled Nanocomputing Circuits. | 2020
+Permutation-Write: Optimizing Write Performance and Energy for Skyrmion Racetrack Memory. | 2020
+GRANNITE: Graph Neural Network Inference for Transferable Power Estimation. | 2020
+Taming Unstructured Sparsity on GPUs via Latency-Aware Optimization. | 2020
+INVITED: Computation on Sparse Neural Networks and its Implications for Future Hardware. | 2020
+CUGR: Detailed-Routability-Driven 3D Global Routing with Probabilistic Resource Model. | 2020
+CDRing: Reconfigurable Ring Architecture by Exploiting Cycle Decomposition of Torus Topology. | 2020
+On Countermeasures Against the Thermal Covert Channel Attacks Targeting Many-core Systems. | 2020
+Towards Purposeful Design Space Exploration of Heterogeneous CGRAs: Clock Frequency Estimation. | 2020
+Prediction Confidence based Low Complexity Gradient Computation for Accelerating DNN Training. | 2020
+Hardware-Assisted Intellectual Property Protection of Deep Learning Models. | 2020
+AXI HyperConnect: A Predictable, Hypervisor-level Interconnect for Hardware Accelerators in FPGA SoC. | 2020
+PIM-Assembler: A Processing-in-Memory Platform for Genome Assembly. | 2020
+A Versatile and Flexible Chiplet-based System Design for Heterogeneous Manycore Architectures. | 2020
+A Model Checking-based Analysis Framework for Systems Biology Models. | 2020
+Bit-Parallel Vector Composability for Neural Acceleration. | 2020
+Algorithm/Hardware Co-Design for In-Memory Neural Network Computing with Minimal Peripheral Circuit Overhead. | 2020
+RedCache: Reduced DRAM Caching. | 2020
+Late Breaking Results: Enabling Containerized Computing and Orchestration of ROS-based Robotic SW Applications on Cloud-Server-Edge Architectures. | 2020
+TCIM: Triangle Counting Acceleration With Processing-In-MRAM Architecture. | 2020
+ATUNs: Modular and Scalable Support for Atomic Operations in a Shared Memory Multiprocessor. | 2020
+Developing Privacy-preserving AI Systems: The Lessons learned. | 2020
+TrojDRL: Evaluation of Backdoor Attacks on Deep Reinforcement Learning. | 2020
+A Simple Cache Coherence Scheme for Integrated CPU-GPU Systems. | 2020
+Defending Bit-Flip Attack through DNN Weight Reconstruction. | 2020
+Eliminating Redundant Computation in Noisy Quantum Computing Simulation. | 2020
+Routing Topology and Time-Division Multiplexing Co-Optimization for Multi-FPGA Systems. | 2020
+TAEM: Fast Transfer-Aware Effective Loop Mapping for Heterogeneous Resources on CGRA. | 2020
+Seesaw: End-to-end Dynamic Sensing for IoT using Machine Learning. | 2020
+EANeM: Energy-Aware Network Stack Management for Mobile Devices. | 2020
+INVITED: Computational Methods of Biological Exploration. | 2020
+DRMap: A Generic DRAM Data Mapping Policy for Energy-Efficient Processing of Convolutional Neural Networks. | 2020
+CRAFFT: High Resolution FFT Accelerator In Spintronic Computational RAM. | 2020
+Machine Leaming to Set Meta-Heuristic Specific Parameters for High-Level Synthesis Design Space Exploration. | 2020
+Monitoring the Health of Emerging Neural Network Accelerators with Cost-effective Concurrent Test. | 2020
+Co-Exploration of Neural Architectures and Heterogeneous ASIC Accelerator Designs Targeting Multiple Tasks. | 2020
+Hardware-assisted Service Live Migration in Resource-limited Edge Computing Systems. | 2020
+PEMACx: A Probabilistic Error Analysis Methodology for Adders with Cascaded Approximate Units. | 2020
+CoinPurse: A Device-Assisted File System with Dual Interfaces. | 2020
+Exploiting Computation Reuse for Stencil Accelerators. | 2020
+A Cross-Layer Power and Timing Evaluation Method for Wide Voltage Scaling. | 2020
+Reducing Bit Writes in Non-volatile Main Memory by Similarity-aware Compression. | 2020
+HybridDNN: A Framework for High-Performance Hybrid DNN Accelerator Design and Implementation. | 2020
+Late Breaking Results: FRIENDS - Finding Related Interesting Events via Neighbor Detection. | 2020
+Timing-Accurate General-Purpose I/O for Multi- and Many-Core Systems: Scheduling and Hardware Support. | 2020
+Stannis: Low-Power Acceleration of DNN Training Using Computational Storage Devices. | 2020
+GENIEx: A Generalized Approach to Emulating Non-Ideality in Memristive Xbars using Neural Networks. | 2020
+T2FSNN: Deep Spiking Neural Networks with Time-to-first-spike Coding. | 2020
+A Novel GPU Overdrive Fault Attack. | 2020
+SAT-Sweeping Enhanced for Logic Synthesis. | 2020
+Late Breaking Results: Automated Hardware Generation of CNN Models on FPGAs. | 2020
+From Homogeneous to Heterogeneous: Leveraging Deep Learning based Power Analysis across Devices. | 2020
+UEFI Firmware Fuzzing with Simics Virtual Platform. | 2020
+Clustering Approach for Solving Traveling Salesman Problems via Ising Model Based Solver. | 2020
+Exploring a Bayesian Optimization Framework Compatible with Digital Standard Flow for Soft-Error-Tolerant Circuit. | 2020
+SHIELDeNN: Online Accelerated Framework for Fault-Tolerant Deep Neural Network Architectures. | 2020
+SIEVE: Speculative Inference on the Edge with Versatile Exportation. | 2020
+Late Breaking Results: An Analytical Timing-Driven Placer for Heterogeneous FPGAs*. | 2020
+A History-Based Auto-Tuning Framework for Fast and High-Performance DNN Design on GPU. | 2020
+Tight Compression: Compressing CNN Model Tightly Through Unstructured Pruning and Simulated Annealing Based Permutation. | 2020
+S-CDA: A Smart Cloud Disk Allocation Approach in Cloud Block Storage System. | 2020
+StatSAT: A Boolean Satisfiability based Attack on Logic-Locked Probabilistic Circuits. | 2020
+HITTSFL: Design of a Cost-Effective HIS-Insensitive TNU-Tolerant and SET-Filterable Latch for Safety-Critical Applications. | 2020
+Deep Learning Multi-Channel Fusion Attack Against Side-Channel Protected Hardware. | 2020
+Adaptive Layout Decomposition with Graph Embedding Neural Networks. | 2020
+Reverse-Engineering Deep Neural Networks Using Floating-Point Timing Side-Channels. | 2020
+Enabling a B+-tree-based Data Management Scheme for Key-value Store over SMR-based SSHD. | 2020
+Dadu-CD: Fast and Efficient Processing-in-Memory Accelerator for Collision Detection. | 2020
+SparseTrain: Exploiting Dataflow Sparsity for Efficient Convolutional Neural Networks Training. | 2020
+Navigator: Dynamic Multi-kernel Scheduling to Improve GPU Performance. | 2020
+Fast and Accurate Wire Timing Estimation on Tree and Non-Tree Net Structures. | 2020
+EMAP: A Cloud-Edge Hybrid Framework for EEG Monitoring and Cross-Correlation Based Real-time Anomaly Prediction. | 2020
+A 90nm 103.14 TOPS/W Binary-Weight Spiking Neural Network CMOS ASIC for Real-Time Object Classification. | 2020
+A-QED Verification of Hardware Accelerators. | 2020
+Late Breaking Results: Reinforcement Learning-based Power Management Policy for Mobile Device Systems. | 2020
+INCA: INterruptible CNN Accelerator for Multi-tasking in Embedded Robots. | 2020
+Analysis and Optimization of the Implicit Broadcasts in FPGA HLS to Improve Maximum Frequency. | 2020
+Reducing DRAM Access Latency via Helper Rows. | 2020
+INVITED: A 0.26% BER, Machine-Learning Resistant 1028 Challenge-Response PUF in 14nm CMOS Featuring Stability-Aware Adversarial Challenge Selection. | 2020
+Symbolic Computer Algebra and SAT Based Information Forwarding for Fully Automatic Divider Verification. | 2020
+Transfer Learning-Based Microfluidic Design System for Concentration Generation∗. | 2020
+GUI-Enhanced Layout Generation of FFE SST TXs for Fast High-Speed Serial Link Design. | 2020
+RaQu: An automatic high-utilization CNN quantization and mapping framework for general-purpose RRAM Accelerator. | 2020
+Reuse-trap: Re-purposing Cache Reuse Distance to Defend against Side Channel Leakage. | 2020
+Tensor Virtualization Technique to Support Efficient Data Reorganization for CNN Accelerators. | 2020
+Compact domain-specific co-processor for accelerating module lattice-based KEM. | 2020
+Late Breaking Results: Building an On-Chip Deep Learning Memory Hierarchy Brick by Brick. | 2020
+Towards State-Aware Computation in ReRAM Neural Networks. | 2020
+CryptoPIM: In-memory Acceleration for Lattice-based Cryptographic Hardware. | 2020
+Balancing Efficiency and Flexibility for DNN Acceleration via Temporal GPU-Systolic Array Integration. | 2020
+Late Breaking Results: LDFSM: A Low-Cost Bit-Stream Generator for Low-Discrepancy Stochastic Computing. | 2020
+DDOT: Data Driven Online Tuning for energy efficient acceleration. | 2020
+Learning to Predict IR Drop with Effective Training for ReRAM-based Neural Network Hardware. | 2020
+Non-uniform DNN Structured Subnets Sampling for Dynamic Inference. | 2020
+Q-PIM: A Genetic Algorithm based Flexible DNN Quantization Method and Application to Processing-In-Memory Platform. | 2020
+Content Sifting Storage: Achieving Fast Read for Large-scale Image Dataset Analysis. | 2020
+Late Breaking Results: Design Dependent Mega Cell Methodology for Area and Power Optimization. | 2020
+CoExe: An Efficient Co-execution Architecture for Real-Time Neural Network Services. | 2020
+CAP'NN: Class-Aware Personalized Neural Network Inference. | 2020
+Opportunistic Intermittent Control with Safety Guarantees for Autonomous Systems. | 2020
+An Efficient Deep Learning Accelerator for Compressed Video Analysis. | 2020
+On Computing Exact WCRT for DAG Tasks†. | 2020
+PAIR: Pin-aligned In-DRAM ECC architecture using expandability of Reed-Solomon code. | 2020
+Q-CapsNets: A Specialized Framework for Quantizing Capsule Networks. | 2020
+CL(R)Early: An Early-stage DSE Methodology for Cross-Layer Reliability-aware Heterogeneous Embedded Systems. | 2020
+FCNNLib: An Efficient and Flexible Convolution Algorithm Library on FPGAs. | 2020
+EDD: Efficient Differentiable DNN Architecture and Implementation Co-search for Embedded AI Solutions. | 2020
+An Efficient Critical Path Generation Algorithm Considering Extensive Path Constraints. | 2020
+Hardware Acceleration of Graph Neural Networks. | 2020
+SCA: A Secure CNN Accelerator for Both Training and Inference. | 2020
+TSN-Builder: Enabling Rapid Customization of Resource-Efficient Switches for Time-Sensitive Networking. | 2020
+VarSim: A Fast and Accurate Variability and Leakage Aware Thermal Simulator. | 2020
+Invited: Chipyard - An Integrated SoC Research and Implementation Environment. | 2020
+GCN-RL Circuit Designer: Transferable Transistor Sizing with Graph Neural Networks and Reinforcement Learning. | 2020
+58th ACM/IEEE Design Automation Conference, DAC 2021, San Francisco, CA, USA, December 5-9, 2021. | 2021
+HADFL: Heterogeneity-aware Decentralized Federated Learning Framework. | 2021
+General Chair's Message. | 2021
+RegHD: Robust and Efficient Regression in Hyper-Dimensional Learning System. | 2021
+A3C-S: Automated Agent Accelerator Co-Search towards Efficient Deep Reinforcement Learning. | 2021
+AID: Attesting the Integrity of Deep Neural Networks. | 2021
+MAT: Processing In-Memory Acceleration for Long-Sequence Attention. | 2021
+JPDHeap: A JVM Heap Design for PM-DRAM Memories. | 2021
+SFLU: Synchronization-Free Sparse LU Factorization for Fast Circuit Simulation on GPUs. | 2021
+PIM-Quantifier: A Processing-in-Memory Platform for mRNA Quantification. | 2021
+Network-on-Interposer Design for Agile Neural-Network Processor Chip Customization. | 2021
+Distilling Arbitration Logic from Traces using Machine Learning: A Case Study on NoC. | 2021
+Topology Agnostic Virtual Channel Assignment and Protocol Level Deadlock Avoidance in a Network-on-Chip. | 2021
+AdEle: An Adaptive Congestion-and-Energy-Aware Elevator Selection for Partially Connected 3D NoCs. | 2021
+Quantifying Rowhammer Vulnerability for DRAM Security. | 2021
+HLock: Locking IPs at the High-Level Language. | 2021
+SACReD: An Attack Framework on SAC Resistant Delay-PUFs leveraging Bias and Reliability Factors. | 2021
+Fortifying RTL Locking Against Oracle-Less (Untrusted Foundry) and Oracle-Guided Attacks. | 2021
+Move-On-Modify: An Efficient yet Crash-Consistent Update Strategy for Interlaced Magnetic Recording. | 2021
+Reinforcement Learning-Assisted Cache Cleaning to Mitigate Long-Tail Latency in DM-SMR. | 2021
+OpenMem: Hardware/Software Cooperative Management for Mobile Memory System. | 2021
+MobileSwap: Cross-Device Memory Swapping for Mobile Devices. | 2021
+Bayesian Inference Based Robust Computing on Memristor Crossbar. | 2021
+Secure Logic Locking with Strain-Protected Nanomagnet Logic. | 2021
+qSeq: Full Algorithmic and Tool Support for Synthesizing Sequential Circuits in Superconducting SFQ Technology. | 2021
+Tamper-Resistant Optical Logic Circuits Based on Integrated Nanophotonics. | 2021
+MyML: User-Driven Machine Learning. | 2021
+ZeroBN: Learning Compact Neural Networks For Latency-Critical Edge Systems. | 2021
+EImprove - Optimizing Energy and Comfort in Buildings based on Formal Semantics and Reinforcement Learning. | 2021
+Enabling On-Device Model Personalization for Ventricular Arrhythmias Detection by Generative Adversarial Networks. | 2021
+Attentional Transfer is All You Need: Technology-aware Layout Pattern Generation. | 2021
+Two-Stage Neural Network Classifier for the Data Imbalance Problem with Application to Hotspot Detection. | 2021
+Subresolution Assist Feature Insertion by Variational Adversarial Active Learning and Clustering with Data Point Retrieval. | 2021
+NeurFill: Migrating Full-Chip CMP Simulators to Neural Networks for Model-Based Dummy Filling Synthesis. | 2021
+A Compute-in-Memory Architecture Compatible with 3D NAND Flash that Parallelly Activates Multi-Layers. | 2021
+Efficient Error-Correcting-Code Mechanism for High-Throughput Memristive Processing-in-Memory. | 2021
+GCiM: A Near-Data Processing Accelerator for Graph Construction. | 2021
+Max-PIM: Fast and Efficient Max/Min Searching in DRAM. | 2021
+GNN4IP: Graph Neural Network for Hardware Intellectual Property Piracy Detection. | 2021
+Shortest Path to Secured Hardware: Domain Oriented Masking with High-Level-Synthesis. | 2021
+Securing Hardware via Dynamic Obfuscation Utilizing Reconfigurable Interconnect and Logic Blocks. | 2021
+A Resource Binding Approach to Logic Obfuscation. | 2021
+An Energy-Efficient Low-Latency 3D-CNN Accelerator Leveraging Temporal Locality, Full Zero-Skipping, and Hierarchical Load Balance. | 2021
+Dataflow Mirroring: Architectural Support for Highly Efficient Fine-Grained Spatial Multitasking on Systolic-Array NPUs. | 2021
+RASA: Efficient Register-Aware Systolic Array Matrix Engine for CPU. | 2021
+FIXAR: A Fixed-Point Deep Reinforcement Learning Platform with Quantization-Aware Training and Adaptive Parallelism. | 2021
+SmartBoost: Lightweight ML-Driven Boosting for Thermally-Constrained Many-Core Processors. | 2021
+ST2 GPU: An Energy-Efficient GPU Design with Spatio-Temporal Shared-Thread Speculative Adders. | 2021
+Synergically Rebalancing Parallel Execution via DCT and Turbo Boosting. | 2021
+SPROUT - Smart Power ROUting Tool for Board-Level Exploration and Prototyping. | 2021
+SHORE: Hardware/Software Method for Memory Safety Acceleration on RISC-V. | 2021
+DeepStrike: Remotely-Guided Fault Injection Attacks on DNN Accelerator in Cloud-FPGA. | 2021
+SGX-FPGA: Trusted Execution Environment for CPU-FPGA Heterogeneous Architecture. | 2021
+ROLoad: Securing Sensitive Operations with Pointee Integrity. | 2021
+DIALED: Data Integrity Attestation for Low-end Embedded Devices. | 2021
+Rewrite to Reinforce: Rewriting the Binary to Apply Countermeasures against Fault Injection. | 2021
+UPTPU: Improving Energy Efficiency of a Tensor Processing Unit through Underutilization Based Power-Gating. | 2021
+Enabling the Design of Behavioral Systems-on-Chip. | 2021
+DANCE: Differentiable Accelerator/Network Co-Exploration. | 2021
+New Regular Expressions on Old Accelerators. | 2021
+Property-driven Automatic Generation of Reduced-ISA Hardware. | 2021
+BHDL: A Lucid, Expressive, and Embedded Programming Language and System for PCB Designs. | 2021
+Neuromorphic Algorithm-hardware Codesign for Temporal Pattern Learning. | 2021
+In-Hardware Learning of Multilayer Spiking Neural Networks on a Neuromorphic Processor. | 2021
+Noise-Robust Deep Spiking Neural Networks with Temporal Information. | 2021
+SparkXD: A Framework for Resilient and Energy-Efficient Spiking Neural Network Inference using Approximate DRAM. | 2021
+Scalable Pitch-Constrained Neural Processing Unit for 3D Integration with Event-Based Imagers. | 2021
+HDTest: Differential Fuzz Testing of Brain-Inspired Hyperdimensional Computing. | 2021
+Cocktail: Learn a Better Neural Network Controller from Multiple Experts via Adaptive Mixing and Robust Distillation. | 2021
+LENS: Layer Distribution Enabled Neural Architecture Search in Edge-Cloud Hierarchies. | 2021
+AppealNet: An Efficient and Highly-Accurate Edge/Cloud Collaborative Architecture for DNN Inference. | 2021
+An Intelligent Video Processing Architecture for Edge-cloud Video Streaming. | 2021
+PETRI: Reducing Bandwidth Requirement in Smart Surveillance by Edge-Cloud Collaborative Adaptive Frame Clustering and Pipelined Bidirectional Tracking. | 2021
+Obfuscated Priority Assignment to CAN-FD Messages with Dependencies: A Swapping-based and Affix-Matching Approach. | 2021
+An Efficient Algorithm for Sparse Quantum State Preparation. | 2021
+Bit-Slicing the Hilbert Space: Scaling Up Accurate Quantum Circuit Simulation. | 2021
+Mitigating Crosstalk in Quantum Computers through Commutativity-Based Instruction Reordering. | 2021
+QECOOL: On-Line Quantum Error Correction with a Superconducting Decoder for Surface Code. | 2021
+A Bridge-based Compression Algorithm for Topological Quantum Circuits. | 2021
+Quantum Spectral Clustering of Mixed Graphs. | 2021
+Softermax: Hardware/Software Co-Design of an Efficient Softmax for Transformers. | 2021
+CLAppED: A Design Framework for Implementing Cross-Layer Approximation in FPGA-based Embedded Systems. | 2021
+Control Variate Approximation for DNN Accelerators. | 2021
+BayesFT: Bayesian Optimization for Fault Tolerant Neural Network Architecture. | 2021
+A Unified DNN Weight Pruning Framework Using Reweighted Optimization Methods. | 2021
+COSAIM: Counter-based Stochastic-behaving Approximate Integer Multiplier for Deep Neural Networks. | 2021
+Circuit Connectivity Inspired Neural Network for Analog Mixed-Signal Functional Modeling. | 2021
+An Automated and Process-Portable Generator for Phase-Locked Loop. | 2021
+Automated Compensation Scheme Design for Operational Amplifier via Bayesian Optimization. | 2021
+Application of Deep Reinforcement Learning to Dynamic Verification of DRAM Designs. | 2021
+DirectFuzz: Automated Test Generation for RTL Designs using Directed Graybox Fuzzing. | 2021
+AutoSVA: Democratizing Formal Verification of RTL Module Interactions. | 2021
+Theory-Specific Proof Steps Witnessing Correctness of SMT Executions. | 2021
+3D-Adv: Black-Box Adversarial Attacks against Deep Learning Models through 3D Sensors. | 2021
+PRID: Model Inversion Privacy Attacks in Hyperdimensional Learning Systems. | 2021
+Leveraging Noise and Aggressive Quantization of In-Memory Computing for Robust DNN Hardware Against Adversarial Input and Weight Attacks. | 2021
+On the Intrinsic Robustness of NVM Crossbars Against Adversarial Attacks. | 2021
+F3D: Accelerating 3D Convolutional Neural Networks in Frequency Space Using ReRAM. | 2021
+TARe: Task-Adaptive in-situ ReRAM Computing for Graph Learning. | 2021
+PIMGCN: A ReRAM-Based PIM Design for Graph Convolutional Network Acceleration. | 2021
+RePIM: Joint Exploitation of Activation and Weight Repetitions for In-ReRAM DNN Acceleration. | 2021
+Reptail: Cutting Storage Tail Latency with Inherent Redundancy. | 2021
+MELOPPR: Software/Hardware Co-design for Memory-efficient Low-latency Personalized PageRank. | 2021
+Learning Pareto-Frontier Resource Management Policies for Heterogeneous SoCs: An Information-Theoretic Approach. | 2021
+Bitwidth-Optimized Energy-Efficient FFT Design via Scaling Information Propagation. | 2021
+ISA Modeling with Trace Notation for Context Free Property Generation. | 2021
+SoCCAR: Detecting System-on-Chip Security Violations Under Asynchronous Resets. | 2021
+Synthesizing Barrier Certificates of Neural Network Controlled Continuous Systems via Approximations. | 2021
+Approximate Equivalence Checking of Noisy Quantum Circuits. | 2021
+On The Efficiency of Sparse-Tiled Tensor Graph Processing For Low Memory Usage. | 2021
+Eco-feller: Minimizing the Energy Consumption of Random Forest Algorithm by an Eco-pruning Strategy over MLC NVRAM. | 2021
+Enabling On-Device Self-Supervised Contrastive Learning with Selective Data Contrast. | 2021
+SpV8: Pursuing Optimal Vectorization and Regular Computation Pattern in SpMV. | 2021
+Towards Reliable Spatial Memory Safety for Embedded Software by Combining Checked C with Concolic Testing. | 2021
+Architecture-aware Precision Tuning with Multiple Number Representation Systems. | 2021
+PRUID: Practical User Interface Distribution for Multi-surface Computing. | 2021
+A Framework for Optimizing CPU-iGPU Communication on Embedded Platforms. | 2021
+FALCON Down: Breaking FALCON Post-Quantum Signature Scheme through Side-Channel Attacks. | 2021
+New Predictor-Based Attacks in Processors. | 2021
+Cross-Device Profiled Side-Channel Attacks using Meta-Transfer Learning. | 2021
+PSC-TG: RTL Power Side-Channel Leakage Assessment with Test Pattern Generation. | 2021
+A Provably Good and Practically Efficient Algorithm for Common Path Pessimism Removal in Large Designs. | 2021
+GPU-accelerated Path-based Timing Analysis. | 2021
+SGL: Spectral Graph Learning from Measurements. | 2021
+RL-Sizer: VLSI Gate Sizing for Timing Optimization using Deep Reinforcement Learning. | 2021
+A Charge-Sharing based 8T SRAM In-Memory Computing for Edge DNN Acceleration. | 2021
+ASBP: Automatic Structured Bit-Pruning for RRAM-based NN Accelerator. | 2021
+ADROIT: An Adaptive Dynamic Refresh Optimization Framework for DRAM Energy Saving In DNN Training. | 2021
+InstantNet: Automated Generation and Deployment of Instantaneously Switchable-Precision Networks. | 2021
+F-CAD: A Framework to Explore Hardware Accelerators for Codec Avatar Decoding. | 2021
+Gemmini: Enabling Systematic Deep-Learning Architecture Evaluation via Full-Stack Integration. | 2021
+CascadeHD: Efficient Many-Class Learning Framework Using Hyperdimensional Computing. | 2021
+Cognitive Correlative Encoding for Genome Sequence Matching in Hyperdimensional System. | 2021
+Statheros: Compiler for Efficient Low-Precision Probabilistic Programming. | 2021
+TCL: an ANN-to-SNN Conversion with Trainable Clipping Layers. | 2021
+Scaling up HBM Efficiency of Top-K SpMV for Approximate Embedding Similarity on FPGAs. | 2021
+Exact Neural Networks from Inexact Multipliers via Fibonacci Weight Encoding. | 2021
+PixelSieve: Towards Efficient Activity Analysis From Compressed Video Streams. | 2021
+gGuard: Enabling Leakage-Resilient Memory Isolation in GPU-accelerated Autonomous Embedded Systems. | 2021
+PAVFuzz: State-Sensitive Fuzz Testing of Protocols in Autonomous Vehicles. | 2021
+RoboRun: A Robot Runtime to Exploit Spatial Heterogeneity. | 2021
+Neural Pruning Search for Real-Time Object Detection of Autonomous Vehicles. | 2021
+Analyzing and Improving Fault Tolerance of Learning-Based Navigation Systems. | 2021
+FedLight: Federated Reinforcement Learning for Autonomous Multi-Intersection Traffic Signal Control. | 2021
+PrefixRL: Optimization of Parallel Prefix Circuits using Deep Reinforcement Learning. | 2021
+SLAP: A Supervised Learning Approach for Priority Cuts Technology Mapping. | 2021
+TensorLib: A Spatial Accelerator Generation Framework for Tensor Algebra. | 2021
+LUT-Based Optimization For ASIC Design Flow. | 2021
+Deep Integration of Circuit Simulator and SAT Solver. | 2021
+UMOC: Unified Modular Ordering Constraints to Unify Cycle- and Register-Transfer-Level Modeling. | 2021
+Pruning of Deep Neural Networks for Fault-Tolerant Memristor-based Accelerators. | 2021
+Sensitivity Importance Sampling Yield Analysis and Optimization for High Sigma Failure Rate Estimation. | 2021
+Reversible Gating Architecture for Rare Failure Detection of Analog and Mixed-Signal Circuits. | 2021
+Low-Cost Lithography Hotspot Detection with Active Entropy Sampling and Model Calibration. | 2021
+A New, Computationally Efficient "Blech Criterion" for Immortality in General Interconnects. | 2021
+EMGraph: Fast Learning-Based Electromigration Analysis for Multi-Segment Interconnect Using Graph Convolution Networks. | 2021
+Heterogeneous Monolithic 3D ICs: EDA Solutions, and Power, Performance, Cost Tradeoffs. | 2021
+Scaling Deep-Learning Inference with Chiplet-based Architecture and Photonic Interconnects. | 2021
+Skew-Oblivious Data Routing for Data Intensive Applications on FPGAs with HLS. | 2021
+Formulating Data-arrival Synchronizers in Integer Linear Programming for CGRA Mapping. | 2021
+CoSPARSE: A Software and Hardware Reconfigurable SpMV Framework for Graph Analytics. | 2021
+GNNerator: A Hardware/Software Framework for Accelerating Graph Neural Networks. | 2021
+Towards Improving the Trustworthiness of Hardware based Malware Detector using Online Uncertainty Estimation. | 2021
+On-device Malware Detection using Performance-Aware and Robust Collaborative Learning. | 2021
+SeMPE: Secure Multi Path Execution Architecture for Removing Conditional Branch Side Channels. | 2021
+Load-Step: A Precise TrustZone Execution Control Framework for Exploring New Side-channel Attacks Like Flush+Evict. | 2021
+Distributed Memory Guard: Enabling Secure Enclave Computing in NoC-based Architectures. | 2021
+A Formal Approach to Confidentiality Verification in SoCs at the Register Transfer Level. | 2021
+Helios: Heterogeneity-Aware Federated Learning with Dynamically Balanced Collaboration. | 2021
+Dancing along Battery: Enabling Transformer with Run-time Reconfigurability on Mobile Devices. | 2021
+BlockGNN: Towards Efficient GNN Acceleration Using Block-Circulant Weight Matrices. | 2021
+Pruning In Time (PIT): A Lightweight Network Architecture Optimizer for Temporal Convolutional Networks. | 2021
+Efficient Tunstall Decoder for Deep Neural Network Compression. | 2021
+TAIT: One-Shot Full-Integer Lightweight DNN Quantization via Tunable Activation Imbalance Transfer. | 2021
+BRAHMS: Beyond Conventional RRAM-based Neural Network Accelerators Using Hybrid Analog Memory System. | 2021
+Fault-free: A Fault-resilient Deep Neural Network Accelerator based on Realistic ReRAM Devices. | 2021
+GRAPHSPY: Fused Program Semantic Embedding through Graph Neural Networks for Memory Efficiency. | 2021
+NAAS: Neural Accelerator Architecture Search. | 2021
+SpikeDyn: A Framework for Energy-Efficient Spiking Neural Networks with Continual and Unsupervised Learning Capabilities in Dynamic Environments. | 2021
+High-Performance FPGA-based Accelerator for Bayesian Neural Networks. | 2021
+CrossLight: A Cross-Layer Optimized Silicon Photonic Neural Network Accelerator. | 2021
+Low-Cost and Effective Fault-Tolerance Enhancement Techniques for Emerging Memories-Based Deep Neural Networks. | 2021
+Towards Resilient Deployment of In-Memory Neural Networks with High Throughput. | 2021
+Optimizing ADC Utilization through Value-Aware Bypass in ReRAM-based DNN Accelerator. | 2021
+CDAR-DRAM: An In-situ Charge Detection and Adaptive Data Restoration DRAM Architecture for Performance and Energy Efficiency Improvement. | 2021
+LolliRAM: A Cross-Layer Design to Exploit Data Locality in Oblivious RAM. | 2021
+KV-SSD: What Is It Good For? | 2021
+BLOwing Trees to the Ground: Layout Optimization of Decision Trees on Racetrack Memory. | 2021
+VLSI Structure-aware Placement for Convolutional Neural Network Accelerator Units. | 2021
+Ultrafast CPU/GPU Kernels for Density Accumulation in Placement. | 2021
+Performance-Driven Simultaneous Partitioning and Routing for Multi-FPGA Systems. | 2021
+REST: Constructing Rectilinear Steiner Minimum Tree via Reinforcement Learning. | 2021
+A Complete PCB Routing Methodology with Concurrent Hierarchical Routing. | 2021
+Simultaneous Pre- and Free-assignment Routing for Multiple Redistribution Layers with Irregular Vias. | 2021
+Dynamic Chip Clustering and Task Allocation for Real-time Flash. | 2021
+I/O-GUARD: Hardware/Software Co-Design for I/O Virtualization with Guaranteed Real-time Performance. | 2021
+Training Acceleration for Deep Neural Networks: A Hybrid Parallelization Strategy. | 2021
+Optimal Memory Allocation and Scheduling for DMA Data Transfers under the LET Paradigm. | 2021
+A Finer-Grained Blocking Analysis for Parallel Real-Time Tasks with Spin-Locks. | 2021
+Designing a 2048-Chiplet, 14336-Core Waferscale Processor. | 2021
+Micro-bumping, Hybrid Bonding, or Monolithic? A PPA Study for Heterogeneous 3D IC Options. | 2021
+StocHD: Stochastic Hyperdimensional System for Efficient and Robust Learning from Raw Data. | 2021
+DyGNN: Algorithm and Architecture Support of Dynamic Pruning for Graph Neural Networks. | 2021
+Ultra-Fast CGRA Scheduling to Enable Run Time, Programmable CGRAs. | 2021
+MEGATRON: Software-Managed Device TLB for Shared-Memory FPGA Virtualization. | 2021
+DNN-Opt: An RL Inspired Optimization for Analog Circuit Sizing using Deep Neural Networks. | 2021
+Trust-Region Method with Deep Reinforcement Learning in Analog Design Space Exploration. | 2021
+Prioritized Reinforcement Learning for Analog Circuit Optimization With Design Knowledge. | 2021
+Local Bayesian Optimization For Analog Circuit Sizing. | 2021
+Universal Symmetry Constraint Extraction for Analog and Mixed-Signal Circuits with Graph Neural Networks. | 2021
+Interactive Analog Layout Editing with Instant Placement Legalization. | 2021
+SEALing Neural Network Models in Encrypted Deep Learning Accelerators. | 2021
+Classifying Computations on Multi-Tenant FPGAs. | 2021
+A Lightweight Isolation Mechanism for Secure Branch Predictors. | 2021
+CuckoOnsai: An Efficient Memory Authentication Using Amalgam of Cuckoo Filters and Integrity Trees. | 2021
+Efficient Implementation of Finite Field Arithmetic for Binary Ring-LWE Post-Quantum Cryptography Through a Novel Lookup-Table-Like Method. | 2021
+Optimized Polynomial Multiplier Architectures for Post-Quantum KEM Saber. | 2021
+Invited- NVCell: Standard Cell Layout in Advanced Technology Nodes with Reinforcement Learning. | 2021
+Invited: End-to-End Secure SoC Lifecycle Management. | 2021
+Invited: Independent Verification and Validation of Security-Aware EDA Tools and IP. | 2021
+TinyML: Current Progress, Research Challenges, and Future Roadmap. | 2021
+Convergence of SoC architecture and semiconductor manufacturing through AI/ML systems. | 2021
+Safety in Autonomous Driving: Can Tools Offer Guarantees? | 2021
+Requirement Specification, Analysis and Verification for Autonomous Systems. | 2021
+Invited: Hardware/Software Co-Synthesis and Co-Optimization for Autonomous Systems. | 2021
+Invited: Towards Fully Intelligent Transportation through Infrastructure-Vehicle Cooperative Autonomous Driving: Challenges and Opportunities. | 2021
+Invited: Bambu: an Open-Source Research Framework for the High-Level Synthesis of Complex Applications. | 2021
+Invited: Getting the Most out of your Circuits with Heterogeneous Logic Synthesis. | 2021
+Invited: Accelerating Fully Homomorphic Encryption with Processing in Memory. | 2021
+Invited: Hardware-aware Real-time Myocardial Segmentation Quality Control in Contrast Echocardiography. | 2021
+INVITED: kCC-Net for Compression of Biomedical Image Segmentation Networks. | 2021
+Privacy-Preserving Medical Image Segmentation via Hybrid Trusted Execution Environment. | 2021
+Building scalable variational circuit training for machine learning tasks. | 2021
+Invited: Trainable Discrete Feature Embeddings for Quantum Machine Learning. | 2021
+Invited: Drug Discovery Approaches using Quantum Machine Learning. | 2021
+Late Breaking Results: Attention in Graph2Seq Neural Networks towards Push-Button Analog IC Placement. | 2021
+Late Breaking Results: An Effective Legalization Algorithm for Heterogeneous FPGAs with Complex Constraints. | 2021
+Late Breaking Results: Heterogeneous Circuit Layout Centerline Extraction for Mask Verification. | 2021
+Late Breaking Results: Incremental 3D Global Routing Considering Cell Movement. | 2021
+Late Breaking Results: Novel Discrete Dynamic Filled Function Algorithm for Acyclic Graph Partitioning. | 2021
+A Novel Machine-Learning based SoC Performance Monitoring Methodology under Wide-Range PVT Variations with Unknown Critical Paths. | 2021
+Late Breaking Results: Parallelizing Net Routing with cGANs. | 2021
+Late Breaking Results: Physical Adversarial Attacks of Diffractive Deep Neural Networks. | 2021
+Late Breaking Results: Polynomial Formal Verification of Fast Adders. | 2021
+Late Breaking Results: Reinforcement Learning for Scalable Logic Optimization with Graph Neural Networks. | 2021

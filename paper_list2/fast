@@ -1,0 +1,104 @@
+16th USENIX Conference on File and Storage Technologies, FAST 2018, Oakland, CA, USA, February 12-15, 2018. | 2018
+Fail-Slow at Scale: Evidence of Hardware Performance Faults in Large Production Systems. | 2018
+Protocol-Aware Recovery for Consensus-Based Storage. | 2018
+WAFL Iron: Repairing Live Enterprise File Systems. | 2018
+MQSim: A Framework for Enabling Realistic Studies of Modern Multi-Queue SSD Devices. | 2018
+PEN: Design and Evaluation of Partial-Erase for 3D NAND-Based High Density SSDs. | 2018
+The CASE of FEMU: Cheap, Accurate, Scalable and Extensible Flash Emulator. | 2018
+Spiffy: Enabling File-System Aware Storage Applications. | 2018
+Towards Robust File System Checkers. | 2018
+The Full Path to Full-Path Indexing. | 2018
+Clay Codes: Moulding MDS Codes to Yield an MSR Code. | 2018
+Towards Web-based Delta Synchronization for Cloud Storage Services. | 2018
+Stash in a Flash. | 2018
+Endurable Transient Inconsistency in Byte-Addressable Persistent B+-Tree. | 2018
+RFLUSH: Rethink the Flush. | 2018
+Barrier-Enabled IO Stack for Flash Storage. | 2018
+High-Performance Transaction Processing in Journaling File Systems. | 2018
+Designing a True Direct-Access File System with DevFS. | 2018
+FStream: Managing Flash Streams in the File System. | 2018
+Improving Docker Registry Design Based on Production Workload Analysis. | 2018
+RAID+: Deterministic and Balanced Data Distribution for Large Disk Enclosures. | 2018
+Logical Synchronous Replication in the Tintri VMstore File System. | 2018
+ALACC: Accelerating Restore Performance of Data Deduplication Systems Using Adaptive Look-Ahead Window Assisted Chunk Caching. | 2018
+UKSM: Swift Memory Deduplication via Hierarchical and Adaptive Memory Region Distilling. | 2018
+17th USENIX Conference on File and Storage Technologies, FAST 2019, Boston, MA, February 25-28, 2019. | 2019
+Reaping the performance of fast NVM storage with uDepot. | 2019
+Optimizing Systems for Byte-Addressable NVM by Reducing Bit Flipping. | 2019
+Write-Optimized Dynamic Hashing for Persistent Memory. | 2019
+Software Wear Management for Persistent Memories. | 2019
+Storage Gardening: Using a Virtualization Layer for Efficient Defragmentation in the WAFL File System. | 2019
+Pay Migration Tax to Homeland: Anchor-based Scalable Reference Counting for Multicores. | 2019
+Speculative Encryption on GPU Applied to Cryptographic File Systems. | 2019
+Sketching Volume Capacities in Deduplicated Storage. | 2019
+Finesse: Fine-Grained Feature Locality based Fast Resemblance Detection for Post-Deduplication Delta Compression. | 2019
+Sliding Look-Back Window Assisted Data Chunk Rewriting for Improving Deduplication Restore Performance. | 2019
+DistCache: Provable Load Balancing for Large-Scale Storage Systems with Distributed Caching. | 2019
+GearDB: A GC-free Key-Value Store on HM-SMR Drives with Gear Compaction. | 2019
+SPEICHER: Securing LSM-based Key-Value Stores using Shielded Execution. | 2019
+SLM-DB: Single-Level Key-Value Store with Persistent Memory. | 2019
+Ziggurat: A Tiered File System for Non-Volatile Main Memories and Disks. | 2019
+Orion: A Distributed File System for Non-Volatile Main Memory and RDMA-Capable Networks. | 2019
+INSTalytics: Cluster Filesystem Co-design for Big-data Analytics. | 2019
+GraphOne: A Data Store for Real-time Analytics on Evolving Graphs. | 2019
+Automatic, Application-Aware I/O Forwarding Resource Allocation. | 2019
+Design Tradeoffs for SSD Reliability. | 2019
+Fully Automatic Stream Management for Multi-Streamed SSDs Using Program Contexts. | 2019
+Large-Scale Graph Processing on Emerging Storage Devices. | 2019
+Fast Erasure Coding for Data Storage: A Comprehensive Study of the Acceleration Techniques. | 2019
+OpenEC: Toward Unified and Configurable Erasure Coding Management in Distributed Storage Systems. | 2019
+Cluster storage systems gotta have HeART: improving storage efficiency by exploiting disk-reliability heterogeneity. | 2019
+ScaleCheck: A Single-Machine Approach for Discovering Scalability Bugs in Large Distributed Systems. | 2019
+18th USENIX Conference on File and Storage Technologies, FAST 2020, Santa Clara, CA, USA, February 24-27, 2020. | 2020
+MAPX: Controlled Data Migration in the Expansion of Decentralized Object-Based Storage Systems. | 2020
+Lock-Free Collaboration Support for Cloud Storage Services with Operation Inference and Transformation. | 2020
+POLARDB Meets Computational Storage: Efficiently Support Analytical Workloads in Cloud-Native Relational Database. | 2020
+Carver: Finding Important Parameters for Storage System Tuning. | 2020
+Read as Needed: Building WiSER, a Flash-Optimized Search Engine. | 2020
+How to Copy Files. | 2020
+Uncovering Access, Reuse, and Sharing Characteristics of I/O-Intensive Files on Large-Scale Production HPC Systems. | 2020
+GIFT: A Coupon Based Throttle-and-Reward Mechanism for Fair and Efficient I/O Bandwidth Management on Parallel Storage Systems. | 2020
+Scalable Parallel Flash Firmware for Many-core Architectures. | 2020
+A Study of SSD Reliability in Large Scale Enterprise Storage Deployments. | 2020
+Making Disk Failure Predictions SMARTer! | 2020
+An Empirical Guide to the Behavior and Use of Scalable Persistent Memory. | 2020
+DC-Store: Eliminating Noisy Neighbor Containers using Deterministic I/O Performance and Resource Isolation. | 2020
+GoSeed: Generating an Optimal Seeding Plan for Deduplicated Storage. | 2020
+Characterizing, Modeling, and Benchmarking RocksDB Key-Value Workloads at Facebook. | 2020
+FPGA-Accelerated Compactions for LSM-based Key-Value Store. | 2020
+HotRing: A Hotspot-Aware In-Memory Key-Value Store. | 2020
+BCW: Buffer-Controlled Writes to HDDs for SSD-HDD Hybrid Storage Server. | 2020
+InfiniCache: Exploiting Ephemeral Serverless Functions to Build a Cost-Effective Memory Cache. | 2020
+Quiver: An Informed Storage Cache for Deep Learning. | 2020
+CRaft: An Erasure-coding-supported Version of Raft for Reducing Storage Cost and Network Cost. | 2020
+Hybrid Data Reliability for Emerging Key-Value Storage Devices. | 2020
+Strong and Efficient Consistency with Consistency-Aware Durability. | 2020
+19th USENIX Conference on File and Storage Technologies, FAST 2021, February 23-25, 2021. | 2021
+ROART: Range-query Optimized Persistent ART. | 2021
+SpanDB: A Fast, Cost-Effective LSM-tree Based KV Store on Hybrid Storage. | 2021
+Evolution of Development Priorities in Key-value Stores Serving Large-scale Applications: The RocksDB Experience. | 2021
+REMIX: Efficient Range Query for LSM-trees. | 2021
+High Velocity Kernel File Systems with Bento. | 2021
+Scalable Persistent Memory File System with Kernel-Userspace Collaboration. | 2021
+Rethinking File Mapping for Persistent Memory. | 2021
+pFSCK: Accelerating File System Checking and Repair for Modern Storage. | 2021
+Pattern-Guided File Compression with User-Experience Enhancement for Log-Structured File System on Mobile Devices. | 2021
+ArchTM: Architecture-Aware, High Performance Transaction for Persistent Memory. | 2021
+SPHT: Scalable Persistent Hardware Transactions. | 2021
+The Dilemma between Deduplication and Locality: Can Both be Achieved? | 2021
+Remap-SSD: Safely and Efficiently Exploiting SSD Address Remapping to Eliminate Duplicate Writes. | 2021
+CheckFreq: Frequent, Fine-Grained DNN Checkpointing. | 2021
+Facebook's Tectonic Filesystem: Efficiency from Exascale. | 2021
+Exploiting Combined Locality for Wide-Stripe Erasure Coding in Distributed Storage. | 2021
+On the Feasibility of Parser-based Log Compression in Large-Scale Cloud Systems. | 2021
+CNSBench: A Cloud Native Storage Benchmark. | 2021
+Concordia: Distributed Shared Memory with In-Network Cache Coherence. | 2021
+eMRC: Efficient Miss Ratio Approximation for Multi-Tier Caching. | 2021
+The Storage Hierarchy is Not a Hierarchy: Optimizing Caching on Modern Storage Devices with Orthus. | 2021
+A Community Cache with Complete Information. | 2021
+Learning Cache Replacement with CACHEUS. | 2021
+FusionRAID: Achieving Consistent Low Latency for Commodity SSD Arrays. | 2021
+Behemoth: A Flash-centric Training Accelerator for Extreme-scale DNNs. | 2021
+FlashNeuron: SSD-Enabled Large-Batch Training of Very Deep Neural Networks. | 2021
+D2FQ: Device-Direct Fair Queueing for NVMe SSDs. | 2021
+An In-Depth Study of Correlated Failures in Production SSD-Based Data Centers. | 2021

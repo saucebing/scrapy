@@ -1,0 +1,300 @@
+Proceedings of the Twenty-Third International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS 2018, Williamsburg, VA, USA, March 24-28, 2018. | 2018
+In-Memory Data Parallel Processor. | 2018
+Hardware Multithreaded Transactions. | 2018
+Blasting through the Front-End Bottleneck with Shotgun. | 2018
+Slim NoC: A Low-Diameter On-Chip Network Topology for High Energy Efficiency and Scalability. | 2018
+Skyway: Connecting Managed Heaps in Distributed Big Data Systems. | 2018
+Espresso: Brewing Java For More Non-Volatility with Non-volatile Memory. | 2018
+Enhancing Cross-ISA DBT Through Automatically Learned Translation Rules. | 2018
+Gloss: Seamless Live Reconfiguration and Reoptimization of Stream Programs. | 2018
+Filtering Translation Bandwidth with Virtual Caching. | 2018
+Automatic Hierarchical Parallelization of Linear Recurrences. | 2018
+Automatic Matching of Legacy Code to Heterogeneous APIs: An Idiomatic Approach. | 2018
+Understanding and Auto-Adjusting Performance-Sensitive Configurations. | 2018
+SPECTR: Formal Supervisory Control and Coordination for Many-core Systems Resource Management. | 2018
+CALOREE: Learning Control for Predictable Latency and Low Energy. | 2018
+Darwin: A Genomics Co-processor Provides up to 15, 000X Acceleration on Long Read Assembly. | 2018
+Liquid Silicon-Monona: A Reconfigurable Memory-Oriented Computing Fabric with Scalable Multi-Context Support. | 2018
+Time Dilation and Contraction for Programmable Analog Devices with Jaunt. | 2018
+Exploiting Dynamic Thermal Energy Harvesting for Reusing in Smartphone with Mobile Applications. | 2018
+Static Detection of Event-based Races in Android Apps. | 2018
+Potluck: Cross-Application Approximate Deduplication for Computation-Intensive Mobile Applications. | 2018
+Quantum Computing is Getting Real: Architecture, PL, and OS Roles in Closing the Gap between Quantum Algorithms and Machines. | 2018
+SOFRITAS: Serializable Ordering-Free Regions for Increasing Thread Atomicity Scalably. | 2018
+DAMN: Overhead-Free IOMMU Protection for Networking. | 2018
+Google Workloads for Consumer Devices: Mitigating Data Movement Bottlenecks. | 2018
+Watching for Software Inefficiencies with Witch. | 2018
+Optimistic Hybrid Analysis: Accelerating Dynamic Analysis through Predicated Static Analysis. | 2018
+Statistical Reconstruction of Class Hierarchies in Binaries. | 2018
+Sulong, and Thanks for All the Bugs: Finding Errors in C Programs by Abstracting from the Native Execution Model. | 2018
+FirmUp: Precise Static Detection of Common Vulnerabilities in Firmware. | 2018
+Frightening Small Children and Disconcerting Grown-ups: Concurrency in the Linux Kernel. | 2018
+FCatch: Automatically Detecting Time-of-fault Bugs in Cloud Systems. | 2018
+Unconventional Parallelization of Nondeterministic Applications. | 2018
+Bridge the Gap between Neural Networks and Neuromorphic Hardware with a Neural Network Compiler. | 2018
+MAERI: Enabling Flexible Dataflow Mapping over DNN Accelerators via Reconfigurable Interconnects. | 2018
+VIBNN: Hardware Acceleration of Bayesian Neural Networks. | 2018
+LTRF: Enabling High-Capacity Register Files for GPUs via Hardware/Software Cooperative Register Prefetching. | 2018
+MASK: Redesigning the GPU Memory Hierarchy to Support Multi-Application Concurrency. | 2018
+Sugar: Secure GPU Acceleration in Web Browsers. | 2018
+SmoothOperator: Reducing Power Fragmentation and Improving Power Utilization in Large-scale Datacenters. | 2018
+WSMeter: A Performance Evaluation Methodology for Google's Production Warehouse-Scale Computers. | 2018
+Datasize-Aware High Dimensional Configurations Auto-Tuning of In-Memory Cluster Computing. | 2018
+An Event-Triggered Programmable Prefetcher for Irregular Workloads. | 2018
+Minnow: Lightweight Offload Engines for Worklist Management and Worklist-Directed Prefetching. | 2018
+Wonderland: A Novel Abstraction-Based Out-Of-Core Graph Processing System. | 2018
+Tigr: Transforming Irregular Graphs for GPU-Friendly Graph Processing. | 2018
+Devirtualizing Memory in Heterogeneous Systems. | 2018
+LATR: Lazy Translation Coherence. | 2018
+VAULT: Reducing Paging Overheads in SGX with Efficient Integrity Verification Structures. | 2018
+Making Huge Pages Actually Useful. | 2018
+BranchScope: A New Side-Channel Attack on Directional Branch Predictor. | 2018
+StrongBox: Confidentiality, Integrity, and Performance using Stream Ciphers for Full Drive Encryption. | 2018
+DATS - Data Containers for Web Applications. | 2018
+DLibOS: Performance and Protection with a Network-on-Chip. | 2018
+The Architectural Implications of Autonomous Driving: Constraints and Acceleration. | 2018
+A Reconfigurable Energy Storage Architecture for Energy-harvesting Devices. | 2018
+NEOFog: Nonvolatility-Exploiting Optimizations for Fog Computing. | 2018
+vbench: Benchmarking Video Transcoding in the Cloud. | 2018
+Proceedings of the Twenty-Fourth International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS 2019, Providence, RI, USA, April 13-17, 2019. | 2019
+Keynote: Multicore Programming. | 2019
+Keynote: Developing our Quantum Future. | 2019
+An Open-Source Benchmark Suite for Microservices and Their Hardware-Software Implications for Cloud & Edge Systems. | 2019
+Seer: Leveraging Big Data to Navigate the Complexity of Performance Debugging in Cloud Microservices. | 2019
+RPCValet: NI-Driven Tail-Aware Balancing of µs-Scale RPCs. | 2019
+A Framework for Memory Oversubscription Management in Graphics Processing Units. | 2019
+Swizzle Inventor: Data Movement Synthesis for GPU Kernels. | 2019
+Scalable Processing of Contemporary Semi-Structured Data on Commodity Parallel Processors - A Compilation-based Approach. | 2019
+Fast and Scalable VMM Live Upgrade in Large Cloud Infrastructure. | 2019
+PARTIES: QoS-Aware Resource Partitioning for Multiple Interactive Services. | 2019
+X-Containers: Breaking Down Barriers to Improve Performance and Isolation of Cloud-Native Containers. | 2019
+Buffets: An Efficient and Composable Storage Idiom for Explicit Decoupled Data Orchestration. | 2019
+HiWayLib: A Software Framework for Enabling High Performance Communications for Heterogeneous Pipeline Computations. | 2019
+StreamBox-HBM: Stream Analytics on High Bandwidth Hybrid Memory. | 2019
+Puddle: A Dynamic, Error-Correcting, Full-Stack Microfluidics Platform. | 2019
+Intelligence Beyond the Edge: Inference on Intermittent Embedded Systems. | 2019
+Boosted Race Trees for Low Energy Classification. | 2019
+Compress Objects, Not Cache Lines: An Object-Based Compressed Memory Hierarchy. | 2019
+Beating OPT with Statistical Clairvoyance and Variable Size Caching. | 2019
+A Formal Analysis of the NVIDIA PTX Memory Consistency Model. | 2019
+Just-In-Time Compilation for Verilog: A New Technique for Improving the FPGA Programming Experience. | 2019
+DCNS: Automated Detection Of Conservative Non-Sleep Defects in the Linux Kernel. | 2019
+A Case for Lease-Based, Utilitarian Resource Management on Mobile Devices. | 2019
+Software-Defined Far Memory in Warehouse-Scale Computers. | 2019
+Nimble Page Management for Tiered Memory Systems. | 2019
+HawkEye: Efficient Fine-grained OS Support for Huge Pages. | 2019
+Architectural Support for Containment-based Security. | 2019
+CheriABI: Enforcing Valid Pointer Provenance and Minimizing Pointer Privilege in the POSIX C Run-time Environment. | 2019
+Context-Sensitive Fencing: Securing Speculative Execution via Microcode Customization. | 2019
+PMTest: A Fast and Flexible Testing Framework for Persistent Memory Programs. | 2019
+Finding and Fixing Performance Pathologies in Persistent Memory Software Stacks. | 2019
+Fine-Grain Checkpointing with In-Cache-Line Logging. | 2019
+Heterogeneous Isolated Execution for Commodity GPUs. | 2019
+Morpheus: A Vulnerability-Tolerant Secure Architecture Based on Ensembles of Moving Target Defenses with Churn. | 2019
+DeepSigns: An End-to-End Watermarking Framework for Ownership Protection of Deep Neural Networks. | 2019
+FA3C: FPGA-Accelerated Deep Reinforcement Learning. | 2019
+AcMC 2 : Accelerating Markov Chain Monte Carlo Algorithms for Probabilistic Models. | 2019
+Targeting Classical Code to a Quantum Annealer. | 2019
+ProbeGuard: Mitigating Probing Attacks Through Reactive Program Transformations. | 2019
+kMVX: Detecting Kernel Information Leaks with Multi-variant Execution. | 2019
+MVEDSUA: Higher Availability Dynamic Software Updates via Multi-Version Execution. | 2019
+PnP: Pruning and Prediction for Point-To-Point Iterative Graph Analytics. | 2019
+DiGraph: An Efficient Path-based Iterative Directed Graph Processing System on Multiple GPUs. | 2019
+Phoenix: A Substrate for Resilient Distributed Graph Analytics. | 2019
+BOGO: Buy Spatial Memory Safety, Get Temporal Memory Safety (Almost) Free. | 2019
+Protecting Page Tables from RowHammer Attacks using Monotonic Pointers in DRAM True-Cells. | 2019
+ρ: Relaxed Hierarchical ORAM. | 2019
+uops.info: Characterizing Latency, Throughput, and Port Usage of Instructions on Intel Microarchitectures. | 2019
+Bootstrapping: Using SMT Hardware to Improve Single-Thread Performance. | 2019
+CORF: Coalescing Operand Register File for GPUs. | 2019
+PUMA: A Programmable Ultra-efficient Memristor-based Accelerator for Machine Learning Inference. | 2019
+FPSA: A Full System Stack Solution for Reconfigurable ReRAM-based NN Accelerator Architecture. | 2019
+Bit-Tactical: A Software/Hardware Approach to Exploiting Value and Bit Sparsity in Neural Networks. | 2019
+pLock: A Fast Lock for Architectures with Explicit Inter-core Message Passing. | 2019
+MV-RLU: Scaling Read-Log-Update with Multi-Versioning. | 2019
+Fast Fine-Grained Global Synchronization on GPUs. | 2019
+TANGRAM: Optimized Coarse-Grained Dataflow for Scalable NN Accelerators. | 2019
+Packing Sparse Convolutional Neural Networks for Efficient Systolic Array Implementations: Column Combining Under Joint Optimization. | 2019
+Split-CNN: Splitting Window-based Operations in Convolutional Neural Networks for Memory System Optimization. | 2019
+Replica: A Wireless Manycore for Communication-Intensive and Approximate Data. | 2019
+Understanding Real-World Concurrency Bugs in Go. | 2019
+Lazy Determinism for Faster Deterministic Multithreading. | 2019
+Hop: Heterogeneity-aware Decentralized Training. | 2019
+Astra: Exploiting Predictability to Optimize Deep Learning. | 2019
+ADMM-NN: An Algorithm-Hardware Co-Design Framework of DNNs Using Alternating Direction Methods of Multipliers. | 2019
+LightStore: Software-defined Network-attached Key-value Drives. | 2019
+SOML Read: Rethinking the Read Operation Granularity of 3D NAND SSDs. | 2019
+FlatFlash: Exploiting the Byte-Accessibility of SSDs within a Unified Memory-Storage Hierarchy. | 2019
+Not All Qubits Are Created Equal: A Case for Variability-Aware Policies for NISQ-Era Quantum Computers. | 2019
+Tackling the Qubit Mapping Problem for NISQ-Era Quantum Devices. | 2019
+Noise-Adaptive Compiler Mappings for Noisy Intermediate-Scale Quantum Computers. | 2019
+Optimized Compilation of Aggregated Instructions for Realistic Quantum Computers. | 2019
+Wasabi: A Framework for Dynamically Analyzing WebAssembly. | 2019
+Safer Program Behavior Sharing Through Trace Wringing. | 2019
+Debugging Support for Pattern-Matching Languages and Accelerators. | 2019
+Minotaur: Adapting Software Testing Techniques for Hardware Errors. | 2019
+ASPLOS '20: Architectural Support for Programming Languages and Operating Systems, Lausanne, Switzerland, March 16-20, 2020. | 2020
+Big Data of the Past, from Venice to Europe. | 2020
+Shredder: Learning Noise Distributions to Protect Inference Privacy. | 2020
+DNNGuard: An Elastic Heterogeneous DNN Accelerator Architecture against Adversarial Attacks. | 2020
+Game of Threads: Enabling Asynchronous Poisoning Attacks. | 2020
+Reliable Timekeeping for Intermittent Computing. | 2020
+Forget Failure: Exploiting SRAM Data Remanence for Low-overhead Intermittent Computation. | 2020
+Time-sensitive Intermittent Computing Meets Legacy Software. | 2020
+IOctopus: Outsmarting Nonuniform DMA. | 2020
+Lynx: A SmartNIC-driven Accelerator-centric Architecture for Network Servers. | 2020
+Egalito: Layout-Agnostic Binary Recompilation. | 2020
+Noise-Aware Dynamical System Compilation for Analog Devices with Legno. | 2020
+Reproducible Containers. | 2020
+Atomicity Checking in Linear Time using Vector Clocks. | 2020
+Hermes: A Fast, Fault-Tolerant and Linearizable Replication Protocol. | 2020
+FlexAmata: A Universal and Efficient Adaption of Applications to Spatial Automata Processing Accelerators. | 2020
+Accelerating Legacy String Kernels via Bounded Automata Learning. | 2020
+Why GPUs are Slow at Executing NFAs and How to Make them Faster. | 2020
+∅sim: Preparing System Software for a World with Terabyte-scale Memories. | 2020
+Mitosis: Transparently Self-Replicating Page-Tables for Large-Memory Machines. | 2020
+Hailstorm: Disaggregated Compute and Storage for Distributed LSM-based Databases. | 2020
+Peacenik: Architecture Support for Not Failing under Fail-Stop Memory Consistency. | 2020
+Durable Transactional Memory Can Scale with Timestone. | 2020
+Perspective: A Sensible Approach to Speculative Automatic Parallelization. | 2020
+Interstellar: Using Halide's Scheduling Language to Analyze DNN Accelerators. | 2020
+DeepSniffer: A DNN Model Extraction Framework Based on Learning Architectural Hints. | 2020
+Prague: High-Performance Heterogeneity-Aware Asynchronous Decentralized Training. | 2020
+Livia: Data-Centric Computing Throughout the Memory Hierarchy. | 2020
+A Computational Temporal Logic for Superconducting Accelerators. | 2020
+CryoCache: A Fast, Large, and Cost-Effective Cache Architecture for Cryogenic Computing. | 2020
+Current and Projected Needs for High Energy Physics Experiments (with a Particular Eye on CERN LHC). | 2020
+Catalyzer: Sub-millisecond Startup for Serverless Computing with Initialization-less Booting. | 2020
+High-density Multi-tenant Bare-metal Cloud. | 2020
+Data Center Power Oversubscription with a Medium Voltage Power Plane and Priority-Aware Capping. | 2020
+Classifying Memory Access Patterns for Prefetching. | 2020
+Thesaurus: Efficient Cache Compression via Dynamic Clustering. | 2020
+Learning-based Memory Allocation for C++ Server Workloads. | 2020
+Optimizing Nested Virtualization Performance Using Direct Virtual Hardware. | 2020
+HaRMony: Heterogeneous-Reliability Memory and QoS-Aware Energy Management on Virtualized Servers. | 2020
+LeapIO: Efficient and Portable Virtual NVMe Storage on ARM SoCs. | 2020
+Challenging Sequential Bitstream Processing via Principled Bitwise Speculation. | 2020
+Vortex: Extreme-Performance Memory Abstractions for Data-Intensive Streaming Applications. | 2020
+Fleet: A Framework for Massively Parallel Streaming on FPGAs. | 2020
+Hurdle: Securing Jump Instructions Against Code Reuse Attacks. | 2020
+Exploring Branch Predictors for Constructing Transient Execution Trojans. | 2020
+A Benchmark Suite for Evaluating Caches' Vulnerability to Timing Attacks. | 2020
+BYOC: A "Bring Your Own Core" Framework for Heterogeneous-ISA Research. | 2020
+FirePerf: FPGA-Accelerated Full-System Hardware/Software Performance Profiling and Co-Design. | 2020
+Accelerometer: Understanding Acceleration Opportunities for Data Center Overheads at Hyperscale. | 2020
+AsymNVM: An Efficient Framework for Implementing Persistent Data Structures on Asymmetric NVM Architecture. | 2020
+MOD: Minimally Ordered Durable Datastructures for Persistent Memory. | 2020
+Pronto: Easy and Fast Persistence for Volatile Data Structures. | 2020
+AvA: Accelerated Virtualization of Accelerators. | 2020
+A Hypervisor for Shared-Memory FPGA Platforms. | 2020
+Virtualizing FPGAs in the Cloud. | 2020
+FlexTensor: An Automatic Schedule Exploration and Optimization Framework for Tensor Computation on Heterogeneous System. | 2020
+AutoTM: Automatic Tensor Movement in Heterogeneous Memory Systems using Integer Linear Programming. | 2020
+Capuchin: Tensor-based GPU Memory Management for Deep Learning. | 2020
+PatDNN: Achieving Real-Time DNN Execution on Mobile Devices with Pattern-based Weight Pruning. | 2020
+Coterie: Exploiting Frame Similarity to Enable High-Quality Multiplayer VR on Commodity Mobile Devices. | 2020
+Orbital Edge Computing: Nanosatellite Constellations as a New Class of Computer System. | 2020
+Occlum: Secure and Efficient Multitasking Inside a Single Enclave of Intel SGX. | 2020
+COIN Attacks: On Insecurity of Enclave Untrusted Interfaces in SGX. | 2020
+MERR: Improving Security of Persistent Memory Objects via Efficient Memory Exposure Reduction and Randomization. | 2020
+Software Mitigation of Crosstalk on Noisy Intermediate-Scale Quantum Computers. | 2020
+Quantum Circuits for Dynamic Runtime Assertions in Quantum Computation. | 2020
+Towards Efficient Superconducting Quantum Processor Architecture Design. | 2020
+SAC: A Co-Design Cache Algorithm for Emerging SMR-based High-Density Disks. | 2020
+Fair Write Attribution and Allocation for Consolidated Flash Cache. | 2020
+FlatStore: An Efficient Log-Structured Key-Value Storage Engine for Persistent Memory. | 2020
+Elastic Cuckoo Page Tables: Rethinking Virtual Memory Translation for Parallelism. | 2020
+NeuMMU: Architectural Support for Efficient Address Translations in Neural Processing Units. | 2020
+Safecracker: Leaking Secrets through Compressed Caches. | 2020
+Effective Concurrency Testing for Distributed Systems. | 2020
+HMC: Model Checking for Hardware Memory Models. | 2020
+Lazy Release Persistency. | 2020
+Cross-Failure Bug Detection in Persistent Memory Programs. | 2020
+Optimus Prime: Accelerating Data Transformation in Servers. | 2020
+The TrieJax Architecture: Accelerating Graph Operations Through Relational Joins. | 2020
+IIU: Specialized Architecture for Inverted Index Search. | 2020
+Chronos: Efficient Speculative Parallelism for Accelerators. | 2020
+Klotski: Efficient Obfuscated Execution against Controlled-Channel Attacks. | 2020
+The Guardian Council: Parallel Programmable Hardware Security. | 2020
+HEAX: An Architecture for Computing on Encrypted Data. | 2020
+Evanesco: Architectural Support for Efficient Data Sanitization in Modern Flash-Based Storage Systems. | 2020
+Dimensionality-Aware Redundant SIMT Instruction Elimination. | 2020
+SwapAdvisor: Pushing Deep Learning Beyond the GPU Memory Limit via Smart Swapping. | 2020
+Batch-Aware Unified Memory Management in GPUs for Irregular Workloads. | 2020
+HSM: A Hybrid Slowdown Model for Multitasking GPUs. | 2020
+ASPLOS '21: 26th ACM International Conference on Architectural Support for Programming Languages and Operating Systems, Virtual Event, USA, April 19-23, 2021. | 2021
+PacketMill: toward per-Core 100-Gbps networking. | 2021
+Autonomous NIC offloads. | 2021
+Dagger: efficient and fast RPCs in cloud microservices with near-memory reconfigurable NICs. | 2021
+BCD deduplication: effective memory compression using partial cache-line deduplication. | 2021
+KLOCs: kernel-level object contexts for heterogeneous memory systems. | 2021
+Rethinking software runtimes for disaggregated memory. | 2021
+DiAG: a dataflow-inspired architecture for general-purpose processors. | 2021
+LifeStream: a high-performance stream processing engine for periodic streams. | 2021
+When application-specific ISA meets FPGAs: a multi-layer virtualization framework for heterogeneous cloud FPGAs. | 2021
+Sage: practical and scalable ML-driven performance debugging in microservices. | 2021
+Nightcore: efficient and scalable serverless computing for latency-sensitive, interactive microservices. | 2021
+Sinan: ML-based and QoS-aware resource management for cloud microservices. | 2021
+NOREBA: a compiler-informed non-speculative out-of-order commit processor. | 2021
+Fast local page-tables for virtualized NUMA servers with vMitosis. | 2021
+PTEMagnet: fine-grained physical memory reservation for faster page walks in public clouds. | 2021
+In-fat pointer: hardware-assisted tagged-pointer spatial memory safety defense with subobject granularity protection. | 2021
+Judging a type by its pointer: optimizing GPU virtual functions. | 2021
+Enclosure: language-based restriction of untrusted libraries. | 2021
+Switches for HIRE: resource scheduling for data center in-network computing. | 2021
+Probabilistic profiling of stateful data planes for adversarial testing. | 2021
+MERCI: efficient embedding reduction on commodity hardware via sub-query memoization. | 2021
+SherLock: unsupervised synchronization-operation inference. | 2021
+SIMDRAM: a framework for bit-serial SIMD processing using DRAM. | 2021
+Clobber-NVM: log less, re-execute more. | 2021
+Time-optimal Qubit mapping. | 2021
+Orchestrated trios: compiling for efficient communication in Quantum programs with 3-Qubit gates. | 2021
+FaasCache: keeping serverless computing alive with greedy-dual caching. | 2021
+Hippocrates: healing persistent memory bugs without doing any harm. | 2021
+Jaaru: efficiently model checking persistent memory programs. | 2021
+Corundum: statically-enforced persistent memory safety. | 2021
+Qraft: reverse your Quantum circuit and know the correct program output. | 2021
+Logical abstractions for noisy variational Quantum algorithm simulation. | 2021
+CutQC: using small Quantum computers for large Quantum circuit evaluations. | 2021
+PMFuzz: test case generation for persistent memory programs. | 2021
+Fast, flexible, and comprehensive bug detection for persistent memory programs. | 2021
+PMEM-spec: persistent memory speculation (strict persistency can trump relaxed persistency). | 2021
+VSync: push-button verification and optimization for synchronization primitives on weak memory models. | 2021
+CubicleOS: a library OS with software componentisation for practical isolation. | 2021
+Benchmarking, analysis, and optimization of serverless function snapshots. | 2021
+Rhythmic pixel regions: multi-resolution visual sensing system towards high-precision visual computing at low power. | 2021
+Q-VR: system-level design for future mobile collaborative virtual reality. | 2021
+Warehouse-scale video acceleration: co-design and deployment in the wild. | 2021
+Automatically detecting and fixing concurrency bugs in go software systems. | 2021
+C11Tester: a race detector for C/C++ atomics. | 2021
+Kard: lightweight data race detection with per-thread memory protection. | 2021
+Quantifying the design-space tradeoffs in autonomous drones. | 2021
+Robomorphic computing: a design methodology for domain-specific accelerators parameterized by robot morphology. | 2021
+Gamma: leveraging Gustavson's algorithm to accelerate sparse matrix multiplication. | 2021
+Reducing solid-state drive read latency by optimizing read-retry. | 2021
+RecSSD: near data processing for solid state drive based recommendation inference. | 2021
+Prolonging 3D NAND SSD lifetime via read latency relaxation. | 2021
+PIBE: practical kernel control-flow hardening with profile-guided indirect branch elimination. | 2021
+Computing with time: microarchitectural weird machines. | 2021
+HerQules: securing programs via hardware-enforced message queues. | 2021
+Effective simulation and debugging for a high-level hardware language using software compilers. | 2021
+A compiler infrastructure for accelerator generators. | 2021
+Compiler-driven FPGA virtualization with SYNERGY. | 2021
+BayesPerf: minimizing performance monitoring errors using Bayesian statistics. | 2021
+Training for multi-resolution inference using reusable quantization terms. | 2021
+A hierarchical neural model of data prefetching. | 2021
+Vectorization for digital signal processors via equality saturation. | 2021
+Scalable FSM parallelization via path fusion and higher-order speculation. | 2021
+VeGen: a vectorizer generator for SIMD and beyond. | 2021
+Neural architecture search as program transformation exploration. | 2021
+Analytical characterization and design space exploration for optimization of CNNs. | 2021
+Mind mappings: enabling efficient algorithm-accelerator mapping space search. | 2021
+Statistical robustness of Markov chain Monte Carlo accelerators. | 2021
+NeuroEngine: a hardware-based event-driven simulation system for advanced brain-inspired computing. | 2021
+Defensive approximation: securing CNNs using approximate computing. | 2021
+Language-parametric compiler validation with application to LLVM. | 2021
+Incremental CFG patching for binary rewriting. | 2021
+Who's debugging the debuggers? exposing debug information bugs in optimized binaries. | 2021
+Speculative interference attacks: breaking invisible speculation schemes. | 2021
+Jamais vu: thwarting microarchitectural replay attacks. | 2021
+Streamline: a fast, flushless cache covert-channel attack by enabling asynchronous collusion. | 2021

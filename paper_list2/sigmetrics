@@ -1,0 +1,209 @@
+Abstracts of the 2018 ACM International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS 2018, Irvine, CA, USA, June 18-22, 2018. | 2018
+Steady-state Approximations: Achievement Lecture. | 2018
+State Dependent Control of Closed Queueing Networks. | 2018
+Dandelion++: Lightweight Cryptocurrency Networking with Formal Anonymity Guarantees. | 2018
+Bootstrapped Graph Diffusions: Exposing the Power of Nonlinearity. | 2018
+The Cost of Uncertainty in Curing Epidemics. | 2018
+The Price of Fragmentation in Mobility-on-Demand Services. | 2018
+Censored Demand Estimation in Retail. | 2018
+New Metrics and Models for a Post-ISA Era: Managing Complexity and Scaling Performance in Heterogeneous Parallelism and Internet-of-Things. | 2018
+Delay Scaling in Many-Sources Wireless Networks without Queue State Information. | 2018
+Practical Bounds on Optimal Caching with Variable Object Sizes. | 2018
+On Resource Pooling and Separation for LRU Caching. | 2018
+An Optimal Randomized Online Algorithm for QoS Buffer Management. | 2018
+Minimizing Queue Length Regret Under Adversarial Network Models. | 2018
+Dynamic Proportional Sharing: A Game-Theoretic Approach. | 2018
+SOAP: One Clean Analysis of All Age-Based Scheduling Policies. | 2018
+A Whittle's Index Based Approach for QoE Optimization in Wireless Networks. | 2018
+Inherent Trade-Offs in Algorithmic Fairness. | 2018
+An Optimal Algorithm for Online Non-Convex Learning. | 2018
+Asymptotic Optimal Control of Markov-Modulated Restless Bandits. | 2018
+Online Learning of Optimally Diverse Rankings. | 2018
+Learning Proportionally Fair Allocations with Low Regret. | 2018
+Multi-armed Bandit with Additional Observations. | 2018
+Online Learning in Weakly Coupled Markov Decision Processes: A Convergence Time Study. | 2018
+Hound: Causal Learning for Datacenter-scale Straggler Diagnosis. | 2018
+Working Set Size Estimation Techniques in Virtualized Environments: One Size Does not Fit All. | 2018
+PreFix: Switch Failure Prediction in Datacenter Networks. | 2018
+On Non-Preemptive VM Scheduling in the Cloud. | 2018
+Why Some Like It Loud: Timing Power Attacks in Multi-tenant Data Centers Using an Acoustic Side Channel. | 2018
+ECI-Cache: A High-Endurance and Cost-Efficient I/O Caching Scheme for Virtualized Platforms. | 2018
+Supporting Mobile VR in LTE Networks: How Close Are We? | 2018
+Tomographic Node Placement Strategies and the Impact of the Routing Model. | 2018
+LTERadar: Towards LTE-Aware Wi-Fi Access Points. | 2018
+Network Resilience and the Length-Bounded Multicut Problem: Reaching the Dynamic Billion-Scale with Guarantees. | 2018
+Predictive Impact Analysis for Designing a Resilient Cellular Backhaul Network. | 2018
+Synthesis of Fault-Tolerant Distributed Router Configurations. | 2018
+Reinforcement with Fading Memories. | 2018
+On the Convergence Rate of Distributed Gradient Methods for Finite-Sum Optimization under Communication Delays. | 2018
+Distributed Statistical Machine Learning in Adversarial Settings: Byzantine Gradient Descent. | 2018
+Neural Network Meets DCN: Traffic-driven Topology Adaptation with Deep Learning. | 2018
+The CSI Framework for Compiler-Inserted Program Instrumentation. | 2018
+A Quantitative Evaluation of Contemporary GPU Simulation Methodology. | 2018
+Improving 3D NAND Flash Memory Lifetime by Tolerating Early Retention Loss and Process Variation. | 2018
+A Fine-grained Event-based Modem Power Model for Enabling In-depth Modem Energy Drain Analysis. | 2018
+What Your DRAM Power Models Are Not Telling You: Lessons from a Detailed Experimental Study. | 2018
+Intel MPX Explained: A Cross-layer Analysis of the Intel MPX System Stack. | 2018
+A Refined Mean Field Approximation. | 2018
+On the Power-of-d-choices with Least Loaded Server Selection. | 2018
+Degree of Queue Imbalance: Overcoming the Limitation of Heavy-traffic Delay Optimality in Load Balancing Systems. | 2018
+Towards Optimality in Parallel Job Scheduling. | 2018
+On a Class of Stochastic Multilayer Networks. | 2018
+Fork and Join Queueing Networks with Heavy Tails: Scaling Dimension and Throughput Limit. | 2018
+Performance of Balanced Fairness in Resource Pools: A Recursive Approach. | 2018
+Designing Low-Complexity Heavy-Traffic Delay-Optimal Load Balancing Schemes: Theory to Algorithms. | 2018
+Towards Fast-Convergence, Low-Delay and Low-Complexity Network Optimization. | 2018
+The PDE Method for the Analysis of Randomized Load Balancing Networks. | 2018
+Safe Randomized Load-Balanced Switching by Diffusing Extra Loads. | 2018
+Asymptotically Optimal Load Balancing Topologies. | 2018
+ACM Sigmetrics Performance Evaluation Review: A New Series on Diversity. | 2018
+Diversity in Faculty Recruiting: A WiSE Approach. | 2018
+Abstracts of the 2019 SIGMETRICS/Performance Joint International Conference on Measurement and Modeling of Computer Systems, Phoenix, AZ, USA, June 24-28, 2019. | 2019
+Collaboratively Learning the Best Option on Graphs, Using Bounded Local Memory. | 2019
+Learning Graphs from Noisy Epidemic Cascades. | 2019
+Heavy-traffic Delay Optimality in Pull-based Load Balancing Systems: Necessary and Sufficient Conditions. | 2019
+Performance Analysis of Workload Dependent Load Balancing Policies. | 2019
+Load Balancing Guardrails: Keeping Your Heavy Traffic on the Road to Low Response Times. | 2019
+Random Walk Based Sampling for Load Balancing in Multi-Server Systems. | 2019
+Network Resilience Assessment via QoS Degradation Metrics: An Algorithmic Approach. | 2019
+A TTL-based Approach for Data Aggregation in Geo-distributed Streaming Analytics. | 2019
+Retroactive Packet Sampling for Traffic Receipts. | 2019
+Inferring Catchment in Internet Routing. | 2019
+Crystal Gazer: Profile-Driven Write-Rationing Garbage Collection for Hybrid Memories. | 2019
+Architecture-Aware Approximate Computing. | 2019
+Quantifying Data Locality in Dynamic Parallelism in GPUs. | 2019
+Computing with Near Data. | 2019
+Dynamic Pricing of Relocating Resources in Large Networks: Extended Abstract. | 2019
+The Segmentation-Thickness Tradeoff in Online Marketplaces. | 2019
+On the Value of Look-Ahead in Competitive Online Convex Optimization. | 2019
+Competitive Online Optimization under Inventory Constraints. | 2019
+Analyzing Location-Based Advertising for Vehicle Service Providers Using Effective Resistances. | 2019
+A Structural Result for Personalized PageRank and its Algorithmic Consequences. | 2019
+Learning to Control Renewal Processes with Bandit Feedback. | 2019
+Efficient Distributed Workload (Re-)Embedding. | 2019
+Optimizing the Cost of Executing Mixed Interactive and Batch Workloads on Transient VMs. | 2019
+Online Optimization in Cloud Resource Provisioning: Predictions, Regrets, and Algorithms. | 2019
+A New Flexible Multi-flow LRU Cache Management Paradigm for Minimizing Misses. | 2019
+Axiomatizing Congestion Control. | 2019
+Information, Memory and Capacity in Dynamic Resource Allocation. | 2019
+mRSC: Multidimensional Robust Synthetic Control. | 2019
+A Distributed Algorithm to Calculate Max-Min Fair Rates Without Per-Flow State. | 2019
+Global Attraction of ODE-based Mean Field Models with Hyperexponential Job Sizes. | 2019
+Hyper-Scalable JSQ with Sparse Feedback. | 2019
+Two Extensions of Kingman's GI/G/1 Bound. | 2019
+Queue and Loss Distributions in Finite-Buffer Queues. | 2019
+Improved Queue-Size Scaling for Input-Queued Switches via Graph Factorization. | 2019
+TeksDB: Weaving Data Structures for a High-Performance Key-Value Store. | 2019
+PROFET: Modeling System Performance and Energy Without Simulating the CPU. | 2019
+HyperBench: A Benchmark Suite for Virtualization Capabilities. | 2019
+App in the Middle: Demystify Application Virtualization in Android and its Security Threats. | 2019
+Everything You Should Know about Intel SGX Performance on Virtualized Systems. | 2019
+QuickStop: A Markov Optimal Stopping Approach for Quickest Misinformation Detection. | 2019
+The Bayesian Prophet: A Low-Regret Framework for Online Decision Making. | 2019
+Securing Distributed Gradient Descent in High Dimensional Statistical Learning. | 2019
+Model Agnostic Time Series Analysis via Matrix Estimation. | 2019
+What-If Analysis of Page Load Time in Web Browsers Using Causal Profiling. | 2019
+Proactive Caching for Low Access-Delay Services under Uncertain Predictions. | 2019
+Understanding the Networking Performance of Wear OS. | 2019
+Demystifying Complex Workload-DRAM Interactions: An Experimental Study. | 2019
+Non-Markovian Monte Carlo on Directed Graphs. | 2019
+Analysis of a Canonical Labeling Algorithm for the Alignment of Correlated Erdős-Rényi Graphs. | 2019
+Computationally Efficient Estimation of the Spectral Gap of a Markov Chain. | 2019
+Abstracts of the 2020 SIGMETRICS/Performance Joint International Conference on Measurement and Modeling of Computer Systems, Boston, MA, USA, June, 8-12, 2020. | 2020
+Uniform Loss Algorithms for Online Stochastic Decision-Making With Applications to Bin Packing. | 2020
+Online Primal-Dual Mirror Descent under Stochastic Constraints. | 2020
+Dynamic Weighted Fairness with Minimal Disruptions. | 2020
+Online Linear Optimization with Inventory Management Constraints. | 2020
+Online Optimization with Predictions and Non-convex Losses. | 2020
+Mechanism Design for Online Resource Allocation: A Unified Approach. | 2020
+Predict and Match: Prophet Inequalities with Uncertain Supply. | 2020
+Fundamental Limits on the Regret of Online Network-Caching. | 2020
+Adaptive Discretization for Episodic Reinforcement Learning in Metric Spaces. | 2020
+Staleness Control for Edge Data Analytics. | 2020
+Fundamental Limits of Approximate Gradient Coding. | 2020
+Forecasting with Alternative Data. | 2020
+Fast Dimensional Analysis for Root Cause Investigation in a Large-Scale Service Environment. | 2020
+Inferring Streaming Video Quality from Encrypted Traffic: Practical Models and Deployment Experience. | 2020
+Social Learning in Multi Agent Multi Armed Bandits. | 2020
+Non-Asymptotic Analysis of Monte Carlo Tree Search. | 2020
+Heavy-traffic Analysis of the Generalized Switch under Multidimensional State Space Collapse. | 2020
+Characterizing Policies with Optimal Response Time Tails under Heavy-Tailed Job Sizes. | 2020
+Simple Near-Optimal Scheduling for the M/G/1. | 2020
+Delay-Optimal Policies in Partial Fork-Join Systems with Redundancy and Random Slowdowns. | 2020
+Mean Field Analysis of Join-Below-Threshold Load Balancing for Resource Sharing Servers. | 2020
+Achieving Efficient Routing in Reconfigurable DCNs. | 2020
+Fundamental Limits of Volume-based Network DoS Attacks. | 2020
+On the Complexity of Traffic Traces and Implications. | 2020
+On the Analysis of a Multipartite Entanglement Distribution Switch. | 2020
+On Time Synchronization Issues in Time-Sensitive Networks with Regulators and Nonideal Clocks. | 2020
+Lancet: Better network resilience by designing for pruned failure sets. | 2020
+vrfinder: Finding Outbound Addresses in Traceroute. | 2020
+Ludo Hashing: Compact, Fast, and Dynamic Key-value Lookups for Practical Network Systems. | 2020
+The Great Internet TCP Congestion Control Census. | 2020
+I Know What You Did Last Summer: Network Monitoring using Interval Queries. | 2020
+Generalized Sketch Families for Network Traffic Measurement. | 2020
+Latency Imbalance Among Internet Load-Balanced Paths: A Cloud-Centric View. | 2020
+On the Bottleneck Structure of Congestion-Controlled Networks. | 2020
+Characterizing Transnational Internet Performance and the Great Bottleneck of China. | 2020
+Stability and Scalability of Blockchain Systems. | 2020
+Measuring Membership Privacy on Aggregate Location Time-Series. | 2020
+Who Filters the Filters: Understanding the Growth, Usefulness and Efficiency of Crowdsourced Ad Blocking. | 2020
+Under the Concealing Surface: Detecting and Understanding Live Webcams in the Wild. | 2020
+Your Noise, My Signal: Exploiting Switching Noise for Stealthy Data Exfiltration from Desktop Computers. | 2020
+Privacy-Utility Tradeoffs in Routing Cryptocurrency over Payment Channel Networks. | 2020
+Understanding (Mis)Behavior on the EOSIO Blockchain. | 2020
+Optimal Data Placement for Heterogeneous Cache, Memory, and Storage Systems. | 2020
+Set the Configuration for the Heart of the OS: On the Practicality of Operating System Kernel Debloating. | 2020
+User-level Threading: Have Your Cake and Eat It Too. | 2020
+DSM: A Case for Hardware-Assisted Merging of DRAM Rows with Same Content. | 2020
+Centaur: A Novel Architecture for Reliable, Low-Wear, High-Density 3D NAND Storage. | 2020
+Rateless Codes for Near-Perfect Load Balancing in Distributed Matrix-Vector Multiplication. | 2020
+Logarithmic Communication for Distributed Optimization in Multi-Agent Systems. | 2020
+Partial Recovery of Erdős-Rényi Graph Alignment via k-Core Alignment. | 2020
+Fiedler Vector Approximation via Interacting Random Walks. | 2020
+Third-Party Data Providers Ruin Simple Mechanisms. | 2020
+Dynamic Pricing and Matching for Two-Sided Queues. | 2020
+Unimodal Bandits with Continuous Arms: Order-optimal Regret without Smoothness. | 2020
+Optimal Bidding Strategies for Online Ad Auctions with Overlapping Targeting Criteria. | 2020
+SIGMETRICS '21: ACM SIGMETRICS / International Conference on Measurement and Modeling of Computer Systems, Virtual Event, China, June 14-18, 2021. | 2021
+Opening the Black Box of Deep Learning: Some Lessons and Take-aways. | 2021
+Federated Bandit: A Gossiping Approach. | 2021
+Statistically Efficient, Polynomial-Time Algorithms for Combinatorial Semi-Bandits. | 2021
+Information Aggregation for Constrained Online Control. | 2021
+Online Virtual Machine Allocation with Lifetime and Load Predictions. | 2021
+Nudge: Stochastically Improving upon FCFS. | 2021
+Zero Queueing for Multi-Server Jobs. | 2021
+The Gittins Policy is Nearly Optimal in the M/G/k under Extremely General Conditions. | 2021
+Where did my 256 GB go? A Measurement Analysis of Storage Consumption on Smart Mobile Devices. | 2021
+A Measurement Study of Wechat Mini-Apps. | 2021
+PredictRoute: A Network Path Prediction Toolkit. | 2021
+A Look Behind the Curtain: Traffic Classification in an Increasingly Encrypted Web. | 2021
+Achieving Zero Asymptotic Queueing Delay for Parallel Jobs. | 2021
+Achievable Stability in Redundancy Systems. | 2021
+On the Asymptotic Insensitivity of the Supermarket Model in Processor Sharing Systems. | 2021
+Refining Mean-field Approximations by Dynamic State Truncation. | 2021
+Tracking Counterfeit Cryptocurrency End-to-end. | 2021
+SADPonzi: Detecting and Characterizing Ponzi Schemes in Ethereum Smart Contracts. | 2021
+adPerf: Characterizing the Performance of Third-party Ads. | 2021
+AI for System - Infusing AI into Cloud Computing Systems. | 2021
+A Systematic Framework to Identify Violations of Scenario-dependent Driving Rules in Autonomous Vehicle Software. | 2021
+SUGAR: Speeding Up GPGPU Application Resilience Estimation with Input Sizing. | 2021
+Mix and Match: Reorganizing Tasks for Enhancing Data Locality. | 2021
+Optimal Load Balancing with Locality Constraints. | 2021
+Load Balancing Under Strict Compatibility Constraints. | 2021
+Mean Waiting Time in Large-Scale and Critically Loaded Power of d Load Balancing Systems. | 2021
+Improving the Performance of Heterogeneous Data Centers through Redundancy. | 2021
+On Private Peering Agreements between Content and Access Providers: A Contractual Equilibrium Analysis. | 2021
+I Know What You Bought At Chipotle for $9.81 by Solving A Linear Inverse Problem. | 2021
+Dynamic Pricing and Matching for Two-Sided Markets with Strategic Servers. | 2021
+Revisiting Modified Greedy Algorithm for Monotone Submodular Maximization with a Knapsack Constraint. | 2021
+Approximation Algorithms for Submodular Data Summarization with a Knapsack Constraint. | 2021
+Competitive Algorithms for the Online Multiple Knapsack Problem with Application to Electric Vehicle Charging. | 2021
+Enabling Intelligent Services at the Network Edge. | 2021
+Input-Dynamic Distributed Algorithms for Communication Networks. | 2021
+Real-time Approximate Routing for Smart Transit Systems. | 2021
+Bregman-style Online Convex Optimization with Energy Harvesting Constraints. | 2021
+The Power of D-hops in Matching Power-Law Graphs. | 2021
+Chasm in Hegemony: Explaining and Reproducing Disparities in Homophilous Networks. | 2021
+Magma: A Ground-Truth Fuzzing Benchmark. | 2021
+Stay Connected, Leave no Trace: Enhancing Security and Privacy in WiFi via Obfuscating Radiometric Fingerprints. | 2021

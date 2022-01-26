@@ -1,0 +1,299 @@
+Proceedings of the 39th ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2018, Philadelphia, PA, USA, June 18-22, 2018. | 2018
+Verifying that web pages have accessible layout. | 2018
+BLeak: automatically debugging memory leaks in web applications. | 2018
+Putting in all the stops: execution control for JavaScript. | 2018
+Persistency for synchronization-free regions. | 2018
+Write-rationing garbage collection for hybrid memories. | 2018
+Mapping spiking neural networks onto a manycore neuromorphic architecture. | 2018
+Static serializability analysis for causal consistency. | 2018
+CUBA: interprocedural Context-UnBounded Analysis of concurrent programs. | 2018
+Symbolic reasoning for automatic signal placement. | 2018
+Advanced automata-based algorithms for program termination checking. | 2018
+HHVM JIT: a profile-guided, region-based compiler for PHP and Hack. | 2018
+On-stack replacement, distilled. | 2018
+EffectiveSan: type and memory error detection using dynamically typed C/C++. | 2018
+Calling-to-reference context translation via constraint-guided CFL-reachability. | 2018
+The semantics of transactions and weak memory in x86, Power, ARM, and C++. | 2018
+MixT: a language for mixing consistency in geodistributed transactions. | 2018
+Bounding data races in space and time. | 2018
+Finding root causes of floating point error. | 2018
+Ryū: fast float-to-string conversion. | 2018
+To-many or to-one? all-in-one! efficient purely functional multi-maps with type-heterogeneous hash-tries. | 2018
+Spatial: a language and compiler for application accelerators. | 2018
+Enhancing computation-to-core assignment with physical location information. | 2018
+SWOOP: software-hardware co-design for non-speculative, execute-ahead, in-order cores. | 2018
+iReplayer: in-situ and identical record-and-replay for multithreaded applications. | 2018
+D4: fast concurrency debugging with parallel differential analysis. | 2018
+High-coverage, unbounded sound predictive race detection. | 2018
+CURD: a dynamic CUDA race detector. | 2018
+A general path-based representation for predicting program properties. | 2018
+Program synthesis using conflict-driven learning. | 2018
+Accelerating search-based program synthesis using learned probabilistic models. | 2018
+Inferring crypto API rules from code changes. | 2018
+Automated clustering and program repair for introductory programming assignments. | 2018
+Search, align, and repair: data-driven feedback generation for introductory programming exercises. | 2018
+Bounded expectations: resource analysis for probabilistic programs. | 2018
+PMAF: an algebraic framework for static analysis of probabilistic programs. | 2018
+Polyhedral auto-transformation with no integer linear programming. | 2018
+Partial control-flow linearization. | 2018
+Locality analysis through static parallel sampling. | 2018
+Incremental inference for probabilistic programs. | 2018
+Bayonet: probabilistic inference for networks. | 2018
+Probabilistic programming with programmable inference. | 2018
+VeriPhy: verified controller executables from verified cyber-physical system models. | 2018
+Crellvm: verified credible compilation for LLVM. | 2018
+Certified concurrent abstraction layers. | 2018
+Modularity for decidability of deductive verification with applications to distributed systems. | 2018
+Active learning of points-to specifications. | 2018
+Pinpoint: fast and precise sparse value flow analysis for million lines of code. | 2018
+A data-driven CHC solver. | 2018
+User-guided program reasoning using Bayesian inference. | 2018
+GPU code optimization using abstract kernel emulation and sensitivity analysis. | 2018
+Gluon: a communication-optimizing substrate for distributed heterogeneous graph analytics. | 2018
+Heartbeat scheduling: provable efficiency for nested parallelism. | 2018
+Guarded impredicative polymorphism. | 2018
+Typed closure conversion for the calculus of constructions. | 2018
+Inferring type rules for syntactic sugar. | 2018
+Proceedings of the 40th ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2019, Phoenix, AZ, USA, June 22-26, 2019. | 2019
+Promising-ARM/RISC-V: a simpler and faster operational concurrency model. | 2019
+Accelerating sequential consistency for Java with speculative compilation. | 2019
+Renaissance: benchmarking suite for parallel applications on the JVM. | 2019
+LoCal: a language for programs operating on serialized data. | 2019
+Scenic: a language for scenario specification and scene generation. | 2019
+Compiling KB-sized machine learning models to tiny IoT devices. | 2019
+Model checking for weakly consistent libraries. | 2019
+Towards certified separate compilation for concurrent programs. | 2019
+Robustness against release/acquire semantics. | 2019
+CHET: an optimizing compiler for fully-homomorphic neural-network inferencing. | 2019
+Usuba: high-throughput and constant-time ciphers, by construction. | 2019
+FaCT: a DSL for timing-sensitive computation. | 2019
+Scalable verification of probabilistic networks. | 2019
+Cost analysis of nondeterministic probabilistic programs. | 2019
+Gen: a general-purpose probabilistic programming system with programmable inference. | 2019
+Incremental precision-preserving symbolic inference for probabilistic programs. | 2019
+Resource-guided program synthesis. | 2019
+Using active learning to synthesize models of applications that access databases. | 2019
+Synthesizing database programs for schema refactoring. | 2019
+Synthesis and machine learning for heterogeneous extraction. | 2019
+AutoPersist: an easy-to-use Java NVM framework based on reachability. | 2019
+Mesh: compacting memory management for C/C++ applications. | 2019
+Panthera: holistic memory management for big data processing over hybrid memories. | 2019
+Lightweight multi-language syntax transformation with parser parser combinators. | 2019
+A typed, algebraic approach to parsing. | 2019
+Genie: a generator of natural language semantic parsers for virtual assistant commands. | 2019
+Lazy counterfactual symbolic execution. | 2019
+Sound regular expression semantics for dynamic symbolic execution of JavaScript. | 2019
+Effective floating-point analysis via weak-distance minimization. | 2019
+Huron: hybrid false sharing detection and repair. | 2019
+Model-driven transformations for multi- and many-core CPUs. | 2019
+Parallelism-centric what-if and differential analyses. | 2019
+Verifying message-passing programs with dependent behavioural types. | 2019
+Toward efficient gradual typing for structural types via coercions. | 2019
+Bidirectional type checking for relational properties. | 2019
+Parser-directed fuzzing. | 2019
+Continuously reasoning about programs using differential Bayesian inference. | 2019
+Sparse record and replay with controlled scheduling. | 2019
+Sparse computation data dependence simplification for efficient compiler-generated inspectors. | 2019
+Modular divide-and-conquer parallelization of nested loops. | 2019
+Generating piecewise-regular code from irregular structures. | 2019
+ILC: a calculus for composable, computational cryptography. | 2019
+Proving differential privacy with shadow execution. | 2019
+Data-trace types for distributed stream processing systems. | 2019
+An inductive synthesis framework for verifiable reinforcement learning. | 2019
+Programming support for autonomizing software. | 2019
+Wootz: a compiler-based framework for fast CNN pruning via composability. | 2019
+Optimization and abstraction: a synergistic approach for analyzing neural network robustness. | 2019
+Unsupervised learning of API aliasing specifications. | 2019
+Scalable taint specification inference with big code. | 2019
+Learning stateful preconditions modulo a test generator. | 2019
+SLING: using dynamic analysis to infer program invariants in separation logic. | 2019
+Abstract interpretation under speculative execution. | 2019
+A fast analytical model of fully associative caches. | 2019
+Sound, fine-grained traversal fusion for heterogeneous trees. | 2019
+Size-change termination as a contract: dynamically and statically enforcing termination for higher-order programs. | 2019
+SemCluster: clustering of imperative programming assignments based on quantitative semantic features. | 2019
+Computing summaries of string loops in C for better testing and refactoring. | 2019
+Reusable inline caching for JavaScript performance. | 2019
+Composable, sound transformations of nested recursion and loops. | 2019
+Low-latency graph streaming using compressed purely-functional trees. | 2019
+Co-optimizing memory-level parallelism and cache-level parallelism. | 2019
+Characterising renaming within OCaml's module system: theory and implementation. | 2019
+Type-level computations for Ruby libraries. | 2019
+Replication-aware linearizability. | 2019
+DFix: automatically fixing timing bugs in distributed systems. | 2019
+Ignis: scaling distribution-oblivious systems with light-touch distribution. | 2019
+Semantic program alignment for equivalence checking. | 2019
+Verified compilation on a verified processor. | 2019
+Argosy: verifying layered storage systems with recovery refinement. | 2019
+Simple and precise static analysis of untrusted Linux kernel extensions. | 2019
+Transactional concurrency control for intermittent, energy-harvesting computing systems. | 2019
+Supporting peripherals in intermittent systems with just-in-time checkpoints. | 2019
+Verification of programs under the release-acquire semantics. | 2019
+A complete formal semantics of x86-64 user-level instruction set architecture. | 2019
+An applied quantum Hoare logic. | 2019
+Proceedings of the 41st ACM SIGPLAN International Conference on Programming Language Design and Implementation, PLDI 2020, London, UK, June 15-20, 2020. | 2020
+Data-driven inference of representation invariants. | 2020
+Type error feedback via analytic program repair. | 2020
+Synthesizing structured CAD models with equality saturation and inverse transformations. | 2020
+Compiler and runtime support for continuation marks. | 2020
+Crafty: efficient, HTM-compatible persistent transactions. | 2020
+From folklore to fact: comparing implementations of stacks and continuations. | 2020
+Typilus: neural type hints. | 2020
+Learning nonlinear loop invariants with gated continuous logic networks. | 2020
+Blended, precise semantic program embeddings. | 2020
+Towards a verified range analysis for JavaScript JITs. | 2020
+Binary rewriting without control flow recovery. | 2020
+BlankIt library debloating: getting what you want instead of cutting what you don't. | 2020
+Verifying concurrent search structure templates. | 2020
+Armada: low-effort verification of high-performance concurrent programs. | 2020
+Decidable verification under a causally consistent shared memory. | 2020
+Inductive sequentialization of asynchronous programs. | 2020
+The essence of Bluespec: a core language for rule-based hardware design. | 2020
+LLHD: a multi-level intermediate representation for hardware description languages. | 2020
+On the principles of differentiable quantum programming languages. | 2020
+Silq: a high-level quantum language with safe uncomputation and intuitive semantics. | 2020
+Improving program locality in the GC using hotness. | 2020
+A marriage of pointer- and epoch-based reclamation. | 2020
+CARAT: a case for virtual memory through compiler- and runtime-based address translation. | 2020
+Repairing and mechanising the JavaScript relaxed memory model. | 2020
+Promising 2.0: global optimizations in relaxed memory concurrency. | 2020
+NVTraverse: in NVRAM data structures, the destination is more important than the journey. | 2020
+Predictable accelerator design with time-sensitive affine types. | 2020
+Type-directed scheduling of streaming accelerators. | 2020
+FreezeML: complete and easy type inference for first-class polymorphism. | 2020
+Securing smart contract with runtime validation. | 2020
+Ethainter: a smart contract security analyzer for composite vulnerabilities. | 2020
+Behavioral simulation for smart contracts. | 2020
+Multi-modal synthesis of regular expressions. | 2020
+Optimizing homomorphic evaluation circuits by program synthesis and term rewriting. | 2020
+CacheQuery: learning replacement policies from hardware caches. | 2020
+HipHop.js: (A)Synchronous reactive web programming. | 2020
+EVA: an encrypted vector arithmetic language and compiler for efficient homomorphic computation. | 2020
+Towards an API for the real numbers. | 2020
+Responsive parallelism with futures and state. | 2020
+SympleGraph: distributed graph processing with precise loop-carried dependency guarantee. | 2020
+PMEvo: portable inference of port mappings for out-of-order processors by evolutionary optimization. | 2020
+PMThreads: persistent memory threads harnessing versioned shadow copies. | 2020
+SCAF: a speculation-aware collaborative dependence analysis framework. | 2020
+Scalable validation of binary lifters. | 2020
+Polynomial invariant generation for non-deterministic recursive programs. | 2020
+Templates and recurrences: better together. | 2020
+First-order quantified separators. | 2020
+Validating SMT solvers via semantic fusion. | 2020
+Debugging and detecting numerical errors in computation with posits. | 2020
+SmartTrack: efficient predictive race detection. | 2020
+Understanding memory and thread safety practices and issues in real-world Rust programs. | 2020
+Fast graph simplification for interleaved Dyck-reachability. | 2020
+Static analysis of Java enterprise applications: frameworks and caches, the elephants in the room. | 2020
+Automated derivation of parametric data movement lower bounds for affine programs. | 2020
+Automatic generation of efficient sparse tensor format conversion routines. | 2020
+OOElala: order-of-evaluation based alias analysis for compiler optimization. | 2020
+Effective function merging in the SSA form. | 2020
+Proving almost-sure termination by omega-regular decomposition. | 2020
+λPSI: exact inference for higher-order probabilistic programs. | 2020
+Reactive probabilistic programming. | 2020
+Constant-time foundations for the new spectre era. | 2020
+Gillian, part i: a multi-language platform for symbolic execution. | 2020
+Efficient handling of string-number conversion. | 2020
+NV: an intermediate language for verification of network control planes. | 2020
+Detecting network load violations for distributed control planes. | 2020
+Compiler-directed soft error resilience for lightweight GPU register file protection. | 2020
+Adaptive low-overhead scheduling for periodic and reactive intermittent execution. | 2020
+Faster general parsing through context-free memoization. | 2020
+Zippy LL(1) parsing with derivatives. | 2020
+Debug information validation for optimized code. | 2020
+Semantic code search via equational reasoning. | 2020
+Proving data-poisoning robustness in decision trees. | 2020
+A study of the learnability of relational properties: model counting meets machine learning (MCML). | 2020
+Learning fast and precise numerical analysis. | 2020
+Exact and approximate methods for proving unrealizability of syntax-guided synthesis problems. | 2020
+Question selection for interactive program synthesis. | 2020
+Reconciling enumerative and deductive program synthesis. | 2020
+PLDI '21: 42nd ACM SIGPLAN International Conference on Programming Language Design and Implementation, Virtual Event, Canada, June 20-25, 2021. | 2021
+Incremental whole-program analysis in Datalog with lattices. | 2021
+Revamping hardware persistency models: view-based and axiomatic persistency models for Intel-x86 and Armv8. | 2021
+Repairing serializability bugs in distributed database programs via automated schema refactoring. | 2021
+Gleipnir: toward practical error analysis for Quantum programs. | 2021
+Alive2: bounded translation validation for LLVM. | 2021
+Transfinite Iris: resolving an existential dilemma of step-indexed separation logic. | 2021
+Perceus: garbage free reference counting with reuse. | 2021
+Proof repair across type equivalences. | 2021
+Compiler-assisted object inlining with value fields. | 2021
+Unleashing the hidden power of compiler optimization on binary code difference: an empirical study. | 2021
+RefinedC: automating the foundational verification of C code with refined ownership types. | 2021
+Wire sorts: a language abstraction for safe hardware composition. | 2021
+DeepCuts: a deep learning optimization framework for versatile GPU workloads. | 2021
+Retrofitting effect handlers onto OCaml. | 2021
+Unqomp: synthesizing uncomputation in Quantum circuits. | 2021
+Zooid: a DSL for certified multiparty computation: from mechanised metatheory to certified multiparty processes. | 2021
+Fluid: a framework for approximate concurrency via controlled dependency relaxation. | 2021
+Developer and user-transparent compiler optimization for interactive applications. | 2021
+Demanded abstract interpretation. | 2021
+Learning to find naming issues with big code and small supervision. | 2021
+DIY assistant: a multi-modal end-user programmable virtual assistant. | 2021
+Web question answering with neurosymbolic program synthesis. | 2021
+RbSyn: type- and effect-guided program synthesis. | 2021
+High performance correctly rounded math libraries for 32-bit floating point representations. | 2021
+Porcupine: a synthesizing compiler for vectorized homomorphic encryption. | 2021
+Concolic program repair. | 2021
+Concise, type-safe, and efficient structural diffing. | 2021
+CoStar: a verified ALL(*) parser. | 2021
+Automated conformance testing for JavaScript engines via deep compiler fuzzing. | 2021
+Beyond the elementary representations of program invariants over algebraic data types. | 2021
+Fast and precise certification of transformers. | 2021
+Trace-based control-flow analysis. | 2021
+Compiling Stan to generative probabilistic languages and extension to deep probabilistic programming. | 2021
+Filling typed holes with live GUIs. | 2021
+Concurrent deferred reference counting with constant-time overhead. | 2021
+Quantum abstract interpretation. | 2021
+Central moment analysis for cost accumulators in probabilistic programs. | 2021
+Synthesizing data structure refinements from integrity constraints. | 2021
+Provable repair of deep neural networks. | 2021
+Integration verification across software and hardware for a simple embedded system. | 2021
+Symbolic Boolean derivatives for efficiently solving extended regular expression constraints. | 2021
+Abstraction for conflict-free replicated data types. | 2021
+Boosting SMT solver performance on mixed-bitwise-arithmetic expressions. | 2021
+Distance-in-time versus distance-in-space. | 2021
+An efficient interpreter for Datalog by de-specializing relations. | 2021
+Adaptive restarts for stochastic synthesis. | 2021
+Scooter & Sidecar: a domain-specific approach to writing secure database migrations. | 2021
+When threads meet events: efficient and precise static race detection with origins. | 2021
+Viaduct: an extensible, optimizing compiler for secure distributed programs. | 2021
+Reticle: a virtual machine for programming modern FPGAs. | 2021
+Polynomial reachability witnesses via Stellensätze. | 2021
+Sound probabilistic inference via guide types. | 2021
+SPPL: probabilistic programming with fast exact symbolic inference. | 2021
+Reverse engineering for reduction parallelization via semiring polynomials. | 2021
+DreamCoder: bootstrapping inductive program synthesis with wake-sleep library learning. | 2021
+Automatically enforcing fresh and consistent inputs in intermittent systems. | 2021
+Modular data-race-freedom guarantees in the promising semantics. | 2021
+DNNFusion: accelerating deep neural networks execution with advanced operator fusion. | 2021
+SyRust: automatic testing of Rust libraries with semantic-aware program synthesis. | 2021
+Chianina: an evolving graph system for flow- and context-sensitive analyses of million lines of C code. | 2021
+Path-sensitive sparse analysis without path conditions. | 2021
+Cyclic program synthesis. | 2021
+Hashing modulo alpha-equivalence. | 2021
+Phased synthesis of divide and conquer programs. | 2021
+Snapshot-free, transparent, and robust memory reclamation for lock-free data structures. | 2021
+Logical bytecode reduction. | 2021
+Test-case reduction and deduplication almost for free with transformation-based compiler testing. | 2021
+Proving non-termination by program reversal. | 2021
+Vectorized secure evaluation of decision forests. | 2021
+Task parallel assembly language for uncompromising parallelism. | 2021
+JPortal: precise and efficient control-flow tracing for JVM programs with Intel processor trace. | 2021
+CompCertO: compiling certified open C components. | 2021
+Example-guided synthesis of relational queries. | 2021
+Canary: practical static detection of inter-thread value-flow bugs. | 2021
+Robustness certification with generative models. | 2021
+Execution reconstruction: harnessing failure reoccurrences for failure reproduction. | 2021
+Quantitative analysis of assertion violations in probabilistic programs. | 2021
+IOOpt: automatic derivation of I/O complexity bounds for affine programs. | 2021
+Specification synthesis with constrained Horn clauses. | 2021
+Mirror: making lock-free data structures persistent. | 2021
+AKG: automatic kernel generation for neural processing units using polyhedral transformations. | 2021
+Frequent background polling on a shared thread, using light-weight compiler interrupts. | 2021
+Satisfiability modulo ordering consistency theory for multi-threaded program verification. | 2021
+Bliss: auto-tuning complex applications using a pool of diverse lightweight learning models. | 2021
+Termination analysis without the tears. | 2021
+On probabilistic termination of functional programs with continuous distributions. | 2021
+Practical smart contract sharding with ownership and commutativity analysis. | 2021
